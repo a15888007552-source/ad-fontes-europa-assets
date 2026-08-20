@@ -17,6 +17,10 @@ jobs:
         with:
           python-version: '3.12'
       - name: Download and index Wikimedia images
+        env:
+          CACHE_BATCH_ONLY: '1'
+          CACHE_BATCH_START: '0'
+          CACHE_BATCH_END: '10'
         run: python scripts/cache_images.py
       - name: Commit refreshed cache
         shell: bash
