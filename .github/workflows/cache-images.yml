@@ -2,6 +2,15 @@ name: Cache Europa Wikimedia images
 
 on:
   workflow_dispatch:
+    inputs:
+      batch_start:
+        description: 'First source row index (inclusive)'
+        required: true
+        default: '180'
+      batch_end:
+        description: 'Last source row index (exclusive)'
+        required: true
+        default: '200'
 
 permissions:
   contents: write
@@ -19,8 +28,8 @@ jobs:
       - name: Download and index Wikimedia images
         env:
           CACHE_BATCH_ONLY: '1'
-          CACHE_BATCH_START: '158'
-          CACHE_BATCH_END: '180'
+          CACHE_BATCH_START: ${{ inputs.batch_start }}
+          CACHE_BATCH_END: ${{ inputs.batch_end }}
         run: python scripts/cache_images.py
       - name: Commit refreshed cache
         shell: bash
