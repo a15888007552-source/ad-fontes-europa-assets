@@ -1,6 +1,6 @@
 {
   "schema": "ad-fontes-europa-poi-assets/v1",
-  "generatedAt": "2026-08-20T16:35:01.573291+00:00",
+  "generatedAt": "2026-08-20T23:00:01.112643+00:00",
   "source": "Wikipedia/Wikimedia API (zh.wikipedia.org and upload.wikimedia.org)",
   "notes": [
     "Only images served from upload.wikimedia.org were cached.",
@@ -8,7 +8,7 @@
     "A blank or unknown license field still requires manual attribution review."
   ],
   "total": 158,
-  "downloaded": 12,
+  "downloaded": 25,
   "rows": [
     {
       "index": 0,
@@ -331,7 +331,12 @@
       "music": "门德尔松创办的音乐教育传统在这里延续；学院与格万豪斯、歌剧院和城市合唱制度共同构成莱比锡音乐生态。",
       "key": "莱比锡|莱比锡音乐与戏剧学院",
       "asset": null,
-      "status": "no-wikipedia-page"
+      "status": "no-image",
+      "sourceTitle": "莱比锡音乐与戏剧学院",
+      "sourcePage": "https://zh.wikipedia.org/wiki/%E8%8E%B1%E6%AF%94%E9%94%A1%E9%9F%B3%E4%B9%90%E4%B8%8E%E6%88%8F%E5%89%A7%E5%AD%A6%E9%99%A2",
+      "searchUsed": false,
+      "extract": "",
+      "imageSource": ""
     },
     {
       "index": 11,
@@ -344,11 +349,23 @@
         51.34
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
       "music": "博物馆位于托马斯教堂旁，集中呈现巴赫家族、莱比锡城市乐职和手稿声学材料。",
       "key": "莱比锡|巴赫博物馆",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-011-c7ed7b71eb.jpg",
+      "status": "downloaded",
+      "sourceTitle": "Bosehaus Leipzig Straßenfront 1.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Bosehaus_Leipzig_Stra%C3%9Fenfront_1.jpg",
+      "searchUsed": false,
+      "extract": "",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Bosehaus_Leipzig_Stra%C3%9Fenfront_1.jpg",
+      "license": "CC BY-SA 3.0",
+      "usageTerms": "Creative Commons Attribution-Share Alike 3.0",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Geisler_Martin\" title=\"User:Geisler Martin\">Geisler Martin</a>",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Bosehaus_Leipzig_Stra%C3%9Fenfront_1.jpg/1280px-Bosehaus_Leipzig_Stra%C3%9Fenfront_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Bosehaus_Leipzig_Stra%C3%9Fenfront_1.jpg/1280px-Bosehaus_Leipzig_Stra%C3%9Fenfront_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "bytes": 696397,
+      "contentType": "image/jpeg"
     },
     {
       "index": 12,
@@ -361,11 +378,23 @@
         47.802
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
       "music": "从莫扎特纪念传统发展而来的现代音乐与表演艺术大学；城市节庆、演奏教育和莫扎特研究在此交汇。",
       "key": "萨尔茨堡|莫扎特大学",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-012-e4b0f4d073.jpg",
+      "status": "downloaded",
+      "sourceTitle": "MOZART UNIVERSITY-SALZBURG-Dr. Murali Mohan Gurram.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:MOZART_UNIVERSITY-SALZBURG-Dr._Murali_Mohan_Gurram.jpg",
+      "searchUsed": false,
+      "extract": "",
+      "filePage": "https://commons.wikimedia.org/wiki/File:MOZART_UNIVERSITY-SALZBURG-Dr._Murali_Mohan_Gurram.jpg",
+      "license": "CC BY-SA 3.0 at",
+      "usageTerms": "Creative Commons Attribution-Share Alike 3.0 at",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Dr_Murali_Mohan_Gurram\" title=\"User:Dr Murali Mohan Gurram\">Dr Murali Mohan Gurram</a>",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/f/f4/MOZART_UNIVERSITY-SALZBURG-Dr._Murali_Mohan_Gurram.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/f/f4/MOZART_UNIVERSITY-SALZBURG-Dr._Murali_Mohan_Gurram.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "bytes": 312365,
+      "contentType": "image/jpeg"
     },
     {
       "index": 13,
@@ -382,7 +411,12 @@
       "music": "意大利重要的高等音乐教育机构；米兰歌剧院、出版业与声乐训练共同塑造了意大利歌剧职业制度。",
       "key": "米兰|米兰威尔第音乐学院",
       "asset": null,
-      "status": "no-wikipedia-page"
+      "status": "no-image",
+      "sourceTitle": "米兰威尔第音乐学院",
+      "sourcePage": "https://zh.wikipedia.org/wiki/%E7%B1%B3%E5%85%B0%E5%A8%81%E5%B0%94%E7%AC%AC%E9%9F%B3%E4%B9%90%E5%AD%A6%E9%99%A2",
+      "searchUsed": false,
+      "extract": "",
+      "imageSource": ""
     },
     {
       "index": 14,
@@ -395,11 +429,23 @@
         45.48
       ],
       "img": null,
-      "credit": null,
+      "credit": "No machine-readable source provided. Own work assumed (based on copyright claims).",
       "music": "威尔第晚年创建的音乐家安养院；它既是作曲家故居，也是意大利音乐家社会保障观念的历史见证。",
       "key": "米兰|威尔第之家 Casa Verdi",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-014-bb36487fc4.jpg",
+      "status": "downloaded",
+      "sourceTitle": "Casa di Riposo per Musicisti a Milano.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Casa_di_Riposo_per_Musicisti_a_Milano.jpg",
+      "searchUsed": false,
+      "extract": "",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Casa_di_Riposo_per_Musicisti_a_Milano.jpg",
+      "license": "CC BY-SA 3.0",
+      "usageTerms": "Creative Commons Attribution-Share Alike 3.0",
+      "artist": "No machine-readable author provided. <a href=\"//commons.wikimedia.org/wiki/User:Folini\" title=\"User:Folini\">Folini</a> assumed (based on copyright claims).",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Casa_di_Riposo_per_Musicisti_a_Milano.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Casa_di_Riposo_per_Musicisti_a_Milano.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "bytes": 108900,
+      "contentType": "image/jpeg"
     },
     {
       "index": 15,
@@ -412,11 +458,23 @@
         41.929
       ],
       "img": null,
-      "credit": null,
+      "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.londonmandolinensemble.org.uk/blog\">Here</a>",
       "music": "从教会音乐传统发展为现代交响乐团与音乐学院；它把罗马的礼仪遗产与现代公共音乐会连接起来。",
       "key": "罗马|圣切契利亚国立学院",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-015-ba74f7c9c6.jpg",
+      "status": "downloaded",
+      "sourceTitle": "Academy santa cecilia musicians.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Academy_santa_cecilia_musicians.jpg",
+      "searchUsed": false,
+      "extract": "",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Academy_santa_cecilia_musicians.jpg",
+      "license": "Public domain",
+      "usageTerms": "Public domain",
+      "artist": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Academy_santa_cecilia_musicians.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Academy_santa_cecilia_musicians.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "bytes": 59996,
+      "contentType": "image/jpeg"
     },
     {
       "index": 16,
@@ -429,11 +487,21 @@
         50.087
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
       "music": "捷克高等音乐教育的核心机构，承接斯美塔那、德沃夏克以来的民族乐派与现代演奏传统。",
       "key": "布拉格|布拉格表演艺术学院 HAMU",
       "asset": null,
-      "status": "no-wikipedia-page"
+      "status": "error",
+      "sourceTitle": "AMuparty18.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:AMuparty18.jpg",
+      "searchUsed": false,
+      "extract": "",
+      "filePage": "https://commons.wikimedia.org/wiki/File:AMuparty18.jpg",
+      "license": "CC BY-SA 4.0",
+      "usageTerms": "Creative Commons Attribution-Share Alike 4.0",
+      "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Pavter&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Pavter (page does not exist)\">Pavter</a>",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/AMuparty18.jpg/1280px-AMuparty18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "error": "HTTP Error 429: Too many requests (f061ab2)"
     },
     {
       "index": 17,
@@ -446,11 +514,27 @@
         50.074
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
       "music": "以德沃夏克手稿、文献与纪念空间呈现捷克作曲家如何在民族语汇与国际交响体裁之间工作。",
       "key": "布拉格|德沃夏克博物馆",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-017-f356e7ab24.jpg",
+      "status": "downloaded",
+      "sourceTitle": "Antonín Dvořák Museum",
+      "sourcePage": "https://en.wikipedia.org/wiki/Anton%C3%ADn_Dvo%C5%99%C3%A1k_Museum",
+      "searchUsed": false,
+      "extract": "The Antonín Dvořák Museum (Czech: Muzeum Antonína Dvořáka) is a museum in Prague in the Czech Republic dedicated to the Czech composer Antonín Dvořák.",
+      "coordinates": {
+        "lat": 50.0735103,
+        "lon": 14.4269023
+      },
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Vila_Amerika_3.jpg/1280px-Vila_Amerika_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Vila_Amerika_3.jpg/1280px-Vila_Amerika_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bytes": 621652,
+      "contentType": "image/jpeg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Vila_Amerika_3.jpg",
+      "license": "CC BY-SA 4.0",
+      "usageTerms": "Creative Commons Attribution-Share Alike 4.0",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:VitVit\" title=\"User:VitVit\">VitVit</a>"
     },
     {
       "index": 18,
@@ -463,11 +547,27 @@
         47.505
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
       "music": "李斯特创办的高等音乐教育机构；巴托克、柯达伊及匈牙利现代音乐教育都与此传统相连。",
       "key": "布达佩斯|李斯特音乐学院",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-018-d2cf5d2d6a.jpg",
+      "status": "downloaded",
+      "sourceTitle": "Franz Liszt Academy of Music",
+      "sourcePage": "https://en.wikipedia.org/wiki/Franz_Liszt_Academy_of_Music",
+      "searchUsed": false,
+      "extract": "The Franz Liszt Academy of Music (Hungarian: Liszt Ferenc Zeneművészeti Egyetem, often abbreviated as Zeneakadémia, \"Music Academy\") is a music university and a concert hall in Budapest, Hungary, founded on 14 November 1875. It is home to the Liszt Collection, which features several valuable books and manuscripts donated by Franz Liszt upon his death, and the AVISO studio, a collaboration between the governments of Hungary and Japan to provide sound recording equipment and training for students. The Franz Liszt Academy of Music was founded by Franz Liszt himself (though named after its founder only in 1925, about 50 years after it was relocated to its current location at the heart of Budapest).",
+      "coordinates": {
+        "lat": 47.50324722,
+        "lon": 19.06451667
+      },
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Liszt_Ferenc_Zenem%C5%B1v%C3%A9szeti_Egyetem_2013-ban_fel%C3%BAj%C3%ADtott_homlokzata.JPG/1280px-Liszt_Ferenc_Zenem%C5%B1v%C3%A9szeti_Egyetem_2013-ban_fel%C3%BAj%C3%ADtott_homlokzata.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Liszt_Ferenc_Zenem%C5%B1v%C3%A9szeti_Egyetem_2013-ban_fel%C3%BAj%C3%ADtott_homlokzata.JPG/1280px-Liszt_Ferenc_Zenem%C5%B1v%C3%A9szeti_Egyetem_2013-ban_fel%C3%BAj%C3%ADtott_homlokzata.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bytes": 416166,
+      "contentType": "image/jpeg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Liszt_Ferenc_Zenem%C5%B1v%C3%A9szeti_Egyetem_2013-ban_fel%C3%BAj%C3%ADtott_homlokzata.JPG",
+      "license": "CC BY-SA 3.0",
+      "usageTerms": "Creative Commons Attribution-Share Alike 3.0",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Thaler\" title=\"User:Thaler\">Thaler</a>"
     },
     {
       "index": 19,
@@ -480,11 +580,23 @@
         40.773
       ],
       "img": null,
-      "credit": null,
+      "credit": "Original Photograph",
       "music": "美国最具国际影响力的表演艺术学院之一；林肯中心的剧场网络使学院训练直接连接到职业舞台。",
       "key": "纽约|茱莉亚学院",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-019-3d692411db.jpg",
+      "status": "downloaded",
+      "sourceTitle": "茱莉亞學院",
+      "sourcePage": "https://zh.wikipedia.org/wiki/%E8%8C%B1%E8%8E%89%E4%BA%9E%E5%AD%B8%E9%99%A2",
+      "searchUsed": false,
+      "extract": "茱莉亞學院（英語：The Juilliard School），也称茱莉亞學校，是世界顶级的表演藝術學校之一，成立于1905年，坐落于美國纽约市曼哈顿上西城的林肯表演艺术中心。學校的課程分為舞蹈、戲劇與音樂三個專業學科。",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Juilliard_School_-_Alice_Tully_Hall.jpg/1280px-Juilliard_School_-_Alice_Tully_Hall.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Juilliard_School_-_Alice_Tully_Hall.jpg/1280px-Juilliard_School_-_Alice_Tully_Hall.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bytes": 372179,
+      "contentType": "image/jpeg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Juilliard_School_-_Alice_Tully_Hall.jpg",
+      "license": "CC BY-SA 4.0",
+      "usageTerms": "Creative Commons Attribution-Share Alike 4.0",
+      "artist": "Paul Masck"
     },
     {
       "index": 20,
@@ -497,11 +609,23 @@
         42.377
       ],
       "img": null,
-      "credit": null,
+      "credit": "",
       "music": "这里不是音乐学院，而是音乐学、民族音乐学、历史音乐研究与跨学科人文学的重要综合大学节点；标记它是为了呈现音乐知识如何进入大学制度。",
       "key": "波士顿|哈佛大学",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-020-7b209ee6e6.png",
+      "status": "downloaded",
+      "sourceTitle": "哈佛大学",
+      "sourcePage": "https://zh.wikipedia.org/wiki/%E5%93%88%E4%BD%9B%E5%A4%A7%E5%AD%A6",
+      "searchUsed": false,
+      "extract": "哈佛大學（英語：Harvard University）為一所本部坐落於美國麻省劍橋市的私立研究型大學。其因歷史、學術影響力、財富等因素而獲評為世上最享負盛名的學府之一。\n哈佛於1636年由當地的殖民地立法機關立案成立，迄今為全美歷史最悠久的高等學府，並擁有北美最古老的校董委員會。其最初稱之為「新學院」，該機構為了感謝一名年輕的加尔文宗牧師約翰·哈佛所作出的捐贈，而改名為「哈佛學院」。雖然從沒有與任何宗教派別有正式的聯繫，然而早期的學院還是以培養公理會及一位論派神職者為主要職責。但自18世紀起，其課程與學生群體的宗教性質漸漸淡化，而19世紀的哈佛則進一步成為波士頓菁英的文化起源地。美國南北戰爭後，當時的校長查爾斯·艾略特將哈佛各個學術機構綜合成一所研究型大學，並增添小班授課以及入學考試，而這些模式同時也影響國家的中高等教育政策。此校亦為美洲大學協會12個創始成員之一，並在經濟大蕭條及二次大戰後進一步修改課程及收生政策，後與拉德克利夫學院合併成為男女校。\n校方目前共有十所學院及一所高等研究院，這些單位遍佈鄰近各區：其本部位於劍橋的哈佛园；醫學、公共衛生及牙醫學院位於波士頓的長木醫學區；而包括哈佛體育場在內的大學體育設施以及商學院則在奧爾斯頓。哈佛同時擁有龐大的資產，每年所收到的捐款回贈數目長期位列全球教育機構之首。\n哈佛大學為全美最難入讀的學府之一。學校的研究生課程較為多元化，而學士教育則主要集中在文理學範疇。校方在2007年起實行財政援助政策，家庭年收入低於一定數目的學生獲得不同程度的學費豁免。哈佛擁有全美最古老的圖書館系統，這同時也是全球最具規模的私立及大學圖書館系統，館藏量逾1,600萬冊。其為常春藤盟校成員之一，現共有42支參與不同運動競賽的代表隊，屬全美大學體育協會甲組。除了體育，學生的課外生活還包括各個學會所舉辦的活動。哈佛校友涵蓋8名美國總統及多國領袖與政治要員；其亦培養了62名富翁企業家及335位羅德學者，人數均為全美最多。截止2020年10月，共有161名諾貝爾獎得主、18位菲尔兹奖得主、14位图灵奖得主現在或曾經在哈佛學習或工作。",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Harvard_University_coat_of_arms.svg/1280px-Harvard_University_coat_of_arms.svg.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Harvard_University_coat_of_arms.svg/1280px-Harvard_University_coat_of_arms.svg.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bytes": 437037,
+      "contentType": "image/png",
+      "filePage": "",
+      "license": "",
+      "usageTerms": "",
+      "artist": ""
     },
     {
       "index": 21,
@@ -518,7 +642,17 @@
       "music": "以爵士、流行、作曲、制作和当代音乐产业教育闻名；它代表波士顿音乐教育中不同于古典学院的另一条现代路径。",
       "key": "波士顿|伯克利音乐学院",
       "asset": null,
-      "status": "no-wikipedia-page"
+      "status": "error",
+      "sourceTitle": "伯克利音樂學院",
+      "sourcePage": "https://zh.wikipedia.org/wiki/%E4%BC%AF%E5%85%8B%E5%88%A9%E9%9F%B3%E6%A8%82%E5%AD%B8%E9%99%A2",
+      "searchUsed": false,
+      "extract": "伯克利音乐学院（英語：Berklee College of Music）是一所位于美国马萨诸塞州波士顿的独立音乐学院，建校于1945年。于2012年设立了西班牙校区。2015年12月，伯克利音乐学院与波士顿音乐学院（1867年建立）合并，合并后全称为波士顿伯克利音乐学院（Boston Conservatory at Berklee），简称“伯克利”。截至2018年其校友獲得了多達300座葛萊美獎。\n该校约有5,241名学生，专注于美国流行音乐与爵士乐教学，學制为四年，并有资格颁发学位。",
+      "coordinates": {
+        "lat": 42.34638889,
+        "lon": -71.08694444
+      },
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Berklee.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "error": "HTTP Error 429: Too many requests (f061ab2)"
     },
     {
       "index": 22,
@@ -531,11 +665,23 @@
         41.312
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
       "music": "耶鲁的音乐学院与大学人文学科、演出机构共同构成美国学院音乐体系；欣德米特曾在耶鲁执教。",
       "key": "新港|耶鲁音乐学院",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-022-6e91a95a8d.jpg",
+      "status": "downloaded",
+      "sourceTitle": "YaleSchoolOfMusicMorseRecitalHall.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:YaleSchoolOfMusicMorseRecitalHall.jpg",
+      "searchUsed": false,
+      "extract": "",
+      "filePage": "https://commons.wikimedia.org/wiki/File:YaleSchoolOfMusicMorseRecitalHall.jpg",
+      "license": "CC BY-SA 4.0",
+      "usageTerms": "Creative Commons Attribution-Share Alike 4.0",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:DanielPenfield\" title=\"User:DanielPenfield\">DanielPenfield</a>",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/YaleSchoolOfMusicMorseRecitalHall.jpg/1280px-YaleSchoolOfMusicMorseRecitalHall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/YaleSchoolOfMusicMorseRecitalHall.jpg/1280px-YaleSchoolOfMusicMorseRecitalHall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "bytes": 272365,
+      "contentType": "image/jpeg"
     },
     {
       "index": 23,
@@ -548,11 +694,27 @@
         39.95
       ],
       "img": null,
-      "credit": null,
+      "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.curtis.edu\">https://www.curtis.edu</a>",
       "music": "以小规模、师徒制和高强度演奏训练闻名；它是费城交响乐传统与美国职业音乐教育的重要节点。",
       "key": "费城|柯蒂斯音乐学院",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-023-bed905ebec.png",
+      "status": "downloaded",
+      "sourceTitle": "Curtis Institute of Music",
+      "sourcePage": "https://en.wikipedia.org/wiki/Curtis_Institute_of_Music",
+      "searchUsed": false,
+      "extract": "The Curtis Institute of Music is a private conservatory in Philadelphia. It offers a performance diploma, a Bachelor of Music, Master of Music in opera, and a Professional Studies Certificate in opera. All students attend on a full scholarship. The Institute also offers needs based financial aid to help cover living expenses.",
+      "coordinates": {
+        "lat": 39.9488,
+        "lon": -75.1706
+      },
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Curtis_Institute_of_Music_Wordmark_2024.png/1280px-Curtis_Institute_of_Music_Wordmark_2024.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Curtis_Institute_of_Music_Wordmark_2024.png/1280px-Curtis_Institute_of_Music_Wordmark_2024.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bytes": 46424,
+      "contentType": "image/png",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Curtis_Institute_of_Music_Wordmark_2024.png",
+      "license": "CC BY-SA 4.0",
+      "usageTerms": "Creative Commons Attribution-Share Alike 4.0",
+      "artist": "Curtis Institute of Music"
     },
     {
       "index": 24,
@@ -565,11 +727,21 @@
         34.022
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
       "music": "把古典演奏、爵士、作曲、电影配乐和音乐产业教育置于洛杉矶的影视工业语境中。",
       "key": "洛杉矶|南加州大学桑顿音乐学院",
       "asset": null,
-      "status": "no-wikipedia-page"
+      "status": "error",
+      "sourceTitle": "USC Thornton School of Music Newman Recital Hall.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:USC_Thornton_School_of_Music_Newman_Recital_Hall.jpg",
+      "searchUsed": false,
+      "extract": "",
+      "filePage": "https://commons.wikimedia.org/wiki/File:USC_Thornton_School_of_Music_Newman_Recital_Hall.jpg",
+      "license": "CC BY-SA 4.0",
+      "usageTerms": "Creative Commons Attribution-Share Alike 4.0",
+      "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Egallo25&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Egallo25 (page does not exist)\">Egallo25</a> 2021-07-09 10:40:11",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/USC_Thornton_School_of_Music_Newman_Recital_Hall.jpg/1280px-USC_Thornton_School_of_Music_Newman_Recital_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "error": "HTTP Error 429: Your request does not comply with our robot policy, https://w.wiki/4wJS. Please contact noc@wikimedia.org for further information (0fa5166)"
     },
     {
       "index": 25,
@@ -582,11 +754,21 @@
         59.93
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
       "music": "俄罗斯最早的高等音乐教育机构之一；里姆斯基-科萨科夫的教学把民族乐派的配器与学院制度结合起来。",
       "key": "圣彼得堡|里姆斯基-科萨科夫音乐学院",
       "asset": null,
-      "status": "no-wikipedia-page"
+      "status": "error",
+      "sourceTitle": "Octavo Festival Internacional del Conservatorio Rimsky-Korsakov en San Petersburgo (Rusia).JPG",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Octavo_Festival_Internacional_del_Conservatorio_Rimsky-Korsakov_en_San_Petersburgo_(Rusia).JPG",
+      "searchUsed": false,
+      "extract": "",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Octavo_Festival_Internacional_del_Conservatorio_Rimsky-Korsakov_en_San_Petersburgo_(Rusia).JPG",
+      "license": "CC BY-SA 4.0",
+      "usageTerms": "Creative Commons Attribution-Share Alike 4.0",
+      "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Vidayvision&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Vidayvision (page does not exist)\">Vidayvision</a>",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/8/85/Octavo_Festival_Internacional_del_Conservatorio_Rimsky-Korsakov_en_San_Petersburgo_%28Rusia%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "error": "HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
     },
     {
       "index": 26,
@@ -602,8 +784,20 @@
       "credit": null,
       "music": "俄罗斯演奏、作曲与音乐理论教育的核心机构；柴可夫斯基、拉赫玛尼诺夫传统与苏联音乐生活都可在此追踪。",
       "key": "莫斯科|柴可夫斯基音乐学院",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-026-ef4946ba62.jpg",
+      "status": "downloaded",
+      "sourceTitle": "莫斯科音樂學院",
+      "sourcePage": "https://zh.wikipedia.org/wiki/%E8%8E%AB%E6%96%AF%E7%A7%91%E9%9F%B3%E6%A8%82%E5%AD%B8%E9%99%A2",
+      "searchUsed": false,
+      "extract": "莫斯科音樂學院，全称国立莫斯科柴可夫斯基音乐学院（俄語：Московская государственная консерватория им. П. И. Чайковского），是俄羅斯的音樂教育學校。",
+      "coordinates": {
+        "lat": 55.75638889,
+        "lon": 37.60444444
+      },
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Moscow_05-2017_img41_Conservatory.jpg/1280px-Moscow_05-2017_img41_Conservatory.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Moscow_05-2017_img41_Conservatory.jpg/1280px-Moscow_05-2017_img41_Conservatory.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bytes": 362667,
+      "contentType": "image/jpeg"
     },
     {
       "index": 27,
@@ -620,7 +814,17 @@
       "music": "芬兰最重要的高等音乐教育机构，以西贝柳斯命名；它把民族乐派记忆和现代北欧音乐训练连接起来。",
       "key": "赫尔辛基|西贝柳斯学院",
       "asset": null,
-      "status": "no-wikipedia-page"
+      "status": "error",
+      "sourceTitle": "赫尔辛基艺术大学西贝柳斯音乐学院",
+      "sourcePage": "https://zh.wikipedia.org/wiki/%E8%B5%AB%E5%B0%94%E8%BE%9B%E5%9F%BA%E8%89%BA%E6%9C%AF%E5%A4%A7%E5%AD%A6%E8%A5%BF%E8%B4%9D%E6%9F%B3%E6%96%AF%E9%9F%B3%E4%B9%90%E5%AD%A6%E9%99%A2",
+      "searchUsed": false,
+      "extract": "赫尔辛基艺术大学西贝柳斯音乐学院（芬蘭語：Taideyliopiston Sibelius-Akatemia，瑞典語：Konstuniversitetets Sibelius-Akademi；缩写为SibA）是一个隶属于是赫尔辛基艺术大学的音乐专业学院，它是芬兰唯一和北欧最大的大学级别的音乐学院，其使命是促进和发展音乐文化。西贝柳斯音乐学院在国际上为芬兰人提供了高层次艺术活动的发展条件，有学习、研究和教学多重功能。学院以芬兰音乐家西贝柳斯命名。\n西贝柳斯音乐学院总部在赫尔辛基，有10个不同的专业。西贝柳斯音乐学院的学生约1500人，每年招收约150-170人。学院主要在在赫尔辛基和库奥皮奥教学，另外在耶尔文佩有一个课程中心Kallio-Kuninkala，在塞伊奈约基有一个继续教育中心。学院在赫尔辛基有三个校区：赫尔辛基音乐厅、R楼（位于Pohjoinen Rautatiekatu街，因芬兰议会大厦在维修由芬兰议会暂时使用至2017年）、N楼（位于Nervanderinkatu街）和T楼（位于Töölönkatu街）。在赫尔辛基音乐厅建成之前在Pitäjänmäki区也曾使用过一个P楼。\n自2013年起西贝柳斯音乐学院的院长是Tuomas Auvinen，他之前也是该学院作为独立大学时的校长。",
+      "coordinates": {
+        "lat": 60.17166667,
+        "lon": 24.93222222
+      },
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/b/be/Sibelius_Academy_building_12_July_2005.JPG?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "error": "HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
     },
     {
       "index": 28,
@@ -633,11 +837,27 @@
         49.195
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
       "music": "以雅纳切克命名的高等艺术院校；摩拉维亚语言、民歌采录与现代歌剧传统在这里形成连续谱系。",
       "key": "布尔诺|雅纳切克音乐与表演艺术学院",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-028-f5fa09aae2.jpg",
+      "status": "downloaded",
+      "sourceTitle": "雅纳切克音乐与表演艺术学院",
+      "sourcePage": "https://zh.wikipedia.org/wiki/%E9%9B%85%E7%BA%B3%E5%88%87%E5%85%8B%E9%9F%B3%E4%B9%90%E4%B8%8E%E8%A1%A8%E6%BC%94%E8%89%BA%E6%9C%AF%E5%AD%A6%E9%99%A2",
+      "searchUsed": false,
+      "extract": "雅纳切克音乐与表演艺术学院(捷克語：Janáčkova akademie múzických umění v Brně; abbreviation in Czech: JAMU)是一所公立艺术大学，位于捷克布尔诺，成立于1947年，下设音乐学院和戏剧学院。校名为纪念捷克作曲家雅纳切克。",
+      "coordinates": {
+        "lat": 49.19615556,
+        "lon": 16.61038333
+      },
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Brno%2C_Jan%C3%A1%C4%8Dkova_akademi_m%C3%BAzick%C3%BDch_um%C4%9Bn%C3%AD.JPG/1280px-Brno%2C_Jan%C3%A1%C4%8Dkova_akademi_m%C3%BAzick%C3%BDch_um%C4%9Bn%C3%AD.JPG?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Brno%2C_Jan%C3%A1%C4%8Dkova_akademi_m%C3%BAzick%C3%BDch_um%C4%9Bn%C3%AD.JPG/1280px-Brno%2C_Jan%C3%A1%C4%8Dkova_akademi_m%C3%BAzick%C3%BDch_um%C4%9Bn%C3%AD.JPG?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bytes": 382613,
+      "contentType": "image/jpeg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Brno,_Jan%C3%A1%C4%8Dkova_akademi_m%C3%BAzick%C3%BDch_um%C4%9Bn%C3%AD.JPG",
+      "license": "CC BY-SA 3.0",
+      "usageTerms": "Creative Commons Attribution-Share Alike 3.0",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Podzemnik\" title=\"User:Podzemnik\">Michal Klajban</a>"
     },
     {
       "index": 29,
@@ -650,11 +870,23 @@
         48.847
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
       "music": "索邦的音乐与音乐学研究把法国艺术史、档案学和音乐史放在同一所综合大学中。",
       "key": "巴黎|索邦大学",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-029-d5a41e7036.jpg",
+      "status": "downloaded",
+      "sourceTitle": "Chapelle Sainte-Ursule de la Sorbonne, Paris 001.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Chapelle_Sainte-Ursule_de_la_Sorbonne,_Paris_001.jpg",
+      "searchUsed": false,
+      "extract": "索邦大学（法語：Sorbonne Université），是一所位于巴黎的公立研究型大学，由巴黎第六大学与巴黎第四大学于2018年1月1日合并而成。索邦大学的历史可以追溯到1257年罗伯特·德·索邦创立的索邦学院，欧洲最古老的大学之一。\n迄今为止，索邦大学的校友和教授中，共产生了34位诺贝尔奖，6位菲尔兹奖以及1位图灵奖得主。在菲尔兹奖得主中，有6位在巴黎科学学院完成博士学位或留任教授研究员，是索邦大学主要的师资力量。",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Chapelle_Sainte-Ursule_de_la_Sorbonne,_Paris_001.jpg",
+      "license": "CC BY-SA 3.0",
+      "usageTerms": "Creative Commons Attribution-Share Alike 3.0",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Moonik\" title=\"User:Moonik\">Moonik</a>",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Chapelle_Sainte-Ursule_de_la_Sorbonne%2C_Paris_001.jpg/1280px-Chapelle_Sainte-Ursule_de_la_Sorbonne%2C_Paris_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Chapelle_Sainte-Ursule_de_la_Sorbonne%2C_Paris_001.jpg/1280px-Chapelle_Sainte-Ursule_de_la_Sorbonne%2C_Paris_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "bytes": 652312,
+      "contentType": "image/jpeg"
     },
     {
       "index": 30,
