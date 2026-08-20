@@ -1,6 +1,6 @@
 {
   "schema": "ad-fontes-europa-poi-assets/v1",
-  "generatedAt": "2026-08-20T23:22:04.464356+00:00",
+  "generatedAt": "2026-08-20T23:23:47.720905+00:00",
   "source": "Wikipedia/Wikimedia API (zh.wikipedia.org and upload.wikimedia.org)",
   "notes": [
     "Only images served from upload.wikimedia.org were cached.",
@@ -8,7 +8,7 @@
     "A blank or unknown license field still requires manual attribution review."
   ],
   "total": 158,
-  "downloaded": 150,
+  "downloaded": 158,
   "rows": [
     {
       "index": 0,
@@ -4499,11 +4499,23 @@
         49.489
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
       "music": "曼海姆高等音乐教育机构，延续宫廷乐队、交响乐和现代表演训练传统。",
       "key": "曼海姆|曼海姆音乐与表演艺术大学",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-150-1c77ad2855.jpg",
+      "status": "downloaded",
+      "sourceTitle": "Musikhochschule in Mannheim.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Musikhochschule_in_Mannheim.jpg",
+      "searchUsed": false,
+      "extract": "",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Musikhochschule_in_Mannheim.jpg",
+      "license": "Public domain",
+      "usageTerms": "Public domain",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Immanuel_Giel\" title=\"User:Immanuel Giel\">Immanuel Giel</a>",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Musikhochschule_in_Mannheim.jpg/1280px-Musikhochschule_in_Mannheim.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Musikhochschule_in_Mannheim.jpg/1280px-Musikhochschule_in_Mannheim.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "bytes": 426358,
+      "contentType": "image/jpeg"
     },
     {
       "index": 151,
@@ -4516,11 +4528,23 @@
         49.205
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
       "music": "雅纳切克在布尔诺生活与创作的纪念地点，连接摩拉维亚语言、民歌和现代歌剧。",
       "key": "布尔诺|雅纳切克故居",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-151-d2e09eea59.jpg",
+      "status": "downloaded",
+      "sourceTitle": "Casa natal de Leoš Janáček.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Casa_natal_de_Leo%C5%A1_Jan%C3%A1%C4%8Dek.jpg",
+      "searchUsed": false,
+      "extract": "",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Casa_natal_de_Leo%C5%A1_Jan%C3%A1%C4%8Dek.jpg",
+      "license": "CC BY-SA 4.0",
+      "usageTerms": "Creative Commons Attribution-Share Alike 4.0",
+      "artist": "Josep Renalias <a href=\"//commons.wikimedia.org/wiki/User:Lohen11\" title=\"User:Lohen11\">Lohen11</a>",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Casa_natal_de_Leo%C5%A1_Jan%C3%A1%C4%8Dek.jpg/1280px-Casa_natal_de_Leo%C5%A1_Jan%C3%A1%C4%8Dek.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Casa_natal_de_Leo%C5%A1_Jan%C3%A1%C4%8Dek.jpg/1280px-Casa_natal_de_Leo%C5%A1_Jan%C3%A1%C4%8Dek.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "bytes": 482319,
+      "contentType": "image/jpeg"
     },
     {
       "index": 152,
@@ -4533,11 +4557,27 @@
         49.195
       ],
       "img": null,
-      "credit": null,
+      "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://sablony.muni.cz/masarykova-univerzita/masarykova-univerzita/loga-a-graficke-prvky/znacka-muni\">https://sablony.muni.cz/masarykova-univerzita/masarykova-univerzita/loga-a-graficke-prvky/znacka-muni</a>",
       "music": "布尔诺人文学、语言学与音乐文化研究的综合大学节点。",
       "key": "布尔诺|马萨里克大学",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-152-c651dd3011.png",
+      "status": "downloaded",
+      "sourceTitle": "马萨里克大学",
+      "sourcePage": "https://zh.wikipedia.org/wiki/%E9%A9%AC%E8%90%A8%E9%87%8C%E5%85%8B%E5%A4%A7%E5%AD%A6",
+      "searchUsed": false,
+      "extract": "马萨里克大学（捷克語：Masarykova univerzita；拉丁語：Universitas Masarykiana Brunensis；或简称MU）是捷克共和国第二大大学，位于布尔诺，成立于1919年。作为孔波斯特拉大学集团和乌得勒支网络的成员，马萨里克大学拥有十个院系和35,115名学生。该校以托马斯·马萨里克的名字命名，马萨里克是捷克斯洛伐克独立后的第一任总统，也是推动建立第二所捷克大学的领导人。1960年，马萨里克大学更名为“扬·埃万杰利斯塔·普尔基涅大学”（University of Jan Evangelista Purkyně），以纪念捷克生物学家扬·埃万杰利斯塔·普尔基涅。1990年，在天鹅绒革命之后，马萨里克大学恢复了其最开始的名字。自1922年以来，已有超过171,000名学生从马萨里克大学毕业。",
+      "coordinates": {
+        "lat": 49.1766,
+        "lon": 16.5731
+      },
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/LogoMUNI-2018.png/1280px-LogoMUNI-2018.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/LogoMUNI-2018.png/1280px-LogoMUNI-2018.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bytes": 14817,
+      "contentType": "image/png",
+      "filePage": "https://commons.wikimedia.org/wiki/File:LogoMUNI-2018.png",
+      "license": "Public domain",
+      "usageTerms": "Public domain",
+      "artist": "Studio Najbrt"
     },
     {
       "index": 153,
@@ -4550,11 +4590,23 @@
         60.392
       ],
       "img": null,
-      "credit": null,
+      "credit": "",
       "music": "卑尔根大学的高等音乐教育机构，以格里格命名并连接北欧演奏与作曲传统。",
       "key": "卑尔根|格里格学院",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-153-13ad30690d.jpg",
+      "status": "downloaded",
+      "sourceTitle": "1878 Report of the Royal Normal College and Academy of Music for the Blind (IA 1878reportofroya0000roya).pdf",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:1878_Report_of_the_Royal_Normal_College_and_Academy_of_Music_for_the_Blind_(IA_1878reportofroya0000roya).pdf",
+      "searchUsed": false,
+      "extract": "",
+      "filePage": "",
+      "license": "",
+      "usageTerms": "",
+      "artist": "",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/1878_Report_of_the_Royal_Normal_College_and_Academy_of_Music_for_the_Blind_%28IA_1878reportofroya0000roya%29.pdf/page1-500px-1878_Report_of_the_Royal_Normal_College_and_Academy_of_Music_for_the_Blind_%28IA_1878reportofroya0000roya%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/1878_Report_of_the_Royal_Normal_College_and_Academy_of_Music_for_the_Blind_%28IA_1878reportofroya0000roya%29.pdf/page1-500px-1878_Report_of_the_Royal_Normal_College_and_Academy_of_Music_for_the_Blind_%28IA_1878reportofroya0000roya%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "bytes": 58233,
+      "contentType": "image/jpeg"
     },
     {
       "index": 154,
@@ -4567,11 +4619,23 @@
         59.435
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
       "music": "爱沙尼亚高等音乐教育的核心机构，连接合唱传统、作曲和当代北欧音乐。",
       "key": "塔林|爱沙尼亚音乐与戏剧学院",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-154-abd8df1d60.jpg",
+      "status": "downloaded",
+      "sourceTitle": "Fresh actors.JPG",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Fresh_actors.JPG",
+      "searchUsed": false,
+      "extract": "",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Fresh_actors.JPG",
+      "license": "CC BY 3.0",
+      "usageTerms": "Creative Commons Attribution 3.0",
+      "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Tammets&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Tammets (page does not exist)\">Tammets</a>",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Fresh_actors.JPG/1280px-Fresh_actors.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Fresh_actors.JPG/1280px-Fresh_actors.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "bytes": 600899,
+      "contentType": "image/jpeg"
     },
     {
       "index": 155,
@@ -4584,11 +4648,23 @@
         45.406
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
       "music": "帕多瓦大学与中世纪自然哲学、医学和音乐理论传统相连，也为奇科尼亚所在的城市知识环境提供背景。",
       "key": "帕多瓦|帕多瓦大学",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-155-8829b6c366.jpg",
+      "status": "downloaded",
+      "sourceTitle": "(Padova) Braccio umano sinistro mummificato e bendato - Museo della Natura e dell'Uomo (University of Padua Museum of Nature and Humankind).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:(Padova)_Braccio_umano_sinistro_mummificato_e_bendato_-_Museo_della_Natura_e_dell%27Uomo_(University_of_Padua_Museum_of_Nature_and_Humankind).jpg",
+      "searchUsed": false,
+      "extract": "",
+      "filePage": "https://commons.wikimedia.org/wiki/File:(Padova)_Braccio_umano_sinistro_mummificato_e_bendato_-_Museo_della_Natura_e_dell%27Uomo_(University_of_Padua_Museum_of_Nature_and_Humankind).jpg",
+      "license": "CC BY-SA 4.0",
+      "usageTerms": "Creative Commons Attribution-Share Alike 4.0",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Archaeodontosaurus\" title=\"User:Archaeodontosaurus\">Didier Descouens</a>",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/%28Padova%29_Braccio_umano_sinistro_mummificato_e_bendato_-_Museo_della_Natura_e_dell%27Uomo_%28University_of_Padua_Museum_of_Nature_and_Humankind%29.jpg/1280px-%28Padova%29_Braccio_umano_sinistro_mummificato_e_bendato_-_Museo_della_Natura_e_dell%27Uomo_%28University_of_Padua_Museum_of_Nature_and_Humankind%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/%28Padova%29_Braccio_umano_sinistro_mummificato_e_bendato_-_Museo_della_Natura_e_dell%27Uomo_%28University_of_Padua_Museum_of_Nature_and_Humankind%29.jpg/1280px-%28Padova%29_Braccio_umano_sinistro_mummificato_e_bendato_-_Museo_della_Natura_e_dell%27Uomo_%28University_of_Padua_Museum_of_Nature_and_Humankind%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "bytes": 110216,
+      "contentType": "image/jpeg"
     },
     {
       "index": 156,
@@ -4601,11 +4677,23 @@
         50.641
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
       "music": "列日高等音乐教育机构，延续低地国家教会音乐和现代比利时音乐训练传统。",
       "key": "列日|列日皇家音乐学院",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-156-80197383bc.jpg",
+      "status": "downloaded",
+      "sourceTitle": "Conservatoire royal de musique.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Conservatoire_royal_de_musique.jpg",
+      "searchUsed": false,
+      "extract": "",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Conservatoire_royal_de_musique.jpg",
+      "license": "CC BY-SA 3.0",
+      "usageTerms": "Creative Commons Attribution-Share Alike 3.0",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:MDub\" title=\"User:MDub\">MDub</a>",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Conservatoire_royal_de_musique.jpg/1280px-Conservatoire_royal_de_musique.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Conservatoire_royal_de_musique.jpg/1280px-Conservatoire_royal_de_musique.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "bytes": 262140,
+      "contentType": "image/jpeg"
     },
     {
       "index": 157,
@@ -4618,11 +4706,27 @@
         50.58
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
       "music": "列日人文学、历史和音乐文化研究的综合大学节点。",
       "key": "列日|列日大学",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-157-950bd89ba0.jpg",
+      "status": "downloaded",
+      "sourceTitle": "列日大学",
+      "sourcePage": "https://zh.wikipedia.org/wiki/%E5%88%97%E6%97%A5%E5%A4%A7%E5%AD%A6",
+      "searchUsed": false,
+      "extract": "列日大学（法語：Université de Liège，简称ULiège）位于比利时列日省的列日。",
+      "coordinates": {
+        "lat": 50.64083,
+        "lon": 5.57472
+      },
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ulg.jpg/1280px-Ulg.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ulg.jpg/1280px-Ulg.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bytes": 290785,
+      "contentType": "image/jpeg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Ulg.jpg",
+      "license": "CC BY-SA 3.0",
+      "usageTerms": "Creative Commons Attribution-Share Alike 3.0",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:MDub\" title=\"User:MDub\">MDub</a>"
     }
   ]
 }
