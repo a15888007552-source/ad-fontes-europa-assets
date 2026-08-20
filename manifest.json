@@ -1,6 +1,6 @@
 {
   "schema": "ad-fontes-europa-poi-assets/v1",
-  "generatedAt": "2026-08-20T23:11:17.830410+00:00",
+  "generatedAt": "2026-08-20T23:13:31.163881+00:00",
   "source": "Wikipedia/Wikimedia API (zh.wikipedia.org and upload.wikimedia.org)",
   "notes": [
     "Only images served from upload.wikimedia.org were cached.",
@@ -8,7 +8,7 @@
     "A blank or unknown license field still requires manual attribution review."
   ],
   "total": 158,
-  "downloaded": 52,
+  "downloaded": 71,
   "rows": [
     {
       "index": 0,
@@ -1523,11 +1523,23 @@
         51.329
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\">Self-photographed</span>",
       "music": "舒曼夫妇在莱比锡生活与创作的纪念地点，提示十九世纪音乐家庭、沙龙和职业网络的关系。",
       "key": "莱比锡|舒曼故居",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-050-ecfdcecb19.jpg",
+      "status": "downloaded",
+      "sourceTitle": "Leipzig Schumann-Haus.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Leipzig_Schumann-Haus.jpg",
+      "searchUsed": false,
+      "extract": "",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Leipzig_Schumann-Haus.jpg",
+      "license": "CC BY 3.0",
+      "usageTerms": "Creative Commons Attribution 3.0",
+      "artist": "Photo: Andreas Praefcke",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Leipzig_Schumann-Haus.jpg/1280px-Leipzig_Schumann-Haus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Leipzig_Schumann-Haus.jpg/1280px-Leipzig_Schumann-Haus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "bytes": 586111,
+      "contentType": "image/jpeg"
     },
     {
       "index": 51,
@@ -1540,23 +1552,23 @@
         51.339
       ],
       "img": null,
-      "credit": null,
+      "credit": "",
       "music": "莱比锡大学的人文学和音乐学传统，与托马斯教堂、音乐学院和城市档案共同构成研究网络。",
       "key": "莱比锡|莱比锡大学",
       "asset": "images/poi/poi-051-81b06a92d3.png",
       "status": "downloaded",
-      "sourceTitle": "Leipzig University",
-      "sourcePage": "https://en.wikipedia.org/wiki/Leipzig_University",
+      "sourceTitle": "莱比锡大学",
+      "sourcePage": "https://zh.wikipedia.org/wiki/%E8%8E%B1%E6%AF%94%E9%94%A1%E5%A4%A7%E5%AD%A6",
       "searchUsed": false,
-      "extract": "Leipzig University (German: Universität Leipzig), in Leipzig in Saxony, Germany, is one of the world's oldest universities and Germany's second-oldest university (by consecutive years of existence). The university was founded on 2 December 1409 by Frederick I, Elector of Saxony and his brother William II, Margrave of Meissen, and originally comprised the four scholastic faculties. Since its inception, the university has engaged in teaching and research for over 600 years without interruption.\nThe university's alumni include 55 prime ministers and presidents, notably Angela Merkel who served as Chancellor of Germany from 2005-2021. The university is also associated with 19 Nobel laureates, most recently with Leipzig faculty professor Svante Pääbo who won the Nobel Prize for Medicine in 2022. Other alumni include Gottfried Wilhelm von Leibniz, Johann Wolfgang von Goethe, Werner Heisenberg, Friedrich Nietzsche, Robert Schumann, Richard Wagner, Theodor Mommsen, Wilhelm Ostwald, Cai Yuanpei, Edward Teller, Gustav Stresemann, Tycho Brahe, Georgius Agricola.",
-      "coordinates": {
-        "lat": 51.33888889,
-        "lon": 12.37861111
-      },
-      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Universit%C3%A4t_Leipzig_crest.svg/1280px-Universit%C3%A4t_Leipzig_crest.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Universit%C3%A4t_Leipzig_crest.svg/1280px-Universit%C3%A4t_Leipzig_crest.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "extract": "莱比锡大学（德語：Universität Leipzig）位于德国萨克森州的莱比锡，创立于1409年，是欧洲最古老的大学之一，也是现今德国辖地内历史第二悠久而運作年期未曾中斷的大学，仅次于海德堡大学（1386年）。\n自从创建以来经历了近600年不间断的教学与科研，现在的莱比锡大学已經发展為擁有14个學院、152个學程、三萬多名学生的大學。它是莱比锡最大的一所大学，也是萨克森州第二大的大学，仅次于德累斯顿工业大学。\n著名校友有萊布尼茲、歌德、尼采、歷史學家蘭克、讓·保羅等。1879年德國生理學家威廉·馮特任萊比錫大學哲學教授時建立了第一個心理實驗室，標誌著現代心理學的開端。医学专业是莱比锡大学最知名的专业。截止2017年，共有18位校友及教职工曾获得诺贝尔奖。",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Universit%C3%A4t_Leipzig_crest.svg/1280px-Universit%C3%A4t_Leipzig_crest.svg.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Universit%C3%A4t_Leipzig_crest.svg/1280px-Universit%C3%A4t_Leipzig_crest.svg.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bytes": 375884,
-      "contentType": "image/png"
+      "contentType": "image/png",
+      "filePage": "",
+      "license": "",
+      "usageTerms": "",
+      "artist": ""
     },
     {
       "index": 52,
@@ -1569,11 +1581,27 @@
         47.8
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
       "music": "莫扎特1756年出生的故居，连接萨尔茨堡市民家庭、宫廷音乐和后来的纪念产业。",
       "key": "萨尔茨堡|莫扎特出生地",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-052-16727fa4d8.jpg",
+      "status": "downloaded",
+      "sourceTitle": "莫扎特出生地",
+      "sourcePage": "https://zh.wikipedia.org/wiki/%E8%8E%AB%E6%89%8E%E7%89%B9%E5%87%BA%E7%94%9F%E5%9C%B0",
+      "searchUsed": false,
+      "extract": "莫扎特出生地（德語：Mozarts Geburtshaus）是音樂家莫扎特的出生之地，位於奧地利城市薩爾斯堡粮食胡同9号。在1747年至1773年期間，莫扎特一家住在這座建築的三樓。莫扎特於1756年1月27日出生在這裡。現在這座建築由莫扎特基金會所有，是一座博物館。",
+      "coordinates": {
+        "lat": 47.8,
+        "lon": 13.04333333
+      },
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Salzburg%2C_Getreidegasse_9%2C_Mozarts_Geburtshaus.jpg/1280px-Salzburg%2C_Getreidegasse_9%2C_Mozarts_Geburtshaus.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Salzburg%2C_Getreidegasse_9%2C_Mozarts_Geburtshaus.jpg/1280px-Salzburg%2C_Getreidegasse_9%2C_Mozarts_Geburtshaus.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bytes": 624645,
+      "contentType": "image/jpeg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Salzburg,_Getreidegasse_9,_Mozarts_Geburtshaus.jpg",
+      "license": "CC BY-SA 3.0 at",
+      "usageTerms": "Creative Commons Attribution-Share Alike 3.0 at",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:AStiasny\" title=\"User:AStiasny\">Andreas Stiasny</a>"
     },
     {
       "index": 53,
@@ -1586,11 +1614,23 @@
         47.801
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
       "music": "莫扎特一家在萨尔茨堡的重要居所，能补足出生地之外的城市生活与音乐职业信息。",
       "key": "萨尔茨堡|莫扎特住宅",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-053-558ebf450b.jpg",
+      "status": "downloaded",
+      "sourceTitle": "1944 - Salzburg - Mozart Wohnhaus, Makartplatz (cropped).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:1944_-_Salzburg_-_Mozart_Wohnhaus,_Makartplatz_(cropped).jpg",
+      "searchUsed": false,
+      "extract": "",
+      "filePage": "https://commons.wikimedia.org/wiki/File:1944_-_Salzburg_-_Mozart_Wohnhaus,_Makartplatz_(cropped).jpg",
+      "license": "CC BY-SA 2.5",
+      "usageTerms": "Creative Commons Attribution-Share Alike 2.5",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Thisisbossi\" title=\"User:Thisisbossi\">Andrew Bossi</a>",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/1944_-_Salzburg_-_Mozart_Wohnhaus%2C_Makartplatz_%28cropped%29.jpg/1280px-1944_-_Salzburg_-_Mozart_Wohnhaus%2C_Makartplatz_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/1944_-_Salzburg_-_Mozart_Wohnhaus%2C_Makartplatz_%28cropped%29.jpg/1280px-1944_-_Salzburg_-_Mozart_Wohnhaus%2C_Makartplatz_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "bytes": 279754,
+      "contentType": "image/jpeg"
     },
     {
       "index": 54,
@@ -1603,11 +1643,23 @@
         47.798
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
       "music": "萨尔茨堡音乐节的核心剧场，把莫扎特纪念、歌剧制作和现代节庆制度连接起来。",
       "key": "萨尔茨堡|萨尔茨堡节日大剧院",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-054-8567aee173.jpg",
+      "status": "downloaded",
+      "sourceTitle": "20230610 Großes Festspielhaus Salzburg.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:20230610_Gro%C3%9Fes_Festspielhaus_Salzburg.jpg",
+      "searchUsed": false,
+      "extract": "",
+      "filePage": "https://commons.wikimedia.org/wiki/File:20230610_Gro%C3%9Fes_Festspielhaus_Salzburg.jpg",
+      "license": "CC BY 4.0",
+      "usageTerms": "Creative Commons Attribution 4.0",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:FlocciNivis\" title=\"User:FlocciNivis\">Flocci Nivis</a>",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/20230610_Gro%C3%9Fes_Festspielhaus_Salzburg.jpg/1280px-20230610_Gro%C3%9Fes_Festspielhaus_Salzburg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/20230610_Gro%C3%9Fes_Festspielhaus_Salzburg.jpg/1280px-20230610_Gro%C3%9Fes_Festspielhaus_Salzburg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "bytes": 625610,
+      "contentType": "image/jpeg"
     },
     {
       "index": 55,
@@ -1620,11 +1672,27 @@
         47.8
       ],
       "img": null,
-      "credit": null,
+      "credit": "",
       "music": "萨尔茨堡的综合大学研究节点，可与莫扎特研究、音乐学和城市文化史相互参照。",
       "key": "萨尔茨堡|萨尔茨堡大学",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-055-bc9f0ef861.webp",
+      "status": "downloaded",
+      "sourceTitle": "萨尔茨堡大学",
+      "sourcePage": "https://zh.wikipedia.org/wiki/%E8%90%A8%E5%B0%94%E8%8C%A8%E5%A0%A1%E5%A4%A7%E5%AD%A6",
+      "searchUsed": false,
+      "extract": "萨尔茨堡大学（英語：University of Salzburg；德語：Universität Salzburg，也稱「Paris Lodron University」）是位于奥地利第四大城市萨尔茨堡一所历史悠久的大学。",
+      "coordinates": {
+        "lat": 47.79722222,
+        "lon": 13.04805556
+      },
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/University_of_Salzburg_wordmark.svg/1280px-University_of_Salzburg_wordmark.svg.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/University_of_Salzburg_wordmark.svg/1280px-University_of_Salzburg_wordmark.svg.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bytes": 25080,
+      "contentType": "image/webp",
+      "filePage": "",
+      "license": "",
+      "usageTerms": "",
+      "artist": ""
     },
     {
       "index": 56,
@@ -1637,21 +1705,27 @@
         45.467
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
       "music": "意大利歌剧制度的世界级剧院，连接米兰出版、歌手训练、作曲委约和观众文化。",
       "key": "米兰|斯卡拉歌剧院",
-      "asset": null,
-      "status": "error",
-      "sourceTitle": "La Scala",
-      "sourcePage": "https://en.wikipedia.org/wiki/La_Scala",
+      "asset": "images/poi/poi-056-6d20c1638b.jpg",
+      "status": "downloaded",
+      "sourceTitle": "斯卡拉大劇院",
+      "sourcePage": "https://zh.wikipedia.org/wiki/%E6%96%AF%E5%8D%A1%E6%8B%89%E5%A4%A7%E5%8A%87%E9%99%A2",
       "searchUsed": false,
-      "extract": "La Scala (UK: , US: , Italian: [la ˈskaːla]; officially Teatro alla Scala [teˈaːtro alla ˈskaːla], lit. 'Theatre at the Scala') is a historic opera house in Milan, Italy. The theatre was inaugurated on 3 August 1778 and was originally known as il Nuovo Regio Ducale Teatro alla Scala (lit. 'the New Royal Ducal Theatre at the Scala', which previously was a church). The premiere performance was Antonio Salieri's Europa riconosciuta.\nMost of Italy's greatest operatic artists, and many of the finest singers from around the world, have appeared at La Scala. The theatre is regarded as being one of the leading opera and ballet theatres globally. It is home to the La Scala Theatre Chorus, La Scala Theatre Ballet, La Scala Theatre Orchestra, and the Filarmonica della Scala orchestra. The theatre also has an associate school, known as the La Scala Theatre Academy (Italian: Accademia Teatro alla Scala), which offers professional training in music, dance, stagecraft, and stage management.",
+      "extract": "斯卡拉大劇院（義大利語：Teatro alla Scala[Teatro alla Scala] 或 La Scala）是間位於義大利米蘭的歌劇院。劇院於1778年8月3日正式啟用，當時名為Nuovo Regio Ducal Teatro alla Scala，首日上演安东尼奥·萨列里的歌劇《歐羅巴的現身》（L'Europa riconosciuta）。",
       "coordinates": {
         "lat": 45.4675,
         "lon": 9.18916667
       },
-      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Exterior_Teatro_Alla_Scala_high_quality_01.jpg/1280px-Exterior_Teatro_Alla_Scala_high_quality_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "error": "HTTP Error 429: Too many requests (f061ab2)"
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Milano_-_Teatro_alla_Scala_3924.jpg/1280px-Milano_-_Teatro_alla_Scala_3924.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Milano_-_Teatro_alla_Scala_3924.jpg/1280px-Milano_-_Teatro_alla_Scala_3924.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bytes": 312340,
+      "contentType": "image/jpeg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Milano_-_Teatro_alla_Scala_3924.jpg",
+      "license": "CC BY-SA 4.0",
+      "usageTerms": "Creative Commons Attribution-Share Alike 4.0",
+      "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Lucalari84&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Lucalari84 (page does not exist)\">Lucalari84</a>"
     },
     {
       "index": 57,
@@ -1664,11 +1738,23 @@
         45.477
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
       "music": "米兰大学的人文学和音乐学研究为歌剧史、城市文化和意大利艺术制度提供综合大学坐标。",
       "key": "米兰|米兰大学",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-057-9fcd17474f.jpg",
+      "status": "downloaded",
+      "sourceTitle": "米蘭大學",
+      "sourcePage": "https://zh.wikipedia.org/wiki/%E7%B1%B3%E8%98%AD%E5%A4%A7%E5%AD%B8",
+      "searchUsed": false,
+      "extract": "米蘭大學（Università degli Studi di Milano，UNIMI）是義大利最重要的公立大學之一。米蘭大學一共有62,801位學生，2,455位教職與研究人員，2,200 位非教職人員。米蘭大學是歐洲研究型大學聯盟的唯一意大利成員。",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Festa_del_Perdono_Facciata_Milano.jpg/1280px-Festa_del_Perdono_Facciata_Milano.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Festa_del_Perdono_Facciata_Milano.jpg/1280px-Festa_del_Perdono_Facciata_Milano.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bytes": 506432,
+      "contentType": "image/jpeg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Festa_del_Perdono_Facciata_Milano.jpg",
+      "license": "CC BY 3.0",
+      "usageTerms": "Creative Commons Attribution 3.0",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Goldmund100\" title=\"User:Goldmund100\">Goldmund100</a>"
     },
     {
       "index": 58,
@@ -1681,11 +1767,23 @@
         41.9
       ],
       "img": null,
-      "credit": null,
+      "credit": "Transferred from <a class=\"external text\" data-mw-original-href=\"http://it.wikipedia.org\" href=\"https://it.wikipedia.org\">it.wikipedia</a>; transferred to Commons by <a href=\"//commons.wikimedia.org/wiki/User:Mau_db\" title=\"User:Mau db\">User:Mau_db</a> using <a rel=\"nofollow\" class=\"external text\" href=\"http://tools.wikimedia.de/~magnus/commonshelper.php\">CommonsHelper</a>.",
       "music": "罗马现代歌剧制度的中心，连接教廷城市的历史遗产与公共剧院文化。",
       "key": "罗马|罗马歌剧院",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-058-32888c00e4.jpg",
+      "status": "downloaded",
+      "sourceTitle": "Castro Pretorio - teatro dell'Opera di Roma (Costanzi) facciata piacentini 1010030.JPG",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Castro_Pretorio_-_teatro_dell%27Opera_di_Roma_(Costanzi)_facciata_piacentini_1010030.JPG",
+      "searchUsed": false,
+      "extract": "",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Castro_Pretorio_-_teatro_dell%27Opera_di_Roma_(Costanzi)_facciata_piacentini_1010030.JPG",
+      "license": "CC BY-SA 3.0",
+      "usageTerms": "Creative Commons Attribution-Share Alike 3.0",
+      "artist": "Original uploader was <a href=\"https://it.wikipedia.org/wiki/User:Lalupa\" class=\"extiw\" title=\"it:User:Lalupa\">Lalupa</a> at <a class=\"external text\" data-mw-original-href=\"http://it.wikipedia.org\" href=\"https://it.wikipedia.org\">it.wikipedia</a>",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Castro_Pretorio_-_teatro_dell%27Opera_di_Roma_%28Costanzi%29_facciata_piacentini_1010030.JPG/1280px-Castro_Pretorio_-_teatro_dell%27Opera_di_Roma_%28Costanzi%29_facciata_piacentini_1010030.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Castro_Pretorio_-_teatro_dell%27Opera_di_Roma_%28Costanzi%29_facciata_piacentini_1010030.JPG/1280px-Castro_Pretorio_-_teatro_dell%27Opera_di_Roma_%28Costanzi%29_facciata_piacentini_1010030.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "bytes": 310085,
+      "contentType": "image/jpeg"
     },
     {
       "index": 59,
@@ -1698,11 +1796,23 @@
         41.903
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
       "music": "罗马第一大学的音乐学、人文学与档案研究，为罗马礼仪音乐和现代文化史提供综合大学节点。",
       "key": "罗马|罗马第一大学",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-059-dca54f5b35.jpg",
+      "status": "downloaded",
+      "sourceTitle": "Facoltà di Economia Università Sapienza Roma.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Facolt%C3%A0_di_Economia_Universit%C3%A0_Sapienza_Roma.jpg",
+      "searchUsed": false,
+      "extract": "罗马大学（義大利語：Sapienza - Università di Roma，正式名称为 Università degli Studi di Roma \"La Sapienza\"，英語：Sapienza University of Rome），是意大利罗马的一所国立综合性大学。约15世纪初开始有“Sapienza”（智慧）的别称，所以也译为罗马智慧大学。它是一所中世紀大學，也是羅馬歷史最悠久的大學。现有11个学院，63个系，60个各级图书馆和21个博物馆，先后有14位诺贝尔奖得主在此学习或任教，3位沃尔夫奖得主，2位美国建筑师学会金奖得主以及众多政商界人物。罗马大学于1303年由教宗博尼法斯八世创建，至今有700多年历史。1980－1990年代，罗马大学分出一部分设立罗马第二大学和罗马第三大学，为了同这两个大学作区分，它亦称罗马第一大学。\n自建校以来，罗马大学在古典學、文化遗产、考古学、歷史學、物理学和天体物理、医学、心理学、法学等领域具有卓越声望。在2021年QS世界大学专业排名中，它的学术总体声望排名世界第70位，在2021年QS世界大学学科排名中，罗马大学共有21个学科进入世界前100位，在古典学与古代史领域排名世界第1，考古学领域排名第10，物理学排名第41，语言学排名第55，牙科排名第50-61，艺术与人文第65，建筑、土木工程、计算机科学、牙科、历史、法律、数学、现代语言、机械工程、药学与药理学、统计学、神学进入世界前100位；在2021年U.S. News全球大學排行榜中，罗马大学在物理学领域排名世界第19，数学排名世界第32，土木工程排名世界第42，医学排名世界第51。\n罗马大学拥有一百多座教学楼，有约三分之一分布在罗马的大学城（Città universitaria di Roma）中，其余的教学楼分布在罗马的各个地区，由不同学院使用。罗马大学为全歐洲學生註冊人數最多的大学（若包含遠距離教學則為第三大），学生人数达111,000人。\n校徽为一个六翼智天使，下方注有罗马大学最古老的拉丁文名称“STUDIUM URBIS”，URBIS是城，指代「那個城市」，即羅馬。。",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Facolt%C3%A0_di_Economia_Universit%C3%A0_Sapienza_Roma.jpg",
+      "license": "CC BY-SA 4.0",
+      "usageTerms": "Creative Commons Attribution-Share Alike 4.0",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Carlo_Dani\" title=\"User:Carlo Dani\">Carlo Dani</a>",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Facolt%C3%A0_di_Economia_Universit%C3%A0_Sapienza_Roma.jpg/1280px-Facolt%C3%A0_di_Economia_Universit%C3%A0_Sapienza_Roma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Facolt%C3%A0_di_Economia_Universit%C3%A0_Sapienza_Roma.jpg/1280px-Facolt%C3%A0_di_Economia_Universit%C3%A0_Sapienza_Roma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "bytes": 449179,
+      "contentType": "image/jpeg"
     },
     {
       "index": 60,
@@ -1715,11 +1825,27 @@
         50.09
       ],
       "img": null,
-      "credit": null,
+      "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://web.archive.org/web/20161028102823/http://www.panoramio.com/photo/92127864\">https://web.archive.org/web/20161028102823/http://www.panoramio.com/photo/92127864</a>",
       "music": "捷克爱乐的主场，连接德沃夏克传统、国家音乐机构和布拉格公共音乐会生活。",
       "key": "布拉格|鲁道夫音乐厅",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-060-47c96ccf77.jpg",
+      "status": "downloaded",
+      "sourceTitle": "鲁道夫音乐厅",
+      "sourcePage": "https://zh.wikipedia.org/wiki/%E9%B2%81%E9%81%93%E5%A4%AB%E9%9F%B3%E4%B9%90%E5%8E%85",
+      "searchUsed": false,
+      "extract": "鲁道夫音乐厅（捷克語：Rudolfinum）是一座位於捷克首都布拉格的一个音乐厅。它是该市最重要的新文藝復興建築之一，位于伏尔塔瓦河畔的杨帕拉广场。 \n這座建築物建於1876年至1881年之間，捷克儲蓄銀行為慶祝其成立50週年而興建了這座建築，並於1885年2月7日舉行了盛大的開幕儀式，成為一座多功能的文化設施，並配備音樂廳和展覽廳。該銀行請求奧匈帝國王位繼承人魯道夫大公將該建築以他的名字命名。魯道夫大公的名字還命名了新建的河岸（現在的阿爾索沃·納布熱茲）和相鄰的魯道夫橋。",
+      "coordinates": {
+        "lat": 50.09,
+        "lon": 14.416
+      },
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Old_Town%2C_110_00_Prague-Prague_1%2C_Czech_Republic_-_panoramio_%28109%29.jpg/1280px-Old_Town%2C_110_00_Prague-Prague_1%2C_Czech_Republic_-_panoramio_%28109%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Old_Town%2C_110_00_Prague-Prague_1%2C_Czech_Republic_-_panoramio_%28109%29.jpg/1280px-Old_Town%2C_110_00_Prague-Prague_1%2C_Czech_Republic_-_panoramio_%28109%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bytes": 333957,
+      "contentType": "image/jpeg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Old_Town,_110_00_Prague-Prague_1,_Czech_Republic_-_panoramio_(109).jpg",
+      "license": "CC BY-SA 3.0",
+      "usageTerms": "Creative Commons Attribution-Share Alike 3.0",
+      "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20161028102733/http://www.panoramio.com/user/4678999?with_photo_id=92127864\">Ben Bender</a>"
     },
     {
       "index": 61,
@@ -1732,11 +1858,27 @@
         50.081
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
       "music": "布拉格歌剧制度和德语—捷克语舞台文化交汇的代表性剧院。",
       "key": "布拉格|布拉格国家歌剧院",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-061-5ee4560147.jpg",
+      "status": "downloaded",
+      "sourceTitle": "布拉格国家歌剧院",
+      "sourcePage": "https://zh.wikipedia.org/wiki/%E5%B8%83%E6%8B%89%E6%A0%BC%E5%9B%BD%E5%AE%B6%E6%AD%8C%E5%89%A7%E9%99%A2",
+      "searchUsed": false,
+      "extract": "布拉格国家歌剧院 (捷克语:  Státní opera )，是位于捷克首都布拉格的一所歌剧院。它是捷克国家文化场馆的重要组成部分，由捷克文化部创建于1992年。剧院最初为成立于1888年的New German Theatre，1949年到1989年名称为Smetana Theatre。后来改为现名Prague State Opera。",
+      "coordinates": {
+        "lat": 50.08055556,
+        "lon": 14.43277778
+      },
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/St%C3%A1tn%C3%AD_opera_in_Prague%2C_2010.jpg/1280px-St%C3%A1tn%C3%AD_opera_in_Prague%2C_2010.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/St%C3%A1tn%C3%AD_opera_in_Prague%2C_2010.jpg/1280px-St%C3%A1tn%C3%AD_opera_in_Prague%2C_2010.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bytes": 365661,
+      "contentType": "image/jpeg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:St%C3%A1tn%C3%AD_opera_in_Prague,_2010.jpg",
+      "license": "CC BY 3.0 de",
+      "usageTerms": "Creative Commons Attribution 3.0 de",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:High_Contrast\" title=\"User:High Contrast\">High Contrast</a>"
     },
     {
       "index": 62,
@@ -1749,11 +1891,23 @@
         50.088
       ],
       "img": null,
-      "credit": null,
+      "credit": "",
       "music": "查理大学的人文学与音乐学研究，是理解波希米亚音乐史和捷克民族乐派的综合大学节点。",
       "key": "布拉格|查理大学",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-062-843b93a159.webp",
+      "status": "downloaded",
+      "sourceTitle": "查理大学",
+      "sourcePage": "https://zh.wikipedia.org/wiki/%E6%9F%A5%E7%90%86%E5%A4%A7%E5%AD%A6",
+      "searchUsed": false,
+      "extract": "查理大学（捷克語：Univerzita Karlova；拉丁語：Universitas Carolina；英語：Charles University；德語：Karls-Universität），又名布拉格查理大学，史称布拉格大学（拉丁語：Universitas Pragensis），由神圣罗马帝国皇帝查理四世于1348年成立，是中欧最古老的大學和世界上最古老的大学之一，也是捷克最高学府，是一所世界闻名的综合性研究型高等学府，现有五万余名在读学生。\n查理大学是科英布拉集团、Europaeum、4EU+联盟、欧洲首都大学联盟、欧洲大学基金会、国际公立大学论坛成员，校友包括四位诺贝尔奖得主以及第谷·布拉赫、约翰内斯·开普勒、伯恩哈德·波爾查諾、恩斯特·马赫和阿尔伯特·爱因斯坦著名等科学家。",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Charles-University-symbol-4.svg/1280px-Charles-University-symbol-4.svg.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Charles-University-symbol-4.svg/1280px-Charles-University-symbol-4.svg.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bytes": 197982,
+      "contentType": "image/webp",
+      "filePage": "",
+      "license": "",
+      "usageTerms": "",
+      "artist": ""
     },
     {
       "index": 63,
@@ -1766,11 +1920,27 @@
         47.502
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\">Self-photographed</span>",
       "music": "匈牙利歌剧、管弦乐和舞台制度的中心，连接李斯特、巴托克与柯达伊之后的公共音乐文化。",
       "key": "布达佩斯|匈牙利国家歌剧院",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-063-411fdb187c.jpg",
+      "status": "downloaded",
+      "sourceTitle": "匈牙利国家歌剧院",
+      "sourcePage": "https://zh.wikipedia.org/wiki/%E5%8C%88%E7%89%99%E5%88%A9%E5%9B%BD%E5%AE%B6%E6%AD%8C%E5%89%A7%E9%99%A2",
+      "searchUsed": false,
+      "extract": "匈牙利国家歌剧院 (匈牙利語：Magyar Állami Operaház) 是一个新文艺复兴歌剧院，位于布达佩斯的佩斯中部，安德拉什大街。\n建筑师Miklós Ybl是19世纪匈牙利建筑界的重要人物，建造历时从1875年至1884年，由布达佩斯市和奥匈帝国皇帝弗朗茨约瑟夫出资。1884年9月27日，匈牙利皇家歌剧院（它当时的名字）向公众开放。 米克洛什\n\n这是一个装饰华丽的建筑，被认为是建筑大师的杰作之一。它是新文艺复兴风格，带有巴洛克风格的元素，装饰着当时匈牙利顶级艺术家的绘画和雕塑：Bertalan Székely、Mór Than和Károly Lotz。布达佩斯歌剧院虽然在规模和容量方面不是最大的，但是被认为是世界上少数几个在美丽和音响质量方面属于顶级的歌剧院之一。 \n礼堂共有1261个席位。它是马蹄形的 -  根据1970年代一群国际工程师所做的测量 - 音响效果仅次于米兰斯卡拉歌剧院和巴黎歌剧院，居欧洲第三位。虽然先后建成了许多歌剧院，但是布达佩斯歌剧院在声学条件方面仍然名列前茅。 \n建筑前方是匈牙利国歌作曲者、歌剧院第一个音乐总监费伦茨·艾凯尔的雕像。他也是在布达佩斯爱乐乐团的创始人。还有一尊雕像是李斯特，匈牙利最有名的作曲家。\n每年的演出季是从9月份到6月底，歌剧院除了演出歌剧外，还设有匈牙利国家芭蕾舞团。\n许多重要的艺术家受邀来此，包括作曲家古斯塔夫·馬勒（1887年至1891年）和指揮家奥托·克伦佩勒（1947年到1950年，担任音乐总监）等人。\n在1970年代，歌剧院的状况促使匈牙利国家下令进行大修。工程开始于1980年，至1984年结束。1984年9月27日，在首次开放整整100年之后，重新开放。\n匈牙利国家歌剧院的第二处建筑是埃克爾劇場（Erkel theatre）。这是一座更大的建筑，在演出季也主办歌剧和芭蕾舞表演。",
+      "coordinates": {
+        "lat": 47.50277778,
+        "lon": 19.05833333
+      },
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Hungarian_State_Opera_House%28PDXdj%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Hungarian_State_Opera_House%28PDXdj%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "bytes": 155513,
+      "contentType": "image/jpeg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Hungarian_State_Opera_House(PDXdj).jpg",
+      "license": "CC BY 2.5",
+      "usageTerms": "Creative Commons Attribution 2.5",
+      "artist": "<a href=\"https://en.wikipedia.org/wiki/User:PDXdj\" class=\"extiw\" title=\"wikipedia:User:PDXdj\">PDXdj</a> at <a href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\">English Wikipedia</a>"
     },
     {
       "index": 64,
@@ -1783,11 +1953,23 @@
         47.525
       ],
       "img": null,
-      "credit": null,
+      "credit": "<bdi lang=\"en\" dir=\"ltr\">Transferred from <span class=\"plainlinks\"><a class=\"external text\" data-mw-original-href=\"//hu.wikipedia.org\" href=\"https://hu.wikipedia.org\">hu.wikipedia</a></span> to Commons.</bdi>",
       "music": "巴托克晚年居所与纪念空间，展示民歌采集、现代作曲和流亡经验之间的联系。",
       "key": "布达佩斯|巴托克纪念馆",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-064-2ee96f6c9a.jpg",
+      "status": "downloaded",
+      "sourceTitle": "Bartók Béla emlékház.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Bart%C3%B3k_B%C3%A9la_eml%C3%A9kh%C3%A1z.jpg",
+      "searchUsed": false,
+      "extract": "",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Bart%C3%B3k_B%C3%A9la_eml%C3%A9kh%C3%A1z.jpg",
+      "license": "CC BY-SA 3.0",
+      "usageTerms": "Creative Commons Attribution-Share Alike 3.0",
+      "artist": "<a href=\"https://hu.wikipedia.org/wiki/user:Petru_suciu\" class=\"extiw\" title=\"hu:user:Petru suciu\">Petru suciu</a>",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Bart%C3%B3k_B%C3%A9la_eml%C3%A9kh%C3%A1z.jpg/1280px-Bart%C3%B3k_B%C3%A9la_eml%C3%A9kh%C3%A1z.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Bart%C3%B3k_B%C3%A9la_eml%C3%A9kh%C3%A1z.jpg/1280px-Bart%C3%B3k_B%C3%A9la_eml%C3%A9kh%C3%A1z.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "bytes": 588920,
+      "contentType": "image/jpeg"
     },
     {
       "index": 65,
@@ -1800,16 +1982,23 @@
         47.507
       ],
       "img": null,
-      "credit": null,
+      "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://npgallery.nps.gov/\">NPGallery</a>",
       "music": "柯达伊居所与纪念资料节点，连接匈牙利民歌研究和以歌唱为核心的音乐教育改革。",
       "key": "布达佩斯|柯达伊纪念馆",
-      "asset": null,
-      "status": "no-image",
-      "sourceTitle": "柯达伊纪念馆",
-      "sourcePage": "https://zh.wikipedia.org/wiki/%E6%9F%AF%E8%BE%BE%E4%BC%8A%E7%BA%AA%E5%BF%B5%E9%A6%86",
+      "asset": "images/poi/poi-065-4af3a2798e.jpg",
+      "status": "downloaded",
+      "sourceTitle": "42. Paul Danahy Jr. to Agfa Photo Shop, July 5, 1963 (37a835a5-5317-4545-81db-12a07bb0f082).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:42._Paul_Danahy_Jr._to_Agfa_Photo_Shop,_July_5,_1963_(37a835a5-5317-4545-81db-12a07bb0f082).jpg",
       "searchUsed": false,
       "extract": "",
-      "imageSource": ""
+      "filePage": "https://commons.wikimedia.org/wiki/File:42._Paul_Danahy_Jr._to_Agfa_Photo_Shop,_July_5,_1963_(37a835a5-5317-4545-81db-12a07bb0f082).jpg",
+      "license": "Public domain",
+      "usageTerms": "Public domain",
+      "artist": "NPS",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/42._Paul_Danahy_Jr._to_Agfa_Photo_Shop%2C_July_5%2C_1963_%2837a835a5-5317-4545-81db-12a07bb0f082%29.jpg/1280px-42._Paul_Danahy_Jr._to_Agfa_Photo_Shop%2C_July_5%2C_1963_%2837a835a5-5317-4545-81db-12a07bb0f082%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/42._Paul_Danahy_Jr._to_Agfa_Photo_Shop%2C_July_5%2C_1963_%2837a835a5-5317-4545-81db-12a07bb0f082%29.jpg/1280px-42._Paul_Danahy_Jr._to_Agfa_Photo_Shop%2C_July_5%2C_1963_%2837a835a5-5317-4545-81db-12a07bb0f082%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "bytes": 272290,
+      "contentType": "image/jpeg"
     },
     {
       "index": 66,
@@ -1822,11 +2011,27 @@
         47.489
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
       "music": "匈牙利人文学与音乐学研究的综合大学节点，可与李斯特学院的表演教育形成对照。",
       "key": "布达佩斯|罗兰大学",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-066-fa86c8c7fc.jpg",
+      "status": "downloaded",
+      "sourceTitle": "厄特沃什·羅蘭大學",
+      "sourcePage": "https://zh.wikipedia.org/wiki/%E5%8E%84%E7%89%B9%E6%B2%83%E4%BB%80%C2%B7%E7%BE%85%E8%98%AD%E5%A4%A7%E5%AD%B8",
+      "searchUsed": false,
+      "extract": "厄特沃什·羅蘭大學（匈牙利語：Eötvös Loránd Tudományegyetem，縮寫為ELTE，拉丁語：Universitas Budapestinensis de Rolando Eötvös nominata），簡稱羅蘭大學，舊名布達佩斯大學（Budapesti Tudományegyetem），位於匈牙利首都布达佩斯市的一所大学，为该国第一学府。創立於1635年。",
+      "coordinates": {
+        "lat": 47.4906,
+        "lon": 19.0585
+      },
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/ELTE%2C_L%C3%A1gym%C3%A1nyosi_Campus.jpg/1280px-ELTE%2C_L%C3%A1gym%C3%A1nyosi_Campus.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/ELTE%2C_L%C3%A1gym%C3%A1nyosi_Campus.jpg/1280px-ELTE%2C_L%C3%A1gym%C3%A1nyosi_Campus.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bytes": 313881,
+      "contentType": "image/jpeg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:ELTE,_L%C3%A1gym%C3%A1nyosi_Campus.jpg",
+      "license": "CC BY-SA 4.0",
+      "usageTerms": "Creative Commons Attribution-Share Alike 4.0",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:B%C3%A1thoryP%C3%A9ter\" title=\"User:BáthoryPéter\">BáthoryPéter</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:B%C3%A1thoryP%C3%A9ter\" title=\"User talk:BáthoryPéter\"><span class=\"signature-talk\">talk</span></a>)"
     },
     {
       "index": 67,
@@ -1839,11 +2044,23 @@
         40.813
       ],
       "img": null,
-      "credit": null,
+      "credit": "Contributed by author.",
       "music": "纽约重要的表演艺术学院，连接古典、爵士、作曲教育和职业舞台。",
       "key": "纽约|曼哈顿音乐学院",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-067-d093774020.jpg",
+      "status": "downloaded",
+      "sourceTitle": "曼哈顿音乐学院",
+      "sourcePage": "https://zh.wikipedia.org/wiki/%E6%9B%BC%E5%93%88%E9%A1%BF%E9%9F%B3%E4%B9%90%E5%AD%A6%E9%99%A2",
+      "searchUsed": false,
+      "extract": "曼哈顿音乐学院是位于纽约市西北部的一家音乐学校。该学校颁授学士、硕士和博士学位，有古典及爵士表演和作曲的专业。现有275名教员和来自30个国家的800名学生。学院还有预科分支，每学年训练400名学生。",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/WTM_NewYorkDolls_020.jpg/1280px-WTM_NewYorkDolls_020.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/WTM_NewYorkDolls_020.jpg/1280px-WTM_NewYorkDolls_020.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bytes": 617094,
+      "contentType": "image/jpeg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:WTM_NewYorkDolls_020.jpg",
+      "license": "CC BY-SA 3.0",
+      "usageTerms": "Creative Commons Attribution-Share Alike 3.0",
+      "artist": "<table style=\"width:100%; border:1px solid black; background:#ffe0e0; padding:0; text-align:center;\">\n\n<tbody><tr>\n<td align=\"left\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Wikipedia_Takes_Manhattan.png\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Wikipedia_Takes_Manhattan.png/250px-Wikipedia_Takes_Manhattan.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"150\" height=\"141\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Wikipedia_Takes_Manhattan.png/330px-Wikipedia_Takes_Manhattan.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"400\" data-file-height=\"376\"></a></span>\n</td>\n<td>This photo was taken by participant/team <big><i><b><a href=\"//commons.wikimedia.org/wiki/Category:Images_from_Wikipedia_Takes_Manhattan_by_NewYorkDolls\" title=\"Category:Images from Wikipedia Takes Manhattan by NewYorkDolls\">NewYorkDolls</a></b></i></big> as part of the <a href=\"//commons.wikimedia.org/wiki/Commons:Wikipedia_Takes_Manhattan\" title=\"Commons:Wikipedia Takes Manhattan\">Commons:Wikipedia Takes Manhattan</a> project on April 4, 2008.\n</td></tr></tbody></table>\n<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span> <span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"share alike\"><img alt=\"share alike\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/40px-Cc-sa_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/60px-Cc-sa_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by-sa/3.0/deed.en\" class=\"extiw\" title=\"creativecommons:by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</div><div class=\"rlicense-desc\" style=\"text-align:start;\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>\n<li><b>share alike</b> – If you remix, transform, or build upon the material, you must distribute your contributions under the <a href=\"https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses\" class=\"extiw\" title=\"ccorg:share-your-work/licensing-considerations/compatible-licenses\">same or compatible license</a> as the original.</li></ul></dd></dl></div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by-sa/3.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY-SA 3.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution-Share Alike 3.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>"
     },
     {
       "index": 68,
@@ -1856,11 +2073,23 @@
         40.775
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
       "music": "纽约音乐学院体系的重要组成，位于城市演出、教育和现代音乐创作网络之中。",
       "key": "纽约|曼内斯音乐学院",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-068-c0f3536c3e.jpg",
+      "status": "downloaded",
+      "sourceTitle": "Mannes1 1mar2010.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Mannes1_1mar2010.jpg",
+      "searchUsed": false,
+      "extract": "",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Mannes1_1mar2010.jpg",
+      "license": "CC0",
+      "usageTerms": "Creative Commons Zero, Public Domain Dedication",
+      "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:DannyDaWriter&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:DannyDaWriter (page does not exist)\">DannyDaWriter</a>",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Mannes1_1mar2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Mannes1_1mar2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "bytes": 593683,
+      "contentType": "image/jpeg"
     },
     {
       "index": 69,
@@ -1873,11 +2102,27 @@
         40.765
       ],
       "img": null,
-      "credit": null,
+      "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/ajay_suresh/48155558466/\">Carnegie Hall - Full</a>",
       "music": "现代音乐会制度最具象征性的大厅之一，见证了欧洲音乐传统在美国公共舞台上的重建。",
       "key": "纽约|卡内基音乐厅",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-069-ace5e3cc26.jpg",
+      "status": "downloaded",
+      "sourceTitle": "卡内基音乐厅",
+      "sourcePage": "https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%86%85%E5%9F%BA%E9%9F%B3%E4%B9%90%E5%8E%85",
+      "searchUsed": false,
+      "extract": "卡内基音乐厅（英語：Carnegie Hall）是一座位於美國纽约市第七大道881号的音樂廳，56街和57街中间，占据第七大道东侧，往北两个街区即是中央公园。由慈善家安德魯·卡內基出资，建于1890年，是美国古典音乐与流行音乐界的标志性建筑。該建築以历史悠久，外形美观以及声音效果出色而著称，被評價為世界百大廳院之一。设有自己的艺术策划、开发和市场部门，每季度演出100餘场；此外也出租给表演团体。目前无常驻乐团，纽约爱乐乐团在1962年之前驻紮于此。",
+      "coordinates": {
+        "lat": 40.765,
+        "lon": -73.98
+      },
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Carnegie_Hall_-_Full_%2848155558466%29.jpg/1280px-Carnegie_Hall_-_Full_%2848155558466%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Carnegie_Hall_-_Full_%2848155558466%29.jpg/1280px-Carnegie_Hall_-_Full_%2848155558466%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bytes": 679996,
+      "contentType": "image/jpeg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Carnegie_Hall_-_Full_(48155558466).jpg",
+      "license": "CC BY 2.0",
+      "usageTerms": "Creative Commons Attribution 2.0",
+      "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/83136374@N05\">Ajay Suresh</a> from New York, NY, USA"
     },
     {
       "index": 70,
