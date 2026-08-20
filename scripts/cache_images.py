@@ -17,6 +17,7 @@ ROOT = Path(__file__).resolve().parents[1]
 SOURCE_FILE = ROOT / "source-pois.json"
 IMAGE_DIR = ROOT / "images" / "poi"
 USER_AGENT = "AdFontesEuropa/1.0 (static image cache; Wikimedia attribution manifest)"
+COMMONS_FALLBACK_MAX = 45
 
 
 def get_json(url: str, timeout: int = 35) -> dict:
@@ -212,7 +213,7 @@ def process(row: dict) -> dict:
                 result["coordinates"] = {"lat": coordinates.get("lat"), "lon": coordinates.get("lon")}
             image = page.get("thumbnail") or page.get("originalimage") or {}
             image_source = image.get("source", "")
-        if not image_source:
+        if not image_source and int(result.get("index", 10**9)) < COMMONS_FALLBACK_MAX:
             commons, commons_meta = find_commons_image(row)
             if commons:
                 result["sourceTitle"] = commons["title"]
