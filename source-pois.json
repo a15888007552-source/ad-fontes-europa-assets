@@ -1,7 +1,7 @@
 {
   "special": 29,
   "cultural": 129,
-  "total": 158,
+  "total": 180,
   "withImg": 0,
   "duplicateKeys": [],
   "rows": [
@@ -2216,6 +2216,315 @@
       "img": null,
       "credit": null,
       "music": "列日人文学、历史和音乐文化研究的综合大学节点。"
+    },
+    {
+      "index": 158,
+      "city": "克罗顿",
+      "name": "克罗顿国家考古博物馆",
+      "kind": "城市建筑",
+      "wiki": "National Archaeological Museum of Crotone",
+      "fallback": [
+        17.117,
+        39.081
+      ],
+      "img": null,
+      "credit": "",
+      "music": "克罗顿是毕达哥拉斯学派活动的南意大利节点；这里的音程比例传统后来被古代与中世纪乐学反复追述。"
+    },
+    {
+      "index": 159,
+      "city": "克罗顿",
+      "name": "克罗顿主教座堂",
+      "kind": "城市建筑",
+      "wiki": "Crotone Cathedral",
+      "fallback": [
+        17.119,
+        39.081
+      ],
+      "img": null,
+      "credit": "",
+      "music": ""
+    },
+    {
+      "index": 160,
+      "city": "宾根",
+      "name": "宾根主教座堂",
+      "kind": "城市建筑",
+      "wiki": "Bingen am Rhein",
+      "fallback": [
+        7.899,
+        49.967
+      ],
+      "img": null,
+      "credit": "",
+      "music": "宾根的城市记忆与希尔德加德相连；她的修道院歌唱和神学文本构成中世纪女性音乐创作的重要见证。"
+    },
+    {
+      "index": 161,
+      "city": "兰斯",
+      "name": "马尔斯门",
+      "kind": "城市建筑",
+      "wiki": "Porte de Mars (Reims)",
+      "fallback": [
+        4.033,
+        49.26
+      ],
+      "img": null,
+      "credit": "",
+      "music": ""
+    },
+    {
+      "index": 162,
+      "city": "威尼斯",
+      "name": "威尼斯总督宫",
+      "kind": "城市建筑",
+      "wiki": "Doge's Palace",
+      "fallback": [
+        12.34,
+        45.434
+      ],
+      "img": null,
+      "credit": "",
+      "music": "总督宫与圣马可广场共同构成威尼斯共和国的公共仪式空间；圣马可的复合唱传统必须放在这套国家—教会声景中理解。"
+    },
+    {
+      "index": 163,
+      "city": "艾森施塔特",
+      "name": "海顿故居",
+      "kind": "音乐家故居",
+      "wiki": "Haydn House",
+      "fallback": [
+        16.524,
+        47.845
+      ],
+      "img": null,
+      "credit": "",
+      "music": "海顿在此度过晚年；故居把作曲家的家庭生活、地方记忆和埃斯特哈齐宫廷制度连接起来。"
+    },
+    {
+      "index": 164,
+      "city": "康布雷",
+      "name": "圣热里教堂",
+      "kind": "城市建筑",
+      "wiki": "Église Saint-Géry de Cambrai",
+      "fallback": [
+        3.231,
+        50.175
+      ],
+      "img": null,
+      "credit": "",
+      "music": "康布雷与杜费、奥克冈等佛兰德斯复调传统相连；教会职务与城市唱诗班是十五世纪音乐流动的重要基础设施。"
+    },
+    {
+      "index": 165,
+      "city": "孔代",
+      "name": "孔代城堡",
+      "kind": "城市建筑",
+      "wiki": "Condé-sur-l'Escaut",
+      "fallback": [
+        3.593,
+        50.455
+      ],
+      "img": null,
+      "credit": "",
+      "music": ""
+    },
+    {
+      "index": 166,
+      "city": "孔代",
+      "name": "圣瓦斯农教堂",
+      "kind": "城市建筑",
+      "wiki": "Église Saint-Wasnon de Condé-sur-l'Escaut",
+      "fallback": [
+        3.592,
+        50.453
+      ],
+      "img": null,
+      "credit": "",
+      "music": ""
+    },
+    {
+      "index": 167,
+      "city": "阿维拉",
+      "name": "圣维森特圣殿",
+      "kind": "城市建筑",
+      "wiki": "Basílica de San Vicente, Ávila",
+      "fallback": [
+        -4.694,
+        40.657
+      ],
+      "img": null,
+      "credit": "",
+      "music": ""
+    },
+    {
+      "index": 168,
+      "city": "贝济耶",
+      "name": "贝济耶圣纳泽尔主教座堂",
+      "kind": "城市建筑",
+      "wiki": "Béziers Cathedral",
+      "fallback": [
+        3.215,
+        43.344
+      ],
+      "img": null,
+      "credit": "",
+      "music": ""
+    },
+    {
+      "index": 169,
+      "city": "贝济耶",
+      "name": "老桥",
+      "kind": "城市建筑",
+      "wiki": "Pont vieux de Béziers",
+      "fallback": [
+        3.214,
+        43.342
+      ],
+      "img": null,
+      "credit": "",
+      "music": ""
+    },
+    {
+      "index": 170,
+      "city": "贝济耶",
+      "name": "丰塞拉讷船闸",
+      "kind": "城市建筑",
+      "wiki": "Fonseranes Locks",
+      "fallback": [
+        3.192,
+        43.333
+      ],
+      "img": null,
+      "credit": "",
+      "music": "贝济耶位于奥克语文化圈；这里更适合作为城市历史与游吟传统的地理入口，而不是直接的音乐演出场所。"
+    },
+    {
+      "index": 171,
+      "city": "翁弗勒尔",
+      "name": "圣卡特琳木教堂",
+      "kind": "城市建筑",
+      "wiki": "Saint Catherine's Church, Honfleur",
+      "fallback": [
+        0.232,
+        49.419
+      ],
+      "img": null,
+      "credit": "",
+      "music": ""
+    },
+    {
+      "index": 172,
+      "city": "利摩日",
+      "name": "圣马夏尔修道院遗址",
+      "kind": "音乐历史地点",
+      "wiki": "Abbey of Saint Martial",
+      "fallback": [
+        1.262,
+        45.829
+      ],
+      "img": null,
+      "credit": "",
+      "music": "利摩日圣马夏尔修道院是阿基坦复调与花唱手稿的重要中心；这里标出的是中世纪音乐书写制度的地点，而非现代演出场馆。"
+    },
+    {
+      "index": 173,
+      "city": "米蒂利尼",
+      "name": "米蒂利尼城堡",
+      "kind": "城市建筑",
+      "wiki": "Mytilene Castle",
+      "fallback": [
+        26.555,
+        39.105
+      ],
+      "img": null,
+      "credit": "",
+      "music": ""
+    },
+    {
+      "index": 174,
+      "city": "米蒂利尼",
+      "name": "圣泰拉邦教堂",
+      "kind": "城市建筑",
+      "wiki": "Church of Agios Therapon",
+      "fallback": [
+        26.555,
+        39.105
+      ],
+      "img": null,
+      "credit": "",
+      "music": ""
+    },
+    {
+      "index": 175,
+      "city": "蒙斯",
+      "name": "圣沃德吕学院教堂",
+      "kind": "城市建筑",
+      "wiki": "Collégiale Sainte-Waudru de Mons",
+      "fallback": [
+        3.951,
+        50.454
+      ],
+      "img": null,
+      "credit": "",
+      "music": "蒙斯所在的埃诺地区与班舒瓦等十五世纪作曲家网络相连；教堂礼仪机构是勃艮第—佛兰德斯复调流动的重要节点。"
+    },
+    {
+      "index": 176,
+      "city": "伍斯特",
+      "name": "埃尔加出生地博物馆",
+      "kind": "音乐家故居",
+      "wiki": "Elgar Birthplace Museum",
+      "fallback": [
+        -2.159,
+        52.208
+      ],
+      "img": null,
+      "credit": "",
+      "music": "埃尔加在伍斯特郡的乡土经验进入《谜语变奏曲》等作品；此处是理解其英国地方性与帝国时代音乐语言的入口。"
+    },
+    {
+      "index": 177,
+      "city": "列日",
+      "name": "列日主教座堂",
+      "kind": "城市建筑",
+      "wiki": "Liège Cathedral",
+      "fallback": [
+        5.567,
+        50.645
+      ],
+      "img": null,
+      "credit": "",
+      "music": "列日的教会机构与低地国家音乐网络相连；奇科尼亚的列日出身把这座城市带入十四、十五世纪音乐流动史。"
+    },
+    {
+      "index": 178,
+      "city": "列日",
+      "name": "瓦隆皇家歌剧院",
+      "kind": "音乐场所",
+      "wiki": "Opéra Royal de Wallonie",
+      "fallback": [
+        5.568,
+        50.645
+      ],
+      "img": null,
+      "credit": "",
+      "music": ""
+    },
+    {
+      "index": 179,
+      "city": "列日",
+      "name": "圣巴托洛缪学院教堂",
+      "kind": "城市建筑",
+      "wiki": "Collegiate Church of Saint Bartholomew, Liège",
+      "fallback": [
+        5.578,
+        50.649
+      ],
+      "img": null,
+      "credit": "",
+      "music": ""
     }
-  ]
+  ],
+  "city": 22
 }
