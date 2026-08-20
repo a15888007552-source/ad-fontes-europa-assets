@@ -46,8 +46,7 @@ def api_url(params: dict[str, str]) -> str:
 def resolve_page(poi: dict) -> tuple[dict | None, bool, str]:
     candidates = []
     for project, title in (
-        ("zh", poi.get("name")), ("zh", poi.get("wiki")),
-        ("en", poi.get("wiki")), ("en", poi.get("name")),
+        ("zh", poi.get("name")), ("en", poi.get("wiki") or poi.get("name")),
     ):
         if title and (project, title) not in candidates:
             candidates.append((project, title))
