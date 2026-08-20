@@ -23,18 +23,26 @@ def get_json(url: str, timeout: int = 35) -> dict:
         return json.load(response)
 
 
+def project_api_url(project: str, params: dict[str, str]) -> str:
+    host = "commons.wikimedia.org" if project == "commons" else f"{project}.wikipedia.org"
+    return f"https://{host}/w/api.php?" + urlencode(params, doseq=True)
+
+
 def api_url(params: dict[str, str]) -> str:
-    return "https://zh.wikipedia.org/w/api.php?" + urlencode(params, doseq=True)
+    return project_api_url("zh", params)
 
 
 def resolve_page(poi: dict) -> tuple[dict | None, bool, str]:
-    titles = []
-    for title in (poi.get("name"), poi.get("wiki")):
-        if title and title not in titles:
-            titles.append(title)
-    for title in titles:
+    candidates = []
+    for project, title in (
+        ("zh", poi.get("name")), ("zh", poi.get("wiki")),
+        ("en", poi.get("wiki")), ("en", poi.get("name")),
+    ):
+        if title and (project, title) not in candidates:
+            candidates.append((project, title))
+    for project, title in candidates:
         try:
-            payload = get_json(api_url({
+            payload = get_json(project_api_url(project, {
                 "action": "query", "origin": "*", "format": "json", "redirects": "1",
                 "prop": "coordinates|pageimages|extracts|info", "inprop": "url",
                 "exintro": "1", "explaintext": "1", "pithumbsize": "1200", "titles": title,
@@ -42,6 +50,7 @@ def resolve_page(poi: dict) -> tuple[dict | None, bool, str]:
             pages = list((payload.get("query", {}).get("pages", {}) or {}).values())
             page = pages[0] if pages else None
             if page and not page.get("missing"):
+                page["_project"] = project
                 return page, False, title
         except Exception:
             continue
@@ -61,10 +70,51 @@ def resolve_page(poi: dict) -> tuple[dict | None, bool, str]:
             pages = list((page_payload.get("query", {}).get("pages", {}) or {}).values())
             page = pages[0] if pages else None
             if page and not page.get("missing"):
+                page["_project"] = "zh"
                 return page, True, title
     except Exception:
         pass
     return None, False, ""
+
+
+def find_commons_image(poi: dict) -> tuple[dict | None, dict]:
+    queries = []
+    for value in (poi.get("wiki"), poi.get("name"), f"{poi.get('city', '')} {poi.get('name', '')}"):
+        if value and value not in queries:
+            queries.append(value)
+    for query in queries:
+        try:
+            payload = get_json(project_api_url("commons", {
+                "action": "query", "format": "json", "generator": "search",
+                "gsrsearch": query, "gsrnamespace": "6", "gsrlimit": "5",
+                "prop": "imageinfo", "iiprop": "url|extmetadata", "iiurlwidth": "1200",
+            }))
+            pages = list((payload.get("query", {}).get("pages", {}) or {}).values())
+            for page in pages:
+                info = (page.get("imageinfo") or [{}])[0]
+                image_source = info.get("thumburl") or info.get("url") or ""
+                if not image_source.startswith("https://upload.wikimedia.org/"):
+                    continue
+                metadata = info.get("extmetadata", {}) or {}
+
+                def value(key: str) -> str:
+                    item = metadata.get(key, {}) or {}
+                    return str(item.get("value") or item.get("cleanvalue") or "")
+
+                return {
+                    "title": page.get("title", "").removeprefix("File:"),
+                    "sourcePage": info.get("descriptionurl", ""),
+                    "imageSource": image_source,
+                }, {
+                    "filePage": info.get("descriptionurl", ""),
+                    "license": value("LicenseShortName") or value("UsageTerms"),
+                    "usageTerms": value("UsageTerms"),
+                    "artist": value("Artist"),
+                    "credit": value("Credit"),
+                }
+        except Exception:
+            continue
+    return None, {}
 
 
 def image_metadata(image_url: str) -> dict:
@@ -126,6 +176,7 @@ def download_image(image_url: str, destination: Path) -> tuple[str, int]:
 
 def process(row: dict) -> dict:
     result = dict(row)
+    result["key"] = result.get("key") or f"{result.get('city', '')}|{result.get('name', '')}"
     result["asset"] = None
     result["status"] = "pending"
     try:
@@ -134,7 +185,8 @@ def process(row: dict) -> dict:
             result["status"] = "no-wikipedia-page"
             return result
         result["sourceTitle"] = page.get("title") or query_title
-        result["sourcePage"] = page.get("fullurl") or "https://zh.wikipedia.org/wiki/" + quote(result["sourceTitle"])
+        project = page.get("_project", "zh")
+        result["sourcePage"] = page.get("fullurl") or f"https://{project}.wikipedia.org/wiki/" + quote(result["sourceTitle"])
         result["searchUsed"] = searched
         result["extract"] = page.get("extract", "")
         coordinates = (page.get("coordinates") or [None])[0]
@@ -142,6 +194,13 @@ def process(row: dict) -> dict:
             result["coordinates"] = {"lat": coordinates.get("lat"), "lon": coordinates.get("lon")}
         image = page.get("thumbnail") or page.get("originalimage") or {}
         image_source = image.get("source", "")
+        if not image_source:
+            commons, commons_meta = find_commons_image(row)
+            if commons:
+                result["sourceTitle"] = commons["title"]
+                result["sourcePage"] = commons["sourcePage"]
+                image_source = commons["imageSource"]
+                result.update(commons_meta)
         result["imageSource"] = image_source
         if not image_source:
             result["status"] = "no-image"
