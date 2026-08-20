@@ -17,7 +17,7 @@ from urllib.request import Request, urlopen
 ROOT = Path(__file__).resolve().parents[1]
 SOURCE_FILE = ROOT / "source-pois.json"
 IMAGE_DIR = ROOT / "images" / "poi"
-USER_AGENT = "AdFontesEuropa/1.0 (static image cache; Wikimedia attribution manifest)"
+USER_AGENT = "AdFontesEuropa/1.0 (https://github.com/a15888007552-source/ad-fontes-europa-assets; static image cache; Wikimedia attribution manifest)"
 COMMONS_FALLBACK_MAX = 50
 BATCH_ONLY = os.environ.get("CACHE_BATCH_ONLY", "0") == "1"
 BATCH_START = int(os.environ.get("CACHE_BATCH_START", "0"))
@@ -178,7 +178,13 @@ def extension(content_type: str, image_url: str) -> str:
 def download_image(image_url: str, destination: Path) -> tuple[str, int]:
     for attempt in range(4):
         try:
-            request = Request(image_url, headers={"User-Agent": USER_AGENT})
+            if attempt:
+                time.sleep(min(12.0 * attempt, 45.0))
+            request = Request(image_url, headers={
+                "User-Agent": USER_AGENT,
+                "Accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+                "Referer": "https://commons.wikimedia.org/",
+            })
             with urlopen(request, timeout=60) as response:
                 content_type = response.headers.get("Content-Type", "")
                 if not content_type.lower().split(";", 1)[0].startswith("image/"):
@@ -189,8 +195,12 @@ def download_image(image_url: str, destination: Path) -> tuple[str, int]:
             if error.code not in {429, 500, 502, 503, 504} or attempt == 3:
                 raise
             retry_after = error.headers.get("Retry-After", "")
-            delay = float(retry_after) if retry_after.isdigit() else 3.0 * (attempt + 1)
-            time.sleep(min(delay, 15.0))
+            try:
+                server_delay = float(retry_after)
+            except ValueError:
+                server_delay = 0.0
+            delay = max(server_delay, 12.0 * (attempt + 1))
+            time.sleep(min(delay, 60.0))
     if not data:
         raise RuntimeError("empty image")
     destination.write_bytes(data)
@@ -249,7 +259,10 @@ def process(row: dict) -> dict:
         result["bytes"] = size
         result["contentType"] = content_type
         result["status"] = "downloaded"
-        result.update(image_metadata(image_source))
+        try:
+            result.update(image_metadata(image_source))
+        except Exception as metadata_error:
+            result["metadataError"] = str(metadata_error)
     except Exception as error:
         result["status"] = "error"
         result["error"] = str(error)
@@ -272,7 +285,7 @@ def main() -> int:
     if BATCH_ONLY:
         target_rows = [row for row in rows if BATCH_START <= int(row.get("index", 0)) < BATCH_END]
     results: list[dict] = []
-    with concurrent.futures.ThreadPoolExecutor(max_workers=2) as executor:
+    with concurrent.futures.ThreadPoolExecutor(max_workers=1) as executor:
         futures = {executor.submit(process, row): row for row in target_rows}
         for index, future in enumerate(concurrent.futures.as_completed(futures), 1):
             result = future.result()
