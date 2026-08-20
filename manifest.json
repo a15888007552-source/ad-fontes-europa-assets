@@ -1,6 +1,6 @@
 {
   "schema": "ad-fontes-europa-poi-assets/v1",
-  "generatedAt": "2026-08-20T23:20:01.549896+00:00",
+  "generatedAt": "2026-08-20T23:22:04.464356+00:00",
   "source": "Wikipedia/Wikimedia API (zh.wikipedia.org and upload.wikimedia.org)",
   "notes": [
     "Only images served from upload.wikimedia.org were cached.",
@@ -8,7 +8,7 @@
     "A blank or unknown license field still requires manual attribution review."
   ],
   "total": 158,
-  "downloaded": 130,
+  "downloaded": 150,
   "rows": [
     {
       "index": 0,
@@ -3907,11 +3907,23 @@
         43.604
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
       "music": "图卢兹的高等音乐教育与表演机构，连接奥克语文化圈、歌剧和现代音乐训练。",
       "key": "图卢兹|图卢兹高等音乐学院",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-130-77a19f4b9f.jpg",
+      "status": "downloaded",
+      "sourceTitle": "Ancien hôpital Larrey, amphithéâtre du Conservatoire, Toulouse.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Ancien_h%C3%B4pital_Larrey,_amphith%C3%A9%C3%A2tre_du_Conservatoire,_Toulouse.jpg",
+      "searchUsed": false,
+      "extract": "",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Ancien_h%C3%B4pital_Larrey,_amphith%C3%A9%C3%A2tre_du_Conservatoire,_Toulouse.jpg",
+      "license": "CC BY-SA 3.0",
+      "usageTerms": "Creative Commons Attribution-Share Alike 3.0",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Don-vip\" title=\"User:Don-vip\">Don-vip</a>",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ancien_h%C3%B4pital_Larrey%2C_amphith%C3%A9%C3%A2tre_du_Conservatoire%2C_Toulouse.jpg/1280px-Ancien_h%C3%B4pital_Larrey%2C_amphith%C3%A9%C3%A2tre_du_Conservatoire%2C_Toulouse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ancien_h%C3%B4pital_Larrey%2C_amphith%C3%A9%C3%A2tre_du_Conservatoire%2C_Toulouse.jpg/1280px-Ancien_h%C3%B4pital_Larrey%2C_amphith%C3%A9%C3%A2tre_du_Conservatoire%2C_Toulouse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "bytes": 227343,
+      "contentType": "image/jpeg"
     },
     {
       "index": 131,
@@ -3924,11 +3936,23 @@
         45.833
       ],
       "img": null,
-      "credit": null,
+      "credit": "",
       "music": "利摩日现代音乐教育机构，与圣马夏尔修道院的中世纪音乐记忆形成古今对照。",
       "key": "利摩日|利摩日地区音乐学院",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-131-f0416e0c4a.jpg",
+      "status": "downloaded",
+      "sourceTitle": "Annales de la Société botanique de Lyon (IA annalesdelasocie3719soci).pdf",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Annales_de_la_Soci%C3%A9t%C3%A9_botanique_de_Lyon_(IA_annalesdelasocie3719soci).pdf",
+      "searchUsed": false,
+      "extract": "",
+      "filePage": "",
+      "license": "",
+      "usageTerms": "",
+      "artist": "",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Annales_de_la_Soci%C3%A9t%C3%A9_botanique_de_Lyon_%28IA_annalesdelasocie3719soci%29.pdf/page1-1280px-Annales_de_la_Soci%C3%A9t%C3%A9_botanique_de_Lyon_%28IA_annalesdelasocie3719soci%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Annales_de_la_Soci%C3%A9t%C3%A9_botanique_de_Lyon_%28IA_annalesdelasocie3719soci%29.pdf/page1-1280px-Annales_de_la_Soci%C3%A9t%C3%A9_botanique_de_Lyon_%28IA_annalesdelasocie3719soci%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "bytes": 860674,
+      "contentType": "image/jpeg"
     },
     {
       "index": 132,
@@ -3941,11 +3965,23 @@
         50.935
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
       "music": "德国重要的高等音乐教育机构，覆盖作曲、演奏、爵士与舞蹈。",
       "key": "科隆|科隆音乐与舞蹈学院",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-132-59ed6cfe1c.jpg",
+      "status": "downloaded",
+      "sourceTitle": "Hochschule für Musik und Tanz Köln, Unter Krahnenbäumen 87-9340.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Hochschule_f%C3%BCr_Musik_und_Tanz_K%C3%B6ln,_Unter_Krahnenb%C3%A4umen_87-9340.jpg",
+      "searchUsed": false,
+      "extract": "科隆音乐与舞蹈学院（德語：Hochschule für Musik und Tanz Köln）位于德国科隆市，是欧洲最大的音乐院校。1987至2009年间校名为“科隆音乐学院”（Hochschule für Musik Köln）。",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Hochschule_f%C3%BCr_Musik_und_Tanz_K%C3%B6ln,_Unter_Krahnenb%C3%A4umen_87-9340.jpg",
+      "license": "CC BY-SA 4.0",
+      "usageTerms": "Creative Commons Attribution-Share Alike 4.0",
+      "artist": "<bdi><a href=\"https://www.wikidata.org/wiki/Q108103612\" class=\"extiw\" title=\"d:Q108103612\"><span title=\"Wikipedian and OpenStreetMap mapper from Cologne, Open Data activist\">Raimond Spekking</span></a></bdi>",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Hochschule_f%C3%BCr_Musik_und_Tanz_K%C3%B6ln%2C_Unter_Krahnenb%C3%A4umen_87-9340.jpg/1280px-Hochschule_f%C3%BCr_Musik_und_Tanz_K%C3%B6ln%2C_Unter_Krahnenb%C3%A4umen_87-9340.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Hochschule_f%C3%BCr_Musik_und_Tanz_K%C3%B6ln%2C_Unter_Krahnenb%C3%A4umen_87-9340.jpg/1280px-Hochschule_f%C3%BCr_Musik_und_Tanz_K%C3%B6ln%2C_Unter_Krahnenb%C3%A4umen_87-9340.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "bytes": 424064,
+      "contentType": "image/jpeg"
     },
     {
       "index": 133,
@@ -3958,11 +3994,23 @@
         50.928
       ],
       "img": null,
-      "credit": null,
+      "credit": "",
       "music": "科隆人文学、音乐学和战后先锋艺术研究的综合大学节点。",
       "key": "科隆|科隆大学",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-133-e882200ecb.webp",
+      "status": "downloaded",
+      "sourceTitle": "科隆大学",
+      "sourcePage": "https://zh.wikipedia.org/wiki/%E7%A7%91%E9%9A%86%E5%A4%A7%E5%AD%A6",
+      "searchUsed": false,
+      "extract": "科隆大学（德語：Universität zu Köln，英語：University of Cologne）是一所位于德国科隆的顶尖研究型公立大学，成立于公元1388年，是欧洲历史最悠久的大学之一，名列科英布拉集团成员。同时，科隆大学也是德国U15大学联盟成员之一，于2012年被评为德国精英大学之一，拥有四个卓越精英研究集群。科隆大学Wiso商学院是CEMS全球商学院联盟成员之一，与全世界34所顶尖的商学院建立双学位合作关系。\n在2023年泰晤士高等教育世界大学排名中，科隆大学名列全球第146位。在2023年《美国新闻和世界报导》的全球大学排名中，科隆大学位列全球第244名。",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Siegel_Uni_K%C3%B6ln_%28grau%29.svg/1280px-Siegel_Uni_K%C3%B6ln_%28grau%29.svg.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Siegel_Uni_K%C3%B6ln_%28grau%29.svg/1280px-Siegel_Uni_K%C3%B6ln_%28grau%29.svg.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bytes": 144672,
+      "contentType": "image/webp",
+      "filePage": "",
+      "license": "",
+      "usageTerms": "",
+      "artist": ""
     },
     {
       "index": 134,
@@ -3975,11 +4023,23 @@
         50.118
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
       "music": "德国重要的高等音乐与表演艺术机构，连接歌剧、交响乐和作曲教育。",
       "key": "法兰克福|法兰克福音乐与表演艺术大学",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-134-1bdce19fe9.jpg",
+      "status": "downloaded",
+      "sourceTitle": "Big-band-hfmubk-ffm005.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Big-band-hfmubk-ffm005.jpg",
+      "searchUsed": false,
+      "extract": "",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Big-band-hfmubk-ffm005.jpg",
+      "license": "CC BY-SA 3.0",
+      "usageTerms": "Creative Commons Attribution-Share Alike 3.0",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Dontworry\" title=\"User:Dontworry\">Dontworry</a>",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Big-band-hfmubk-ffm005.jpg/1280px-Big-band-hfmubk-ffm005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Big-band-hfmubk-ffm005.jpg/1280px-Big-band-hfmubk-ffm005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "bytes": 403291,
+      "contentType": "image/jpeg"
     },
     {
       "index": 135,
@@ -3992,11 +4052,23 @@
         50.127
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
       "music": "法兰克福人文学、社会理论与音乐哲学研究的综合大学节点。",
       "key": "法兰克福|法兰克福歌德大学",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-135-7fa9c64efc.jpg",
+      "status": "downloaded",
+      "sourceTitle": "Goethe-Universität Frankfurt IG-Farbenhaus Südansicht Campus Westend 1.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Goethe-Universit%C3%A4t_Frankfurt_IG-Farbenhaus_S%C3%BCdansicht_Campus_Westend_1.jpg",
+      "searchUsed": false,
+      "extract": "約翰·沃夫岡·歌德-美茵河畔法蘭克福大學（德語：Johann Wolfgang Goethe-Universität Frankfurt am Main），簡稱為「歌德-美茵河畔法蘭克福大學」（Goethe-Universität Frankfurt am Main）、「法蘭克福大學」（Uni Frankfurt）或「歌德大學」（Goethe Uni），是德國著名的綜合公立研究型大學，位于黑森邦第一大城法蘭克福。\n法蘭克福大學創校之初曾被稱為「市民大學」、「國王大學」等，直到1932年才決定以法蘭克福之子，德國最受景仰的人文思想家歌德之名為大學命名，紀念他在文學、科學和哲學領域的精神和貢獻。2008年，正式校名再由原先的歌德全名（Johann Wolfgang Goethe）縮減成「歌德」（Goethe）一個單字，沿用至今。目前大學擁有4萬6千名學生，5千多位學術研究者，包含當中約600位正教授。國際學生7000余人（占比15%），來自130多個不同國家。16個學院提供超過170種專業，是德國最有名望且規模龐大的大學之一，屬於德國U15大學聯盟。",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Goethe-Universit%C3%A4t_Frankfurt_IG-Farbenhaus_S%C3%BCdansicht_Campus_Westend_1.jpg",
+      "license": "CC BY 4.0",
+      "usageTerms": "Creative Commons Attribution 4.0",
+      "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Common-support&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Common-support (page does not exist)\">Common-support</a>",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Goethe-Universit%C3%A4t_Frankfurt_IG-Farbenhaus_S%C3%BCdansicht_Campus_Westend_1.jpg/1280px-Goethe-Universit%C3%A4t_Frankfurt_IG-Farbenhaus_S%C3%BCdansicht_Campus_Westend_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Goethe-Universit%C3%A4t_Frankfurt_IG-Farbenhaus_S%C3%BCdansicht_Campus_Westend_1.jpg/1280px-Goethe-Universit%C3%A4t_Frankfurt_IG-Farbenhaus_S%C3%BCdansicht_Campus_Westend_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "bytes": 1290943,
+      "contentType": "image/jpeg"
     },
     {
       "index": 136,
@@ -4009,11 +4081,23 @@
         48.15
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
       "music": "巴伐利亚高等音乐教育中心，覆盖歌剧、交响乐、作曲和演奏。",
       "key": "慕尼黑|慕尼黑音乐与戏剧大学",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-136-e2f4ad4add.jpg",
+      "status": "downloaded",
+      "sourceTitle": "Hochschule für Musik und Theater München-7617.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Hochschule_f%C3%BCr_Musik_und_Theater_M%C3%BCnchen-7617.jpg",
+      "searchUsed": false,
+      "extract": "",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Hochschule_f%C3%BCr_Musik_und_Theater_M%C3%BCnchen-7617.jpg",
+      "license": "CC BY-SA 4.0",
+      "usageTerms": "Creative Commons Attribution-Share Alike 4.0",
+      "artist": "<bdi><a href=\"https://www.wikidata.org/wiki/Q108103612\" class=\"extiw\" title=\"d:Q108103612\"><span title=\"Wikipedian and OpenStreetMap mapper from Cologne, Open Data activist\">Raimond Spekking</span></a></bdi>",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Hochschule_f%C3%BCr_Musik_und_Theater_M%C3%BCnchen-7617.jpg/1280px-Hochschule_f%C3%BCr_Musik_und_Theater_M%C3%BCnchen-7617.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Hochschule_f%C3%BCr_Musik_und_Theater_M%C3%BCnchen-7617.jpg/1280px-Hochschule_f%C3%BCr_Musik_und_Theater_M%C3%BCnchen-7617.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "bytes": 293763,
+      "contentType": "image/jpeg"
     },
     {
       "index": 137,
@@ -4026,11 +4110,23 @@
         48.15
       ],
       "img": null,
-      "credit": null,
+      "credit": "",
       "music": "慕尼黑人文学、音乐学与艺术史研究的综合大学节点。",
       "key": "慕尼黑|慕尼黑大学",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-137-850aae1ab1.webp",
+      "status": "downloaded",
+      "sourceTitle": "慕尼黑大学",
+      "sourcePage": "https://zh.wikipedia.org/wiki/%E6%85%95%E5%B0%BC%E9%BB%91%E5%A4%A7%E5%AD%A6",
+      "searchUsed": false,
+      "extract": "路德维希-马克西米利安-慕尼黑大学（德語：Ludwig-Maximilians-Universität München，簡稱慕尼黑大學或LMU）是一所位於德國巴伐利亞州慕尼黑的綜合性大學。\n1472年，由巴伐利亚－蘭茨胡特公国的路德维希公爵所创建，為欧洲历史最為悠久的大学之一。1802年，为纪念创始人路德维希公爵和選帝侯马克西米利安一世，校名變更为Universitas Ludovico-Maximilianea Monacensis（拉丁文），並賦予今日的德语名稱 Ludwig-Maximilians Universität。\n慕尼黑大學為歐洲最著名的大學之一，以其雄厚的學術研究實力享譽國際，曾經培養造就過43位諾貝爾獎得主。2006年10月，慕尼黑大學成為德國為提升大學研究質量的「德國大學卓越計畫」中的「精英大學」之一，並且為首輪第一批入選的三所學校之一。在2012年6月揭曉的第二輪卓越計劃評選和2019年7月揭曉的第三輪卓越計劃評選中，依舊維持其精英大學的地位，並獲得德國聯邦政府的研究資助。截止2020年10月，共有43位校友、教职工及研究人员获得过诺贝尔奖。\n慕尼黑大学为德国学术资源最为集中、声誉最佳的高校之一。在2023年QS世界大学排名中，慕尼黑大学名列德国第2，全球第59位。在2023年泰晤士高等教育世界大學排名中，慕尼黑大学名列德国第2，全球第33位。在2022年“上海交通大学世界大学学术排名”中，名列德国第2，全球第57位。在2022-2023年“《美国新闻和世界报导》的全球大学排名”U.S. News & World Report大學排名中，慕尼黑大学名列德国第1，全球第47位。",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Sigillum_Universitatis_Ludovico-Maximilianeae.svg/1280px-Sigillum_Universitatis_Ludovico-Maximilianeae.svg.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Sigillum_Universitatis_Ludovico-Maximilianeae.svg/1280px-Sigillum_Universitatis_Ludovico-Maximilianeae.svg.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bytes": 165464,
+      "contentType": "image/webp",
+      "filePage": "",
+      "license": "",
+      "usageTerms": "",
+      "artist": ""
     },
     {
       "index": 138,
@@ -4043,11 +4139,23 @@
         48.139
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
       "music": "慕尼黑歌剧制度的中心，连接宫廷剧院传统和现代歌剧制作。",
       "key": "慕尼黑|巴伐利亚国家歌剧院",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-138-cb77e030da.jpg",
+      "status": "downloaded",
+      "sourceTitle": "03.08.2022 Bayerisches Nationaltheater 08.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:03.08.2022_Bayerisches_Nationaltheater_08.jpg",
+      "searchUsed": false,
+      "extract": "巴伐利亞國立歌劇院（德語：Bayerische Staatsoper）是成立於1653年，以慕尼黑為基地的德國乃至全世界頂尖的歌劇表演團體之一。歌劇院附屬樂團通常以巴伐利亞國立管弦樂團（Bayerisches Staatsorchester）的名號見之於世。\n歌劇院團現在的駐地是慕尼黑國家劇院（Nationaltheater München）。另外，院團也會定期在攝政王劇院（Prinzregententheater）和居維利埃劇院（Cuvilliés-Theater）表演。\n歷史上不少著名音樂家都曾在慕尼黑駐足，因此歌劇院團參與不少著名歌劇的全球首演。當中包括華格納的特里斯坦与伊索尔德、纽伦堡的名歌手（Die Meistersinger Von Nürnberg）、莱茵的黄金和女武神以及里夏德·施特劳斯的和平之日（Friedenstag）和随想曲（Capriccio）。",
+      "filePage": "https://commons.wikimedia.org/wiki/File:03.08.2022_Bayerisches_Nationaltheater_08.jpg",
+      "license": "CC BY-SA 4.0",
+      "usageTerms": "Creative Commons Attribution-Share Alike 4.0",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Pimpinellus\" title=\"User:Pimpinellus\">Burkhard Mücke</a>",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/03.08.2022_Bayerisches_Nationaltheater_08.jpg/1280px-03.08.2022_Bayerisches_Nationaltheater_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/03.08.2022_Bayerisches_Nationaltheater_08.jpg/1280px-03.08.2022_Bayerisches_Nationaltheater_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "bytes": 250153,
+      "contentType": "image/jpeg"
     },
     {
       "index": 139,
@@ -4060,11 +4168,23 @@
         51.051
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
       "music": "德累斯顿高等音乐教育机构，以韦伯命名并延续歌剧、指挥和器乐传统。",
       "key": "德累斯顿|卡尔·玛丽亚·冯·韦伯音乐学院",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-139-ed395a7d79.jpg",
+      "status": "downloaded",
+      "sourceTitle": "000003 Image Hochschule für Musik Carl Maria von Weber Dresden Sachsen Germany Lupus in Saxonia.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:000003_Image_Hochschule_f%C3%BCr_Musik_Carl_Maria_von_Weber_Dresden_Sachsen_Germany_Lupus_in_Saxonia.jpg",
+      "searchUsed": false,
+      "extract": "",
+      "filePage": "https://commons.wikimedia.org/wiki/File:000003_Image_Hochschule_f%C3%BCr_Musik_Carl_Maria_von_Weber_Dresden_Sachsen_Germany_Lupus_in_Saxonia.jpg",
+      "license": "CC BY-SA 4.0",
+      "usageTerms": "Creative Commons Attribution-Share Alike 4.0",
+      "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Lupus_in_Saxonia&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Lupus in Saxonia (page does not exist)\">Lupus in Saxonia</a>",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/000003_Image_Hochschule_f%C3%BCr_Musik_Carl_Maria_von_Weber_Dresden_Sachsen_Germany_Lupus_in_Saxonia.jpg/1280px-000003_Image_Hochschule_f%C3%BCr_Musik_Carl_Maria_von_Weber_Dresden_Sachsen_Germany_Lupus_in_Saxonia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/000003_Image_Hochschule_f%C3%BCr_Musik_Carl_Maria_von_Weber_Dresden_Sachsen_Germany_Lupus_in_Saxonia.jpg/1280px-000003_Image_Hochschule_f%C3%BCr_Musik_Carl_Maria_von_Weber_Dresden_Sachsen_Germany_Lupus_in_Saxonia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "bytes": 444191,
+      "contentType": "image/jpeg"
     },
     {
       "index": 140,
@@ -4077,11 +4197,23 @@
         51.054
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
       "music": "德累斯顿国家歌剧院与理查德·施特劳斯、瓦格纳传统相连的代表性剧场。",
       "key": "德累斯顿|森帕歌剧院",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-140-7ce3042949.jpg",
+      "status": "downloaded",
+      "sourceTitle": "Dresden - Semperoper - 2013.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Dresden_-_Semperoper_-_2013.jpg",
+      "searchUsed": false,
+      "extract": "",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Dresden_-_Semperoper_-_2013.jpg",
+      "license": "CC BY-SA 3.0",
+      "usageTerms": "Creative Commons Attribution-Share Alike 3.0",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Avda\" title=\"User:Avda\">Avda</a>",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Dresden_-_Semperoper_-_2013.jpg/1280px-Dresden_-_Semperoper_-_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Dresden_-_Semperoper_-_2013.jpg/1280px-Dresden_-_Semperoper_-_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "bytes": 346147,
+      "contentType": "image/jpeg"
     },
     {
       "index": 141,
@@ -4094,11 +4226,23 @@
         53.567
       ],
       "img": null,
-      "credit": null,
+      "credit": "",
       "music": "汉堡高等音乐教育机构，连接北德歌剧、管弦乐和当代音乐训练。",
       "key": "汉堡|汉堡音乐与戏剧大学",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-141-44c901b820.jpg",
+      "status": "downloaded",
+      "sourceTitle": "A Dictionary of Music and Musicians vol 3.djvu",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:A_Dictionary_of_Music_and_Musicians_vol_3.djvu",
+      "searchUsed": false,
+      "extract": "",
+      "filePage": "",
+      "license": "",
+      "usageTerms": "",
+      "artist": "",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/A_Dictionary_of_Music_and_Musicians_vol_3.djvu/page1-1280px-A_Dictionary_of_Music_and_Musicians_vol_3.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/A_Dictionary_of_Music_and_Musicians_vol_3.djvu/page1-1280px-A_Dictionary_of_Music_and_Musicians_vol_3.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "bytes": 467591,
+      "contentType": "image/jpeg"
     },
     {
       "index": 142,
@@ -4111,11 +4255,23 @@
         53.542
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
       "music": "汉堡的新地标音乐厅，以建筑、声学和城市港口景观重塑公共音乐会经验。",
       "key": "汉堡|易北爱乐音乐厅",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-142-d65c848c05.jpg",
+      "status": "downloaded",
+      "sourceTitle": "\"Cap San Diego\" & Elbphilharmonie (Hamburg, 2019).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:%22Cap_San_Diego%22_%26_Elbphilharmonie_(Hamburg,_2019).jpg",
+      "searchUsed": false,
+      "extract": "",
+      "filePage": "https://commons.wikimedia.org/wiki/File:%22Cap_San_Diego%22_%26_Elbphilharmonie_(Hamburg,_2019).jpg",
+      "license": "CC BY-SA 4.0",
+      "usageTerms": "Creative Commons Attribution-Share Alike 4.0",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:JoachimKohler-HB\" title=\"User:JoachimKohler-HB\">JoachimKohler-HB</a>",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%22Cap_San_Diego%22_%26_Elbphilharmonie_%28Hamburg%2C_2019%29.jpg/1280px-%22Cap_San_Diego%22_%26_Elbphilharmonie_%28Hamburg%2C_2019%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%22Cap_San_Diego%22_%26_Elbphilharmonie_%28Hamburg%2C_2019%29.jpg/1280px-%22Cap_San_Diego%22_%26_Elbphilharmonie_%28Hamburg%2C_2019%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "bytes": 272621,
+      "contentType": "image/jpeg"
     },
     {
       "index": 143,
@@ -4128,11 +4284,23 @@
         53.556
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
       "music": "勃拉姆斯出生城市的纪念与文献地点，连接北德音乐家庭、出版和交响乐传统。",
       "key": "汉堡|勃拉姆斯博物馆",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-143-f188519f93.jpg",
+      "status": "downloaded",
+      "sourceTitle": "Brahms-Museum Hamburg - 2.JPG",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Brahms-Museum_Hamburg_-_2.JPG",
+      "searchUsed": false,
+      "extract": "",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Brahms-Museum_Hamburg_-_2.JPG",
+      "license": "CC BY 4.0",
+      "usageTerms": "Creative Commons Attribution 4.0",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Ymnes\" title=\"User:Ymnes\">Ymnes</a>",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Brahms-Museum_Hamburg_-_2.JPG/1280px-Brahms-Museum_Hamburg_-_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Brahms-Museum_Hamburg_-_2.JPG/1280px-Brahms-Museum_Hamburg_-_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "bytes": 205806,
+      "contentType": "image/jpeg"
     },
     {
       "index": 144,
@@ -4145,11 +4313,23 @@
         50.98
       ],
       "img": null,
-      "credit": null,
+      "credit": "<table style=\"width:100%; clear: both; text-align: center; margin: 0.5em auto; background-color: var(--background-color-interactive-subtle, #f9f9f9); color: inherit; border: 2px solid var(--border-color-muted, #e0e0e0);\" dir=\"ltr\" lang=\"en\" class=\"layouttemplate partnershiptemplate\" role=\"presentation\">\n<tbody><tr>\n<td style=\"width:100px;\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/Commons:Bundesarchiv/en\" title=\"Logo Bundesarchiv\"><img alt=\"Logo Bundesarchiv\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Bundesarchiv-Logo-ohne-Wappen.svg/120px-Bundesarchiv-Logo-ohne-Wappen.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"83\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Bundesarchiv-Logo-ohne-Wappen.svg/250px-Bundesarchiv-Logo-ohne-Wappen.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"240\" data-file-height=\"200\"></a></span>\n</td>\n<td>This image was provided to Wikimedia Commons by the <a rel=\"nofollow\" class=\"external text\" href=\"http://www.bundesarchiv.de/\">German Federal Archive</a> (Deutsches Bundesarchiv) as part of a <a href=\"//commons.wikimedia.org/wiki/Commons:Bundesarchiv\" title=\"Commons:Bundesarchiv\">cooperation project</a>. The German Federal Archive guarantees an authentic representation only using the originals (negative and/or positive), resp. the digitalization of the originals as provided by the <a rel=\"nofollow\" class=\"external text\" href=\"http://www.bild.bundesarchiv.de\">Digital Image Archive</a>.\n</td></tr></tbody></table>",
       "music": "李斯特在魏玛建立的高等音乐教育传统，延续交响乐、钢琴和新音乐的城市记忆。",
       "key": "魏玛|弗朗茨·李斯特音乐学院",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-144-1065703625.jpg",
+      "status": "downloaded",
+      "sourceTitle": "Bundesarchiv Bild 183-87449-0001, Weimar, Franz-Liszt-Hochschule.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-87449-0001,_Weimar,_Franz-Liszt-Hochschule.jpg",
+      "searchUsed": false,
+      "extract": "",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-87449-0001,_Weimar,_Franz-Liszt-Hochschule.jpg",
+      "license": "CC BY-SA 3.0 de",
+      "usageTerms": "Creative Commons Attribution-Share Alike 3.0 de",
+      "artist": "<div class=\"fn value\">\nKrüger</div>",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/5/52/Bundesarchiv_Bild_183-87449-0001%2C_Weimar%2C_Franz-Liszt-Hochschule.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/5/52/Bundesarchiv_Bild_183-87449-0001%2C_Weimar%2C_Franz-Liszt-Hochschule.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "bytes": 73046,
+      "contentType": "image/jpeg"
     },
     {
       "index": 145,
@@ -4162,11 +4342,23 @@
         49.953
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
       "music": "瓦格纳音乐节专用剧院，代表主导动机、整体艺术和音乐朝圣的现代遗产。",
       "key": "拜罗伊特|拜罗伊特节日剧院",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-145-52ce25e01c.jpg",
+      "status": "downloaded",
+      "sourceTitle": "拜罗伊特节日剧院",
+      "sourcePage": "https://zh.wikipedia.org/wiki/%E6%8B%9C%E7%BD%97%E4%BC%8A%E7%89%B9%E8%8A%82%E6%97%A5%E5%89%A7%E9%99%A2",
+      "searchUsed": false,
+      "extract": "拜罗伊特节日剧院（德語：Bayreuth Festspielhaus）为1871年理查德·瓦格纳为了上演其作品《尼伯龙根的指环》全剧，开始在德国南部小城拜罗伊特筹建专为该剧设计的歌剧院。在其保护人巴伐利亚国王路德维希二世的资助下，剧院于1876年建成。同年8月，上演揭幕剧《尼伯龙根的指环》的前夜剧《莱茵的黄金》，德皇威廉一世、巴西皇帝佩德罗二世、巴伐利亚国王路德维希二世、音乐家布鲁克纳、格里格、柴可夫斯基、李斯特均受邀观赏该剧。当时该剧获得空前成功，剧院也名声大噪。\n该剧院拥有1,800个观众席，整体设计全面照顾《尼伯龙根的指环》，以使其达到最佳的演出效果。而且该剧院也是著名的拜罗伊特音乐节的演出场所，仅仅上演瓦格纳剧目，这在全世界也是绝无仅有的。\n劇院具備良好的聲學效果，名列世界百大廳院之一。 Festspielhaus 可容纳 1,925 人，容量为 10,000 立方米。",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bayr_Festspielhaus_1995_Frontansicht.jpg/1280px-Bayr_Festspielhaus_1995_Frontansicht.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bayr_Festspielhaus_1995_Frontansicht.jpg/1280px-Bayr_Festspielhaus_1995_Frontansicht.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bytes": 427852,
+      "contentType": "image/jpeg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Bayr_Festspielhaus_1995_Frontansicht.jpg",
+      "license": "CC BY-SA 2.0 de",
+      "usageTerms": "Creative Commons Attribution-Share Alike 2.0 de",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Spurzem\" title=\"User:Spurzem\">Lothar Spurzem</a>"
     },
     {
       "index": 146,
@@ -4179,11 +4371,23 @@
         49.949
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
       "music": "瓦格纳在拜罗伊特的住宅与墓地，连接《指环》、音乐节制度和作曲家家族记忆。",
       "key": "拜罗伊特|瓦格纳故居",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-146-535fdb19cb.jpg",
+      "status": "downloaded",
+      "sourceTitle": "Bayreuth, Haus Wahnfried 1995.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Bayreuth,_Haus_Wahnfried_1995.jpg",
+      "searchUsed": false,
+      "extract": "",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Bayreuth,_Haus_Wahnfried_1995.jpg",
+      "license": "CC BY-SA 2.0 de",
+      "usageTerms": "Creative Commons Attribution-Share Alike 2.0 de",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Spurzem\" title=\"User:Spurzem\">Lothar Spurzem</a>",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Bayreuth%2C_Haus_Wahnfried_1995.jpg/1280px-Bayreuth%2C_Haus_Wahnfried_1995.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Bayreuth%2C_Haus_Wahnfried_1995.jpg/1280px-Bayreuth%2C_Haus_Wahnfried_1995.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "bytes": 370830,
+      "contentType": "image/jpeg"
     },
     {
       "index": 147,
@@ -4196,11 +4400,27 @@
         47.376
       ],
       "img": null,
-      "credit": null,
+      "credit": "",
       "music": "瑞士重要的艺术与音乐高等教育机构，覆盖表演、作曲、音乐学和跨媒体艺术。",
       "key": "苏黎世|苏黎世艺术大学",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-147-3dc0358587.webp",
+      "status": "downloaded",
+      "sourceTitle": "苏黎世艺术大学",
+      "sourcePage": "https://zh.wikipedia.org/wiki/%E8%8B%8F%E9%BB%8E%E4%B8%96%E8%89%BA%E6%9C%AF%E5%A4%A7%E5%AD%A6",
+      "searchUsed": false,
+      "extract": "苏黎世艺术大学（英語：Zurich University of the Arts, 德語：Zürcher Hochschule der Künste)是一所位于瑞士苏黎世的艺术类大学，也是瑞士最大的艺术类大学。",
+      "coordinates": {
+        "lat": 47.38277778,
+        "lon": 8.53555556
+      },
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/ZHdK_Logo.svg/1280px-ZHdK_Logo.svg.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/ZHdK_Logo.svg/1280px-ZHdK_Logo.svg.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bytes": 13100,
+      "contentType": "image/webp",
+      "filePage": "",
+      "license": "",
+      "usageTerms": "",
+      "artist": ""
     },
     {
       "index": 148,
@@ -4213,11 +4433,27 @@
         47.374
       ],
       "img": null,
-      "credit": null,
+      "credit": "",
       "music": "苏黎世人文学、音乐学与瓦格纳流亡史研究的综合大学节点。",
       "key": "苏黎世|苏黎世大学",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-148-cb5640d5a3.webp",
+      "status": "downloaded",
+      "sourceTitle": "苏黎世大学",
+      "sourcePage": "https://zh.wikipedia.org/wiki/%E8%8B%8F%E9%BB%8E%E4%B8%96%E5%A4%A7%E5%AD%A6",
+      "searchUsed": false,
+      "extract": "苏黎世大学（德語：Universität Zürich，縮寫：UZH）是瑞士的一所州立大学，位于瑞士德语区苏黎世。该校成立于1833年，现有425位教授、两万四千余名学生分布于7个学院、百四十多个研究所，是瑞士最大的综合大学。苏黎世大学在分子生物学、神经科学、人类学等领域享有世界声誉，校友及教授中共产生了爱因斯坦等12位诺贝尔奖得主（包括校友、教授及所有研究人员共23位）。苏黎世大学是欧洲研究型大学联盟和国际博登湖高校联盟的成员。",
+      "coordinates": {
+        "lat": 47.37472222,
+        "lon": 8.54833333
+      },
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Uni_Zuerich_Siegel.svg/1280px-Uni_Zuerich_Siegel.svg.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Uni_Zuerich_Siegel.svg/1280px-Uni_Zuerich_Siegel.svg.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bytes": 82924,
+      "contentType": "image/webp",
+      "filePage": "",
+      "license": "",
+      "usageTerms": "",
+      "artist": ""
     },
     {
       "index": 149,
@@ -4230,11 +4466,27 @@
         49.449
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
       "music": "纽伦堡高等音乐教育机构，连接名歌手传统、歌剧和现代演奏训练。",
       "key": "纽伦堡|纽伦堡音乐学院",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-149-2f4a634123.jpg",
+      "status": "downloaded",
+      "sourceTitle": "纽伦堡音乐学院",
+      "sourcePage": "https://zh.wikipedia.org/wiki/%E7%BA%BD%E4%BC%A6%E5%A0%A1%E9%9F%B3%E4%B9%90%E5%AD%A6%E9%99%A2",
+      "searchUsed": false,
+      "extract": "纽伦堡音乐学院（德語：Hochschule für Musik Nürnberg）（前身为纽伦堡-奥格斯堡音乐学院）是一所坐落于德国纽伦堡的音乐学院，学院的一部分建筑位于奥格斯堡。",
+      "coordinates": {
+        "lat": 49.45861111,
+        "lon": 11.10861111
+      },
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Hochschule_f%C3%BCr_Musik_N%C3%BCrnberg_%281%29.jpg/1280px-Hochschule_f%C3%BCr_Musik_N%C3%BCrnberg_%281%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Hochschule_f%C3%BCr_Musik_N%C3%BCrnberg_%281%29.jpg/1280px-Hochschule_f%C3%BCr_Musik_N%C3%BCrnberg_%281%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bytes": 379864,
+      "contentType": "image/jpeg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Hochschule_f%C3%BCr_Musik_N%C3%BCrnberg_(1).jpg",
+      "license": "CC BY-SA 4.0",
+      "usageTerms": "Creative Commons Attribution-Share Alike 4.0",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Maestro_Ivankovi%C4%87\" title=\"User:Maestro Ivanković\">Maestro Ivanković</a>"
     },
     {
       "index": 150,
