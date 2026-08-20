@@ -6,6 +6,8 @@ import json
 import mimetypes
 import re
 import sys
+import time
+from urllib.error import HTTPError
 from pathlib import Path
 from urllib.parse import quote, unquote, urlencode, urlparse
 from urllib.request import Request, urlopen
@@ -18,9 +20,17 @@ USER_AGENT = "AdFontesEuropa/1.0 (static image cache; Wikimedia attribution mani
 
 
 def get_json(url: str, timeout: int = 35) -> dict:
-    request = Request(url, headers={"User-Agent": USER_AGENT, "Accept": "application/json"})
-    with urlopen(request, timeout=timeout) as response:
-        return json.load(response)
+    for attempt in range(4):
+        try:
+            request = Request(url, headers={"User-Agent": USER_AGENT, "Accept": "application/json"})
+            with urlopen(request, timeout=timeout) as response:
+                return json.load(response)
+        except HTTPError as error:
+            if error.code not in {429, 500, 502, 503, 504} or attempt == 3:
+                raise
+            retry_after = error.headers.get("Retry-After", "")
+            delay = float(retry_after) if retry_after.isdigit() else 2.0 * (attempt + 1)
+            time.sleep(min(delay, 12.0))
 
 
 def project_api_url(project: str, params: dict[str, str]) -> str:
@@ -162,12 +172,21 @@ def extension(content_type: str, image_url: str) -> str:
 
 
 def download_image(image_url: str, destination: Path) -> tuple[str, int]:
-    request = Request(image_url, headers={"User-Agent": USER_AGENT})
-    with urlopen(request, timeout=60) as response:
-        content_type = response.headers.get("Content-Type", "")
-        if not content_type.lower().split(";", 1)[0].startswith("image/"):
-            raise RuntimeError(f"not an image: {content_type or 'unknown'}")
-        data = response.read()
+    for attempt in range(4):
+        try:
+            request = Request(image_url, headers={"User-Agent": USER_AGENT})
+            with urlopen(request, timeout=60) as response:
+                content_type = response.headers.get("Content-Type", "")
+                if not content_type.lower().split(";", 1)[0].startswith("image/"):
+                    raise RuntimeError(f"not an image: {content_type or 'unknown'}")
+                data = response.read()
+            break
+        except HTTPError as error:
+            if error.code not in {429, 500, 502, 503, 504} or attempt == 3:
+                raise
+            retry_after = error.headers.get("Retry-After", "")
+            delay = float(retry_after) if retry_after.isdigit() else 3.0 * (attempt + 1)
+            time.sleep(min(delay, 15.0))
     if not data:
         raise RuntimeError("empty image")
     destination.write_bytes(data)
@@ -181,19 +200,18 @@ def process(row: dict) -> dict:
     result["status"] = "pending"
     try:
         page, searched, query_title = resolve_page(row)
-        if not page:
-            result["status"] = "no-wikipedia-page"
-            return result
-        result["sourceTitle"] = page.get("title") or query_title
-        project = page.get("_project", "zh")
-        result["sourcePage"] = page.get("fullurl") or f"https://{project}.wikipedia.org/wiki/" + quote(result["sourceTitle"])
-        result["searchUsed"] = searched
-        result["extract"] = page.get("extract", "")
-        coordinates = (page.get("coordinates") or [None])[0]
-        if coordinates:
-            result["coordinates"] = {"lat": coordinates.get("lat"), "lon": coordinates.get("lon")}
-        image = page.get("thumbnail") or page.get("originalimage") or {}
-        image_source = image.get("source", "")
+        image_source = ""
+        if page:
+            result["sourceTitle"] = page.get("title") or query_title
+            project = page.get("_project", "zh")
+            result["sourcePage"] = page.get("fullurl") or f"https://{project}.wikipedia.org/wiki/" + quote(result["sourceTitle"])
+            result["searchUsed"] = searched
+            result["extract"] = page.get("extract", "")
+            coordinates = (page.get("coordinates") or [None])[0]
+            if coordinates:
+                result["coordinates"] = {"lat": coordinates.get("lat"), "lon": coordinates.get("lon")}
+            image = page.get("thumbnail") or page.get("originalimage") or {}
+            image_source = image.get("source", "")
         if not image_source:
             commons, commons_meta = find_commons_image(row)
             if commons:
@@ -203,7 +221,7 @@ def process(row: dict) -> dict:
                 result.update(commons_meta)
         result["imageSource"] = image_source
         if not image_source:
-            result["status"] = "no-image"
+            result["status"] = "no-image" if page else "no-wikipedia-page"
             return result
         if not image_source.startswith("https://upload.wikimedia.org/"):
             result["status"] = "non-wikimedia-image"
@@ -239,7 +257,7 @@ def main() -> int:
     source = json.loads(SOURCE_FILE.read_text(encoding="utf-8"))
     rows = source["rows"]
     results: list[dict] = []
-    with concurrent.futures.ThreadPoolExecutor(max_workers=4) as executor:
+    with concurrent.futures.ThreadPoolExecutor(max_workers=2) as executor:
         futures = {executor.submit(process, row): row for row in rows}
         for index, future in enumerate(concurrent.futures.as_completed(futures), 1):
             result = future.result()
