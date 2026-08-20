@@ -18,7 +18,7 @@ ROOT = Path(__file__).resolve().parents[1]
 SOURCE_FILE = ROOT / "source-pois.json"
 IMAGE_DIR = ROOT / "images" / "poi"
 USER_AGENT = "AdFontesEuropa/1.0 (https://github.com/a15888007552-source/ad-fontes-europa-assets; static image cache; Wikimedia attribution manifest)"
-COMMONS_FALLBACK_MAX = 158
+COMMONS_FALLBACK_MAX = 180
 BATCH_ONLY = os.environ.get("CACHE_BATCH_ONLY", "0") == "1"
 BATCH_START = int(os.environ.get("CACHE_BATCH_START", "0"))
 BATCH_END = int(os.environ.get("CACHE_BATCH_END", "10"))
