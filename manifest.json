@@ -1,6 +1,6 @@
 {
   "schema": "ad-fontes-europa-poi-assets/v1",
-  "generatedAt": "2026-08-20T23:00:01.112643+00:00",
+  "generatedAt": "2026-08-20T23:05:58.565513+00:00",
   "source": "Wikipedia/Wikimedia API (zh.wikipedia.org and upload.wikimedia.org)",
   "notes": [
     "Only images served from upload.wikimedia.org were cached.",
@@ -8,7 +8,7 @@
     "A blank or unknown license field still requires manual attribution review."
   ],
   "total": 158,
-  "downloaded": 25,
+  "downloaded": 32,
   "rows": [
     {
       "index": 0,
@@ -899,11 +899,23 @@
         48.846
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
       "music": "巴黎重要的私人高等音乐教育机构，连接钢琴、声乐、作曲训练与城市演出职业网络。",
       "key": "巴黎|巴黎高等音乐师范学院",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-030-ddb3bae181.jpg",
+      "status": "downloaded",
+      "sourceTitle": "EcoleNormaledeMusiquedeParis.JPG",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:EcoleNormaledeMusiquedeParis.JPG",
+      "searchUsed": false,
+      "extract": "",
+      "filePage": "https://commons.wikimedia.org/wiki/File:EcoleNormaledeMusiquedeParis.JPG",
+      "license": "CC BY-SA 3.0",
+      "usageTerms": "Creative Commons Attribution-Share Alike 3.0",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:30rKs56MaE\" title=\"User:30rKs56MaE\">30rKs56MaE</a>",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/EcoleNormaledeMusiquedeParis.JPG/1280px-EcoleNormaledeMusiquedeParis.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/EcoleNormaledeMusiquedeParis.JPG/1280px-EcoleNormaledeMusiquedeParis.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "bytes": 415258,
+      "contentType": "image/jpeg"
     },
     {
       "index": 31,
@@ -916,11 +928,23 @@
         48.86
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
       "music": "蓬皮杜中心旁的电子音乐与当代作曲研究机构；它把计算机音乐、声学和先锋创作接到巴黎公共文化空间。",
       "key": "巴黎|音响与音乐研究协调研究所 IRCAM",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-031-2c4849cd4a.png",
+      "status": "downloaded",
+      "sourceTitle": "Flavio Michele IRCAM piano.png",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Flavio_Michele_IRCAM_piano.png",
+      "searchUsed": false,
+      "extract": "",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Flavio_Michele_IRCAM_piano.png",
+      "license": "CC BY-SA 4.0",
+      "usageTerms": "Creative Commons Attribution-Share Alike 4.0",
+      "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:User1059998&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:User1059998 (page does not exist)\">User1059998</a>",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Flavio_Michele_IRCAM_piano.png/1280px-Flavio_Michele_IRCAM_piano.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Flavio_Michele_IRCAM_piano.png/1280px-Flavio_Michele_IRCAM_piano.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "bytes": 4624869,
+      "contentType": "image/png"
     },
     {
       "index": 32,
@@ -933,11 +957,21 @@
         51.507
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
       "music": "英国重要的表演艺术学院，学生训练与伦敦交响乐团、歌剧院和剧场生态直接相连。",
       "key": "伦敦|伦敦市政厅音乐与戏剧学院",
       "asset": null,
-      "status": "no-wikipedia-page"
+      "status": "error",
+      "sourceTitle": "Guildhall School of Music and Drama, Barbican Estate, London.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Guildhall_School_of_Music_and_Drama,_Barbican_Estate,_London.jpg",
+      "searchUsed": false,
+      "extract": "",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Guildhall_School_of_Music_and_Drama,_Barbican_Estate,_London.jpg",
+      "license": "CC BY-SA 4.0",
+      "usageTerms": "Creative Commons Attribution-Share Alike 4.0",
+      "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Paul_the_Archivist&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Paul the Archivist (page does not exist)\">Paul the Archivist</a>",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Guildhall_School_of_Music_and_Drama%2C_Barbican_Estate%2C_London.jpg/1280px-Guildhall_School_of_Music_and_Drama%2C_Barbican_Estate%2C_London.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "error": "HTTP Error 429: Too many requests (f061ab2)"
     },
     {
       "index": 33,
@@ -950,11 +984,23 @@
         51.475
       ],
       "img": null,
-      "credit": null,
+      "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://artuk.org/discover/artworks/william-croft-194280\">Art UK</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg\" class=\"mw-file-description\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
       "music": "英国音乐与舞蹈高等教育的重要机构，代表伦敦古典、爵士和当代表演教育的另一条谱系。",
       "key": "伦敦|三一拉邦音乐舞蹈学院",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-033-38e2f777ac.jpg",
+      "status": "downloaded",
+      "sourceTitle": "Charles Jervas (c.1675-1739) (circle of) - William Croft - TL 4 - Trinity Laban Conservatoire of Music and Dance.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Charles_Jervas_(c.1675-1739)_(circle_of)_-_William_Croft_-_TL_4_-_Trinity_Laban_Conservatoire_of_Music_and_Dance.jpg",
+      "searchUsed": false,
+      "extract": "",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Charles_Jervas_(c.1675-1739)_(circle_of)_-_William_Croft_-_TL_4_-_Trinity_Laban_Conservatoire_of_Music_and_Dance.jpg",
+      "license": "Public domain",
+      "usageTerms": "Public domain",
+      "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Charles_Jervas\" class=\"extiw\" title=\"w:en:Charles Jervas\"><span title=\"Irish artist (c.1675-1739)\">Charles Jervas</span></a></bdi>",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Charles_Jervas_%28c.1675-1739%29_%28circle_of%29_-_William_Croft_-_TL_4_-_Trinity_Laban_Conservatoire_of_Music_and_Dance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Charles_Jervas_%28c.1675-1739%29_%28circle_of%29_-_William_Croft_-_TL_4_-_Trinity_Laban_Conservatoire_of_Music_and_Dance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "bytes": 92092,
+      "contentType": "image/jpeg"
     },
     {
       "index": 34,
@@ -971,7 +1017,17 @@
       "music": "伦敦室内乐演出的标志性场所，以声学、曲目深度和独奏家传统闻名。",
       "key": "伦敦|威格莫尔音乐厅",
       "asset": null,
-      "status": "no-wikipedia-page"
+      "status": "error",
+      "sourceTitle": "威格莫尔音乐厅",
+      "sourcePage": "https://zh.wikipedia.org/wiki/%E5%A8%81%E6%A0%BC%E8%8E%AB%E5%B0%94%E9%9F%B3%E4%B9%90%E5%8E%85",
+      "searchUsed": false,
+      "extract": "威格莫尔音乐厅（Wigmore Hall）是英国伦敦的一个音乐厅，位于西敏市的威格莫尔街36号。原名“贝希斯坦音乐厅”（Bechstein Hall），专门用于室内乐、早期音乐、声乐和歌曲独奏会的演出。它被广泛认为是世界领先的这类音乐中心之一，也是许多世界顶级古典音乐明星的必由之港。音乐厅的音响效果近乎完美，很快在整个欧洲知名，推出了 20 世纪许多伟大的艺术家。包括伊丽莎白·施瓦茨科普夫、维多利亚·德·洛斯·安赫萊斯、谢尔盖·谢尔盖耶維奇·普罗科菲耶夫、保罗·欣德米特、安德烈斯·塞戈维亚、本杰明·布里顿和弗朗西斯·普朗克。\n\n今天，音乐厅每年举办550场音乐会，每周在英國廣播公司第三電台上播放一场音乐会。\n威格莫尔音乐厅还在伦敦和伦敦以外推广教育计划，每年举办约600场学习活动，近30,000人次参观该计划。并拥有庞大的数字广播部门，进行许多音乐会直播。",
+      "coordinates": {
+        "lat": 51.516535,
+        "lon": -0.149292
+      },
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Wigmore_Hall.jpg/1280px-Wigmore_Hall.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "error": "HTTP Error 429: Your request does not comply with our robot policy, https://w.wiki/4wJS. Please contact noc@wikimedia.org for further information (0fa5166)"
     },
     {
       "index": 35,
@@ -988,7 +1044,13 @@
       "music": "金史密斯学院的音乐研究连接实验作曲、声音艺术、民族音乐学与当代文化研究。",
       "key": "伦敦|伦敦大学金史密斯学院",
       "asset": null,
-      "status": "no-wikipedia-page"
+      "status": "error",
+      "sourceTitle": "倫敦大學金匠學院",
+      "sourcePage": "https://zh.wikipedia.org/wiki/%E5%80%AB%E6%95%A6%E5%A4%A7%E5%AD%B8%E9%87%91%E5%8C%A0%E5%AD%B8%E9%99%A2",
+      "searchUsed": false,
+      "extract": "倫敦大學金匠學院（英語：Goldsmiths, University of London），又譯金史密斯學院，是一所位於英國倫敦的公立研究型大學，隸屬於書院聯邦制大學倫敦大學，主要發展領域為藝術、設計、人文和社會科學，學院於1891年以金匠工藝和娛樂學院（Goldsmiths' Technical and Recreative Institute）之名在New Cross地區建校，後於1904年併入倫敦大學，改名為倫敦大學金匠學院（Goldsmiths' College)；到了2006年，刪除英文中「學院」二字，改為目前的名稱Goldsmiths, University of London（然而，英文中「Goldsmiths' College」仍然是學院的正式法律名稱）。 \n金匠學院除了是倫敦大學聯盟一份子外，也隸屬於大英國協大學協會和1994年集團。\n在歷史上，金匠學院在藝術和社會科學領域有傑出的貢獻，其藝術學院孕育出多名透納獎入圍者與得主，可謂英國最卓著的藝術學院之一，除了藝術外，金匠學院在設計、傳播媒體、文化創意、戲劇、電腦、社會學、人類學等領域中的教學和研究皆有卓越的成績。",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Goldsmiths_College%2C_London_arms.svg/1280px-Goldsmiths_College%2C_London_arms.svg.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "error": "HTTP Error 429: Your request does not comply with our robot policy, https://w.wiki/4wJS. Please contact noc@wikimedia.org for further information (0fa5166)"
     },
     {
       "index": 36,
@@ -1001,20 +1063,21 @@
         48.209
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
       "music": "维也纳市立高等音乐教育机构，覆盖演奏、作曲、音乐剧和音乐教育。",
       "key": "维也纳|维也纳市立音乐与艺术大学",
       "asset": null,
-      "status": "no-image",
-      "sourceTitle": "Music and Arts University of the City of Vienna",
-      "sourcePage": "https://en.wikipedia.org/wiki/Music_and_Arts_University_of_the_City_of_Vienna",
+      "status": "error",
+      "sourceTitle": "Lei Muk Shue Estate in 2014.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Lei_Muk_Shue_Estate_in_2014.jpg",
       "searchUsed": false,
-      "extract": "The Music and Arts University of the City of Vienna (Musik und Kunst Privatuniversität der Stadt Wien; MUK) in Vienna, Austria, is a university of music and the arts. It was previously (2005−2015) named  Konservatorium Wien Privatuniversität (KONSuni, Konservatorium Wien University), and before that Konservatorium Wien (Conservatory of Vienna). It was established in 1938 as Musikschule der Stadt Wien. The school attained university status on 15 June 2005, as a private institution. The university also houses a location of the Viennese café Vollpension.\n\n",
-      "coordinates": {
-        "lat": 48.20472222,
-        "lon": 16.37222222
-      },
-      "imageSource": ""
+      "extract": "",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Lei_Muk_Shue_Estate_in_2014.jpg",
+      "license": "CC BY-SA 4.0",
+      "usageTerms": "Creative Commons Attribution-Share Alike 4.0",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:LN9267\" title=\"User:LN9267\">LN9267</a>",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Lei_Muk_Shue_Estate_in_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "error": "HTTP Error 429: Your request does not comply with our robot policy, https://w.wiki/4wJS. Please contact noc@wikimedia.org for further information (0fa5166)"
     },
     {
       "index": 37,
@@ -1031,7 +1094,17 @@
       "music": "维也纳大学的音乐学与人文学研究，为理解奥地利音乐史、档案和城市文化提供综合大学节点。",
       "key": "维也纳|维也纳大学",
       "asset": null,
-      "status": "no-wikipedia-page"
+      "status": "error",
+      "sourceTitle": "维也纳大学",
+      "sourcePage": "https://zh.wikipedia.org/wiki/%E7%BB%B4%E4%B9%9F%E7%BA%B3%E5%A4%A7%E5%AD%A6",
+      "searchUsed": false,
+      "extract": "維也納大學（德語：Universität Wien）位于奥地利首都维也纳，始建于1365年，是奧地利最大的教学和研究机构，也是德语世界现存最古老的大学。\n维也纳大学共设有178个学位，拥有约9,800名员工，90,000名学生，迄今已有21位校友及教职工曾获得诺贝尔奖，学术声誉显赫。",
+      "coordinates": {
+        "lat": 48.21305556,
+        "lon": 16.35972222
+      },
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Seal_of_the_University_of_Vienna.svg/1280px-Seal_of_the_University_of_Vienna.svg.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "error": "HTTP Error 429: Your request does not comply with our robot policy, https://w.wiki/4wJS. Please contact noc@wikimedia.org for further information (0fa5166)"
     },
     {
       "index": 38,
@@ -1044,11 +1117,21 @@
         48.201
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
       "music": "维也纳爱乐传统的核心演出场所；金色大厅的音响与新年音乐会已经成为现代公共音乐文化的全球符号。",
       "key": "维也纳|金色大厅",
       "asset": null,
-      "status": "no-wikipedia-page"
+      "status": "error",
+      "sourceTitle": "Musikverein, Viena, Austria, 2020-01-31, DD 170-172 HDR.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Musikverein,_Viena,_Austria,_2020-01-31,_DD_170-172_HDR.jpg",
+      "searchUsed": false,
+      "extract": "",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Musikverein,_Viena,_Austria,_2020-01-31,_DD_170-172_HDR.jpg",
+      "license": "CC BY-SA 4.0",
+      "usageTerms": "Creative Commons Attribution-Share Alike 4.0",
+      "artist": "<bdi><a href=\"https://www.wikidata.org/wiki/Q28147777\" class=\"extiw\" title=\"d:Q28147777\"><span title=\"Spanish photographer\">Diego Delso</span></a></bdi>",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Musikverein%2C_Viena%2C_Austria%2C_2020-01-31%2C_DD_170-172_HDR.jpg/1280px-Musikverein%2C_Viena%2C_Austria%2C_2020-01-31%2C_DD_170-172_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "error": "HTTP Error 429: Your request does not comply with our robot policy, https://w.wiki/4wJS. Please contact noc@wikimedia.org for further information (0fa5166)"
     },
     {
       "index": 39,
@@ -1065,7 +1148,17 @@
       "music": "欧洲歌剧院制度与维也纳歌剧传统的中心，连接莫扎特、施特劳斯和现代歌剧制作。",
       "key": "维也纳|维也纳国家歌剧院",
       "asset": null,
-      "status": "no-wikipedia-page"
+      "status": "error",
+      "sourceTitle": "维也纳国立歌剧院",
+      "sourcePage": "https://zh.wikipedia.org/wiki/%E7%BB%B4%E4%B9%9F%E7%BA%B3%E5%9B%BD%E7%AB%8B%E6%AD%8C%E5%89%A7%E9%99%A2",
+      "searchUsed": false,
+      "extract": "维也纳国立歌剧院（德語：Wiener Staatsoper）坐落於奥地利维也纳，是擁有1,709個座位的文艺复兴建筑，也是維也納環城大道上的第一座主要建築。建於1861年至1869年，遵循奧古斯特·西卡德·馮·西卡茲堡、愛德華·范德努爾的計劃，以及約瑟夫·赫拉夫卡的設計而興建。\n最初，歌劇院由弗朗茨·约瑟夫一世及奥地利皇后伊丽莎白取名為維也納宮廷歌劇院而開放，後在1921年奥地利第一共和国成立後更改為現在的名字。當前，該歌劇院是维也纳爱乐乐团及维也纳國家芭蕾舞團的所在地，每年在狂歡節期間，歌剧院經常會舉辦維也納歌劇院舞會。",
+      "coordinates": {
+        "lat": 48.1997,
+        "lon": 16.3691
+      },
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Staatsoper_Wien_DSC_5273w.jpg/1280px-Staatsoper_Wien_DSC_5273w.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "error": "HTTP Error 429: Your request does not comply with our robot policy, https://w.wiki/4wJS. Please contact noc@wikimedia.org for further information (0fa5166)"
     },
     {
       "index": 40,
@@ -1078,11 +1171,21 @@
         48.208
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
       "music": "莫扎特在维也纳最重要的居所之一；这里适合观察他的城市职业、出版和公共音乐会生活。",
       "key": "维也纳|莫扎特公寓",
       "asset": null,
-      "status": "no-wikipedia-page"
+      "status": "error",
+      "sourceTitle": "1944 - Salzburg - Mozart Wohnhaus, Makartplatz (cropped).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:1944_-_Salzburg_-_Mozart_Wohnhaus,_Makartplatz_(cropped).jpg",
+      "searchUsed": false,
+      "extract": "",
+      "filePage": "https://commons.wikimedia.org/wiki/File:1944_-_Salzburg_-_Mozart_Wohnhaus,_Makartplatz_(cropped).jpg",
+      "license": "CC BY-SA 2.5",
+      "usageTerms": "Creative Commons Attribution-Share Alike 2.5",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Thisisbossi\" title=\"User:Thisisbossi\">Andrew Bossi</a>",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/1944_-_Salzburg_-_Mozart_Wohnhaus%2C_Makartplatz_%28cropped%29.jpg/1280px-1944_-_Salzburg_-_Mozart_Wohnhaus%2C_Makartplatz_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "error": "HTTP Error 429: Your request does not comply with our robot policy, https://w.wiki/4wJS. Please contact noc@wikimedia.org for further information (0fa5166)"
     },
     {
       "index": 41,
@@ -1095,11 +1198,21 @@
         48.195
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
       "music": "海顿晚年居所与维也纳市民音乐文化的见证，也保存着作曲家从宫廷制度走向公共声誉的轨迹。",
       "key": "维也纳|海顿故居",
       "asset": null,
-      "status": "no-wikipedia-page"
+      "status": "error",
+      "sourceTitle": "Haydng.19 910.JPG",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Haydng.19_910.JPG",
+      "searchUsed": false,
+      "extract": "",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Haydng.19_910.JPG",
+      "license": "CC BY-SA 3.0 at",
+      "usageTerms": "Creative Commons Attribution-Share Alike 3.0 at",
+      "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Bella47&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Bella47 (page does not exist)\">Bella47</a>",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Haydng.19_910.JPG/1280px-Haydng.19_910.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "error": "HTTP Error 429: Your request does not comply with our robot policy, https://w.wiki/4wJS. Please contact noc@wikimedia.org for further information (0fa5166)"
     },
     {
       "index": 42,
@@ -1116,7 +1229,13 @@
       "music": "柏林重要的公立音乐学院，继承德语区作曲、指挥和高等演奏教育传统。",
       "key": "柏林|汉斯·艾斯勒音乐学院",
       "asset": null,
-      "status": "no-wikipedia-page"
+      "status": "error",
+      "sourceTitle": "柏林汉斯·艾斯勒音乐学院",
+      "sourcePage": "https://zh.wikipedia.org/wiki/%E6%9F%8F%E6%9E%97%E6%B1%89%E6%96%AF%C2%B7%E8%89%BE%E6%96%AF%E5%8B%92%E9%9F%B3%E4%B9%90%E5%AD%A6%E9%99%A2",
+      "searchUsed": false,
+      "extract": "柏林汉斯·艾斯勒音乐学院（Hochschule für Musik Hanns Eisler Berlin）位于德国柏林，是欧洲的音乐学院之一。\n学校的前身为1950年成立于东柏林的德意志音乐学院（Deutsche Hochschule für Musik），而历史更久的柏林音乐学院（Hochschule für Musik Berlin，现柏林艺术大学）位于西柏林。1964年，学校为纪念逝世的本校教授、作曲家汉斯·艾斯勒，更改为现名。",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/HfM_Hanns_Eisler_Berlin_Logo_pantone.svg/1280px-HfM_Hanns_Eisler_Berlin_Logo_pantone.svg.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "error": "HTTP Error 429: Your request does not comply with our robot policy, https://w.wiki/4wJS. Please contact noc@wikimedia.org for further information (0fa5166)"
     },
     {
       "index": 43,
@@ -1129,11 +1248,21 @@
         52.514
       ],
       "img": null,
-      "credit": null,
+      "credit": "Barenboim-Said Akademie gGmbH",
       "music": "以室内乐、跨文化教育和西东合集管弦乐团理念著称的柏林新型音乐学院。",
       "key": "柏林|巴伦博伊姆—赛义德学院",
       "asset": null,
-      "status": "no-wikipedia-page"
+      "status": "error",
+      "sourceTitle": "Außenansicht BSA Rendering hg merz.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Au%C3%9Fenansicht_BSA_Rendering_hg_merz.jpg",
+      "searchUsed": false,
+      "extract": "",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Au%C3%9Fenansicht_BSA_Rendering_hg_merz.jpg",
+      "license": "CC0",
+      "usageTerms": "Creative Commons Zero, Public Domain Dedication",
+      "artist": "<p>hg merz.\n</p>\n<a href=\"https://en.wikipedia.org/wiki/de:User:Baumwipfel\" class=\"extiw\" title=\"w:de:User:Baumwipfel\">Baumwipfel</a> at <a href=\"https://en.wikipedia.org/wiki/de:\" class=\"extiw\" title=\"w:de:\">German Wikipedia</a>",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Au%C3%9Fenansicht_BSA_Rendering_hg_merz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "error": "HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
     },
     {
       "index": 44,
@@ -1146,16 +1275,21 @@
         52.509
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
       "music": "柏林爱乐的主场，以环绕舞台的大厅结构重塑了现代交响乐的听觉关系。",
       "key": "柏林|柏林爱乐音乐厅",
       "asset": null,
-      "status": "no-image",
-      "sourceTitle": "Berlin Philharmonie",
-      "sourcePage": "https://zh.wikipedia.org/wiki/Berlin_Philharmonie",
+      "status": "error",
+      "sourceTitle": "Berlin - Philharmonie Kulturforum Nacht.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Berlin_-_Philharmonie_Kulturforum_Nacht.jpg",
       "searchUsed": false,
       "extract": "",
-      "imageSource": ""
+      "filePage": "https://commons.wikimedia.org/wiki/File:Berlin_-_Philharmonie_Kulturforum_Nacht.jpg",
+      "license": "CC BY-SA 3.0",
+      "usageTerms": "Creative Commons Attribution-Share Alike 3.0",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Pedelecs\" title=\"User:Pedelecs\">Pedelecs</a>",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Berlin_-_Philharmonie_Kulturforum_Nacht.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "error": "HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
     },
     {
       "index": 45,
@@ -1168,11 +1302,27 @@
         52.517
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
       "music": "柏林歌剧制度的重要剧院，连接普鲁士宫廷传统、德语歌剧和现代舞台制作。",
       "key": "柏林|柏林国家歌剧院",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-045-3ba313c14a.jpg",
+      "status": "downloaded",
+      "sourceTitle": "柏林國立歌劇院",
+      "sourcePage": "https://zh.wikipedia.org/wiki/%E6%9F%8F%E6%9E%97%E5%9C%8B%E7%AB%8B%E6%AD%8C%E5%8A%87%E9%99%A2",
+      "searchUsed": false,
+      "extract": "菩提樹下國家歌劇院（德語：Staatsoper Unter den Linden），又稱為柏林国立歌劇院（Staatsoper Berlin)），是一座位於德國柏林市中心菩提樹下大街的一座歌劇院。国立歌劇院於1741年開始建設，在1742年尚未竣工時就進行了第一場演出。1928年4月28日經整修後重新开放。二戰期間歌劇院完全被毀。1955年歌劇院得到了修復。2017年再度重新开放。\n它在柏林被暱稱為「Lindenoper」，意指「世界上第一個單獨成為著名劇院的劇院」。",
+      "coordinates": {
+        "lat": 52.51666667,
+        "lon": 13.39472222
+      },
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Berlin_-_Staatsoper_Unter_den_Linden.jpg/1280px-Berlin_-_Staatsoper_Unter_den_Linden.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Berlin_-_Staatsoper_Unter_den_Linden.jpg/1280px-Berlin_-_Staatsoper_Unter_den_Linden.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bytes": 290088,
+      "contentType": "image/jpeg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Berlin_-_Staatsoper_Unter_den_Linden.jpg",
+      "license": "CC BY-SA 4.0",
+      "usageTerms": "Creative Commons Attribution-Share Alike 4.0",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Slimark\" title=\"User:Slimark\">Marek Śliwecki</a>"
     },
     {
       "index": 46,
@@ -1185,11 +1335,23 @@
         52.518
       ],
       "img": null,
-      "credit": null,
+      "credit": "",
       "music": "柏林音乐学、艺术史和人文学研究网络的重要综合大学节点。",
       "key": "柏林|柏林洪堡大学",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-046-a377788336.png",
+      "status": "downloaded",
+      "sourceTitle": "柏林洪堡大學",
+      "sourcePage": "https://zh.wikipedia.org/wiki/%E6%9F%8F%E6%9E%97%E6%B4%AA%E5%A0%A1%E5%A4%A7%E5%AD%B8",
+      "searchUsed": false,
+      "extract": "柏林洪堡大學（德語：Humboldt-Universität zu Berlin，缩写为HU Berlin）是德國首都柏林目前四所公立大學中最古老的大學，在城中區中央，於1809年由普魯士王國文教部長威廉·馮·洪堡、哲学家費希特及神学家施萊爾馬赫创建，当时取名为柏林大学（Berliner Universitaet），并於1810年秋天開學，是第一所新制的大學，拥有十分辉煌的历史，是世界著名的頂尖學府，也是歐洲頂尖大學之一。從1809年建校，它的正式名稱為柏林大學，1828年，改名為腓特烈·威廉大學（Friedrich-Wilhelms-Universität）。1949年，為了擺脫王權專制名稱，並紀念学校的創始人亚历山大·冯·洪堡和威廉·冯·洪堡两兄弟，而重新命名為柏林洪堡大學。\n柏林洪堡大學有九個學院，其中包括與柏林自由大學共享的醫學院。該校是世界影響巨大的“洪堡高等教育”模式的開創者，被稱為世界“現代大學之母”，對於歐洲乃至於全世界的影響都相當深遠，該校後因二戰緣故，而與柏林自由大學誕生關聯密切。柏林洪堡大学2012年6月入选为11所德国“精英大学”之一。在2019年7月揭晓的第三轮卓越计划评选中，同柏林自由大学和柏林工业大学以柏林大学联盟的名义共同提出申请，并再次获得了“精英大学”的称号。截止2021年10月，共有57位校友、教师及研究人员获得过诺贝尔奖。該校在哲學、教育、文學、藝術、法律、政治、數學、物理、化學及醫學上有眾多著名校友。",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Huberlin-logo.svg/1280px-Huberlin-logo.svg.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Huberlin-logo.svg/1280px-Huberlin-logo.svg.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bytes": 274241,
+      "contentType": "image/png",
+      "filePage": "",
+      "license": "",
+      "usageTerms": "",
+      "artist": ""
     },
     {
       "index": 47,
@@ -1202,11 +1364,23 @@
         51.339
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
       "music": "巴赫长期任职的教堂，也是莱比锡城市乐职、合唱传统与作曲家纪念文化的核心地点。",
       "key": "莱比锡|托马斯教堂",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-047-a63f8d2883.jpg",
+      "status": "downloaded",
+      "sourceTitle": "Leipzig, Thomaskirche -- 1980 -- 10.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Leipzig,_Thomaskirche_--_1980_--_10.jpg",
+      "searchUsed": false,
+      "extract": "",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Leipzig,_Thomaskirche_--_1980_--_10.jpg",
+      "license": "CC BY-SA 4.0",
+      "usageTerms": "Creative Commons Attribution-Share Alike 4.0",
+      "artist": "<bdi><a href=\"https://www.wikidata.org/wiki/Q34788025\" class=\"extiw\" title=\"d:Q34788025\"><span title=\"German photographer and mathematician\">Dietmar Rabich</span></a></bdi>",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Leipzig%2C_Thomaskirche_--_1980_--_10.jpg/1280px-Leipzig%2C_Thomaskirche_--_1980_--_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Leipzig%2C_Thomaskirche_--_1980_--_10.jpg/1280px-Leipzig%2C_Thomaskirche_--_1980_--_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "bytes": 405662,
+      "contentType": "image/jpeg"
     },
     {
       "index": 48,
@@ -1219,11 +1393,23 @@
         51.339
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
       "music": "门德尔松以来莱比锡交响乐传统的中心，连接公共音乐会、乐团制度和城市中产文化。",
       "key": "莱比锡|格万豪斯音乐厅",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-048-ae8c781c78.jpg",
+      "status": "downloaded",
+      "sourceTitle": "2009-10-09 Baerbel-Bohley Pamela-u-Wolf-Biermann-im-Gewandhaus-Leipzig.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:2009-10-09_Baerbel-Bohley_Pamela-u-Wolf-Biermann-im-Gewandhaus-Leipzig.jpg",
+      "searchUsed": false,
+      "extract": "",
+      "filePage": "https://commons.wikimedia.org/wiki/File:2009-10-09_Baerbel-Bohley_Pamela-u-Wolf-Biermann-im-Gewandhaus-Leipzig.jpg",
+      "license": "CC BY-SA 4.0",
+      "usageTerms": "Creative Commons Attribution-Share Alike 4.0",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Anana_Sanana\" title=\"User:Anana Sanana\">Oliver Kloss</a>",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/2009-10-09_Baerbel-Bohley_Pamela-u-Wolf-Biermann-im-Gewandhaus-Leipzig.jpg/1280px-2009-10-09_Baerbel-Bohley_Pamela-u-Wolf-Biermann-im-Gewandhaus-Leipzig.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/2009-10-09_Baerbel-Bohley_Pamela-u-Wolf-Biermann-im-Gewandhaus-Leipzig.jpg/1280px-2009-10-09_Baerbel-Bohley_Pamela-u-Wolf-Biermann-im-Gewandhaus-Leipzig.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "bytes": 419146,
+      "contentType": "image/jpeg"
     },
     {
       "index": 49,
@@ -1236,11 +1422,21 @@
         51.333
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
       "music": "门德尔松在莱比锡最后的居所；这里连接作曲、指挥、音乐教育与格万豪斯改革。",
       "key": "莱比锡|门德尔松故居",
       "asset": null,
-      "status": "no-wikipedia-page"
+      "status": "error",
+      "sourceTitle": "Bust of Kurt Masur-Mendelssohn House-leipzig.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Bust_of_Kurt_Masur-Mendelssohn_House-leipzig.jpg",
+      "searchUsed": false,
+      "extract": "",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Bust_of_Kurt_Masur-Mendelssohn_House-leipzig.jpg",
+      "license": "CC BY-SA 4.0",
+      "usageTerms": "Creative Commons Attribution-Share Alike 4.0",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Yair-haklai\" title=\"User:Yair-haklai\">Yair Haklai</a>",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Bust_of_Kurt_Masur-Mendelssohn_House-leipzig.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "error": "HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
     },
     {
       "index": 50,
