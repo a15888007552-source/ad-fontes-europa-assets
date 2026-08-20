@@ -1,6 +1,6 @@
 {
   "schema": "ad-fontes-europa-poi-assets/v1",
-  "generatedAt": "2026-08-20T23:15:37.768327+00:00",
+  "generatedAt": "2026-08-20T23:17:37.533080+00:00",
   "source": "Wikipedia/Wikimedia API (zh.wikipedia.org and upload.wikimedia.org)",
   "notes": [
     "Only images served from upload.wikimedia.org were cached.",
@@ -8,7 +8,7 @@
     "A blank or unknown license field still requires manual attribution review."
   ],
   "total": 158,
-  "downloaded": 90,
+  "downloaded": 110,
   "rows": [
     {
       "index": 0,
@@ -2727,16 +2727,23 @@
         40.443
       ],
       "img": null,
-      "credit": null,
+      "credit": "",
       "music": "匹兹堡重要的音乐、戏剧和技术交叉教育节点，连接作曲、表演与新媒体。",
       "key": "匹兹堡|卡内基梅隆大学音乐学院",
-      "asset": null,
-      "status": "no-image",
-      "sourceTitle": "卡内基梅隆大学音乐学院",
-      "sourcePage": "https://en.wikipedia.org/wiki/%E5%8D%A1%E5%86%85%E5%9F%BA%E6%A2%85%E9%9A%86%E5%A4%A7%E5%AD%A6%E9%9F%B3%E4%B9%90%E5%AD%A6%E9%99%A2",
+      "asset": "images/poi/poi-090-82e6222579.jpg",
+      "status": "downloaded",
+      "sourceTitle": "Classified catalogue of the Carnegie Library of Pittsburgh. 1895-1902. In three volumes (IA classifiedcatalo01carniala).pdf",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Classified_catalogue_of_the_Carnegie_Library_of_Pittsburgh._1895-1902._In_three_volumes_(IA_classifiedcatalo01carniala).pdf",
       "searchUsed": false,
       "extract": "",
-      "imageSource": ""
+      "filePage": "",
+      "license": "",
+      "usageTerms": "",
+      "artist": "",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Classified_catalogue_of_the_Carnegie_Library_of_Pittsburgh._1895-1902._In_three_volumes_%28IA_classifiedcatalo01carniala%29.pdf/page1-500px-Classified_catalogue_of_the_Carnegie_Library_of_Pittsburgh._1895-1902._In_three_volumes_%28IA_classifiedcatalo01carniala%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Classified_catalogue_of_the_Carnegie_Library_of_Pittsburgh._1895-1902._In_three_volumes_%28IA_classifiedcatalo01carniala%29.pdf/page1-500px-Classified_catalogue_of_the_Carnegie_Library_of_Pittsburgh._1895-1902._In_three_volumes_%28IA_classifiedcatalo01carniala%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "bytes": 49509,
+      "contentType": "image/jpeg"
     },
     {
       "index": 91,
@@ -2749,11 +2756,27 @@
         40.444
       ],
       "img": null,
-      "credit": null,
+      "credit": "<a class=\"external free\" href=\"https://en.wikipedia.org/wiki/File:EberlyHallfront.jpg\">https://en.wikipedia.org/wiki/File:EberlyHallfront.jpg</a>",
       "music": "匹兹堡综合大学音乐研究和公共文化网络的节点。",
       "key": "匹兹堡|匹兹堡大学",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-091-948cc1f8f1.jpg",
+      "status": "downloaded",
+      "sourceTitle": "EberlyHallfront.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:EberlyHallfront.jpg",
+      "searchUsed": false,
+      "extract": "匹茲堡大學（英語：University of Pittsburgh），簡稱匹大（PITT）是主校區位於美國賓夕法尼亞州匹茲堡的一所公立研究型大学，成立於1787年，是美國歷史第十悠久的大學，美国大学协会成员。\n匹大原为私立學校，直到1966年加入宾夕法尼亚邦高等教育系统後，才轉為公立大學。匹茲堡大學圖書館的藏書量超過570萬冊，在美國與加拿大地區為第24大的學術圖書館。匹茲堡大學教師校友中有10位獲諾貝爾獎，34位獲美國國家科學獎章，6位獲頒普利茲獎，3位獲麥克阿瑟獎，兩位獲奧斯卡金像獎，多位校友獲珀金獎章以及美國榮譽勳章。",
+      "coordinates": {
+        "lat": 40.444565,
+        "lon": -79.953274
+      },
+      "filePage": "https://commons.wikimedia.org/wiki/File:EberlyHallfront.jpg",
+      "license": "CC BY-SA 3.0",
+      "usageTerms": "Creative Commons Attribution-Share Alike 3.0",
+      "artist": "Michael G. White",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/7/73/EberlyHallfront.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/7/73/EberlyHallfront.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "bytes": 649399,
+      "contentType": "image/jpeg"
     },
     {
       "index": 92,
@@ -2766,11 +2789,23 @@
         40.443
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
       "music": "匹兹堡交响乐与歌剧演出的重要场所。",
       "key": "匹兹堡|海因茨音乐厅",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-092-8ac1f75a65.jpg",
+      "status": "downloaded",
+      "sourceTitle": "Chandeliers in the Grand Lobby, Heinz Hall, 2014-03-30.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Chandeliers_in_the_Grand_Lobby,_Heinz_Hall,_2014-03-30.jpg",
+      "searchUsed": false,
+      "extract": "",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Chandeliers_in_the_Grand_Lobby,_Heinz_Hall,_2014-03-30.jpg",
+      "license": "CC0",
+      "usageTerms": "Creative Commons Zero, Public Domain Dedication",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Cbaile19\" title=\"User:Cbaile19\">Cbaile19</a>",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Chandeliers_in_the_Grand_Lobby%2C_Heinz_Hall%2C_2014-03-30.jpg/1280px-Chandeliers_in_the_Grand_Lobby%2C_Heinz_Hall%2C_2014-03-30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Chandeliers_in_the_Grand_Lobby%2C_Heinz_Hall%2C_2014-03-30.jpg/1280px-Chandeliers_in_the_Grand_Lobby%2C_Heinz_Hall%2C_2014-03-30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "bytes": 769301,
+      "contentType": "image/jpeg"
     },
     {
       "index": 93,
@@ -2783,11 +2818,23 @@
         41.316
       ],
       "img": null,
-      "credit": null,
+      "credit": "",
       "music": "耶鲁大学的音乐学、人文学和表演艺术体系与耶鲁音乐学院形成综合大学音乐网络。",
       "key": "新港|耶鲁大学",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-093-200b7075c7.webp",
+      "status": "downloaded",
+      "sourceTitle": "耶鲁大学",
+      "sourcePage": "https://zh.wikipedia.org/wiki/%E8%80%B6%E9%B2%81%E5%A4%A7%E5%AD%A6",
+      "searchUsed": false,
+      "extract": "耶魯大學（英語：Yale University），简称耶鲁（英語：Yale），是一所坐落於美國康乃狄克州紐黑文市的私立研究型大學，是美洲大學協會的十二個創始校成員之一，及NCAA體育賽事聯盟常春藤盟校的成員。學校最初於1701年10月9日，以“大學學院”之名成立，是全美第三古老的高等學府。校方為了感謝伊利胡·耶魯（英屬東印度公司總裁）的捐助，而在1718年改名為“耶魯學院”。學院最初旨在為公理會培養神學與聖典語言學人才，其後自1777年起加入了人文與科學教育課程。19世紀期間，學校增設了多所研究生與專業學院，更於1861年頒發了美國第一個博士學位。1886年，耶魯正式以現代大學的運作模式辦學。\n耶魯大學的各個學術單位被歸入12所學院裡：最原始的本科學院、文理研究院及10所專業學科學院。儘管大學是由耶魯校董會所管理，但每個學院都有權編制、修改及監察自己的學位課程。除了紐希文市中心的中央（本部）校園外，耶魯還在該市的西部建設了多個體育場所（包括了耶魯體育場）及西希文校園，亦在新英格蘭地區擁有多個森林與自然保育區。截至2015年6月30日，耶魯的捐款回贈達到256億美元，金額在全球教育機構中位列第二。\n耶魯的大學部教育為博雅模式，並提供多個主修課程，附設住宿學院系統；研究或專業學科課程的模式則各有不同。幾乎所有的大學教職員都會參與教授本科課程。耶魯大學圖書館館藏逾1500萬冊，是全美第三大的圖書館系統。除了學習外，學生還能通過名為“耶魯牛頭犬”的校隊參與各種跨校體育競賽，也能加入各個學會。\n畢業於耶魯大學的著名人士來自不同學術範疇：這包括了5位美國總統、15名最高法院大法官、多個國家政治要員及13位在世的億萬富豪，230位羅德學者是此校的師生或校友。截止2020年10月，在耶鲁大学的校友、教授及研究人员中，共有65名諾貝爾獎得主、5位菲尔兹奖得主、3位图灵奖得主。",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Yale_University_Shield_1.svg/1280px-Yale_University_Shield_1.svg.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Yale_University_Shield_1.svg/1280px-Yale_University_Shield_1.svg.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bytes": 70104,
+      "contentType": "image/webp",
+      "filePage": "",
+      "license": "",
+      "usageTerms": "",
+      "artist": ""
     },
     {
       "index": 94,
@@ -2800,11 +2847,27 @@
         59.925
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
       "music": "俄罗斯歌剧、芭蕾和交响乐传统的核心剧院，连接帝国剧院制度与现代舞台。",
       "key": "圣彼得堡|马林斯基剧院",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-094-1326187e50.jpg",
+      "status": "downloaded",
+      "sourceTitle": "马林斯基剧院",
+      "sourcePage": "https://zh.wikipedia.org/wiki/%E9%A9%AC%E6%9E%97%E6%96%AF%E5%9F%BA%E5%89%A7%E9%99%A2",
+      "searchUsed": false,
+      "extract": "玛丽亚剧院（俄語：Мариинский театр，常全音译为马林斯基剧院，从1920年至1935年旧称国家歌剧和芭蕾舞艺术院，从1935年至1992年旧称基洛夫剧院）是位于俄罗斯圣彼得堡的一个历史性的歌剧和芭蕾舞剧院。从1988年开始该剧院的指导是瓦列里·捷杰耶夫，此前尤里·捷米尔卡诺夫任剧院指导。",
+      "coordinates": {
+        "lat": 59.92555556,
+        "lon": 30.29611111
+      },
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Spb_06-2012_MariinskyTheatre.jpg/1280px-Spb_06-2012_MariinskyTheatre.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Spb_06-2012_MariinskyTheatre.jpg/1280px-Spb_06-2012_MariinskyTheatre.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bytes": 297989,
+      "contentType": "image/jpeg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Spb_06-2012_MariinskyTheatre.jpg",
+      "license": "CC BY-SA 3.0",
+      "usageTerms": "Creative Commons Attribution-Share Alike 3.0",
+      "artist": "<b><span class=\"plainlinks\"><a class=\"external text\" href=\"https://commons.wikimedia.org/wiki/User:A.Savin\">A.Savin</a></span></b>"
     },
     {
       "index": 95,
@@ -2817,11 +2880,23 @@
         59.941
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
       "music": "圣彼得堡人文学、艺术史与音乐学研究的综合大学节点。",
       "key": "圣彼得堡|圣彼得堡国立大学",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-095-7ab90ce7db.jpg",
+      "status": "downloaded",
+      "sourceTitle": "圣彼得堡国立大学",
+      "sourcePage": "https://zh.wikipedia.org/wiki/%E5%9C%A3%E5%BD%BC%E5%BE%97%E5%A0%A1%E5%9B%BD%E7%AB%8B%E5%A4%A7%E5%AD%A6",
+      "searchUsed": false,
+      "extract": "圣彼得堡国立大学（俄語：Санкт-Петербургский государственный университет，羅馬化：Sankt-Peterburgskiy gosudarstvennyy universitet），是一所位於俄罗斯圣彼得堡的國立研究型大學，是俄羅斯最古老的大學之一。",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Spb_06-2012_University_Embankment_01.jpg/1280px-Spb_06-2012_University_Embankment_01.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Spb_06-2012_University_Embankment_01.jpg/1280px-Spb_06-2012_University_Embankment_01.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bytes": 342415,
+      "contentType": "image/jpeg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Spb_06-2012_University_Embankment_01.jpg",
+      "license": "CC BY-SA 3.0",
+      "usageTerms": "Creative Commons Attribution-Share Alike 3.0",
+      "artist": "<b><span class=\"plainlinks\"><a class=\"external text\" href=\"https://commons.wikimedia.org/wiki/User:A.Savin\">A.Savin</a></span></b>"
     },
     {
       "index": 96,
@@ -2834,11 +2909,27 @@
         55.76
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
       "music": "俄罗斯歌剧与芭蕾制度的象征性剧院，连接帝国、苏联与当代舞台传统。",
       "key": "莫斯科|莫斯科大剧院",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-096-22a0238d64.jpg",
+      "status": "downloaded",
+      "sourceTitle": "莫斯科大剧院",
+      "sourcePage": "https://zh.wikipedia.org/wiki/%E8%8E%AB%E6%96%AF%E7%A7%91%E5%A4%A7%E5%89%A7%E9%99%A2",
+      "searchUsed": false,
+      "extract": "莫斯科大剧院（俄语：Большой театр，全名：Государственный академический Большой театр России，简称：ГАБТ）是位於俄羅斯莫斯科的一個芭蕾舞与歌剧剧院。始建于1776年，作为莫斯科的地标性建筑，莫斯科大彼得罗夫大剧院是莫斯科有名的芭蕾舞与歌剧剧院。离红场很近，自1776年建成以来，在随后的半个世纪里剧院先后两次发生火灾。1825年，这座剧院由建筑师博维重新设计并主持修建，最终于1856年落成并一直保存至今。这是一座乳白色的古典主义建筑，门前竖立着8根高15米的古希腊伊奥尼亚式圆柱，它有著巨大的柱廊式正门。门顶上的4驾青铜马车，由阿波罗神驾驭，是莫斯科的标志之一。主建筑经历过数次大的翻修。2011年10月28日，在经历过持续六年耗资七亿美元的翻修后重新开放。",
+      "coordinates": {
+        "lat": 55.76027778,
+        "lon": 37.61861111
+      },
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Moscow-Bolshoi-Theare-1.jpg/1280px-Moscow-Bolshoi-Theare-1.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Moscow-Bolshoi-Theare-1.jpg/1280px-Moscow-Bolshoi-Theare-1.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bytes": 252705,
+      "contentType": "image/jpeg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Moscow-Bolshoi-Theare-1.jpg",
+      "license": "CC BY-SA 3.0",
+      "usageTerms": "Creative Commons Attribution-Share Alike 3.0",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:DmitriyGuryanov\" title=\"User:DmitriyGuryanov\">DmitriyGuryanov</a>"
     },
     {
       "index": 97,
@@ -2851,11 +2942,23 @@
         55.752
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
       "music": "俄罗斯重要的音乐教育机构，覆盖演奏、作曲、音乐理论和师范传统。",
       "key": "莫斯科|格涅辛俄罗斯音乐学院",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-097-1b7e9f5514.jpg",
+      "status": "downloaded",
+      "sourceTitle": "Gnessinmoscow.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Gnessinmoscow.jpg",
+      "searchUsed": false,
+      "extract": "",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Gnessinmoscow.jpg",
+      "license": "CC BY-SA 3.0",
+      "usageTerms": "Creative Commons Attribution-Share Alike 3.0",
+      "artist": "<b><span class=\"plainlinks\"><a class=\"external text\" href=\"https://commons.wikimedia.org/wiki/User:A.Savin\">A.Savin</a></span></b>",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Gnessinmoscow.jpg/1280px-Gnessinmoscow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Gnessinmoscow.jpg/1280px-Gnessinmoscow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "bytes": 310103,
+      "contentType": "image/jpeg"
     },
     {
       "index": 98,
@@ -2868,16 +2971,23 @@
         60.175
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
       "music": "芬兰公共音乐生活的现代中心，与赫尔辛基大学和西贝柳斯学院形成城市音乐教育与演出网络。",
       "key": "赫尔辛基|赫尔辛基音乐中心",
-      "asset": null,
-      "status": "no-image",
-      "sourceTitle": "赫尔辛基音乐中心",
-      "sourcePage": "https://zh.wikipedia.org/wiki/%E8%B5%AB%E5%B0%94%E8%BE%9B%E5%9F%BA%E9%9F%B3%E4%B9%90%E4%B8%AD%E5%BF%83",
+      "asset": "images/poi/poi-098-6cee13ef07.jpg",
+      "status": "downloaded",
+      "sourceTitle": "Centro Musical de Helsinki, Finlandia, 2012-08-14, DD 01.JPG",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Centro_Musical_de_Helsinki,_Finlandia,_2012-08-14,_DD_01.JPG",
       "searchUsed": false,
       "extract": "",
-      "imageSource": ""
+      "filePage": "https://commons.wikimedia.org/wiki/File:Centro_Musical_de_Helsinki,_Finlandia,_2012-08-14,_DD_01.JPG",
+      "license": "CC BY-SA 3.0",
+      "usageTerms": "Creative Commons Attribution-Share Alike 3.0",
+      "artist": "<bdi><a href=\"https://www.wikidata.org/wiki/Q28147777\" class=\"extiw\" title=\"d:Q28147777\"><span title=\"Spanish photographer\">Diego Delso</span></a></bdi>",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Centro_Musical_de_Helsinki%2C_Finlandia%2C_2012-08-14%2C_DD_01.JPG/1280px-Centro_Musical_de_Helsinki%2C_Finlandia%2C_2012-08-14%2C_DD_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Centro_Musical_de_Helsinki%2C_Finlandia%2C_2012-08-14%2C_DD_01.JPG/1280px-Centro_Musical_de_Helsinki%2C_Finlandia%2C_2012-08-14%2C_DD_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "bytes": 140883,
+      "contentType": "image/jpeg"
     },
     {
       "index": 99,
@@ -2890,11 +3000,23 @@
         60.188
       ],
       "img": null,
-      "credit": null,
+      "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/dalbera/2768446378/\">L'Opéra d'Helsinki</a>",
       "music": "芬兰歌剧与芭蕾制度的核心剧院。",
       "key": "赫尔辛基|芬兰国家歌剧院",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-099-299ed33388.jpg",
+      "status": "downloaded",
+      "sourceTitle": "芬兰国家歌剧芭蕾院",
+      "sourcePage": "https://zh.wikipedia.org/wiki/%E8%8A%AC%E5%85%B0%E5%9B%BD%E5%AE%B6%E6%AD%8C%E5%89%A7%E8%8A%AD%E8%95%BE%E9%99%A2",
+      "searchUsed": false,
+      "extract": "芬兰国家歌剧芭蕾院（芬蘭語：Suomen Kansallisooppera ja -baletti，瑞典語：Finlands nationalopera och -balett）是芬兰唯一的一个专业歌剧院，位于芬兰赫尔辛基。歌剧院里举行歌剧、芭蕾和音乐会等演出。在门厅里也有艺术展览。国家歌剧院有自己的专业管弦乐团—芬兰国家歌剧院管弦乐团，乐队包括111名演奏家和50名成员的合唱团，另外还有50名成员的儿童合唱团。歌剧演唱家中有一些是长期雇佣的，之外还聘请一些客座演唱家。隶属国家歌剧院下的芬兰国家芭蕾舞团里有80名舞蹈演员。自2018年起国家歌剧院的院长是吉塔·卡丹比。从2013年起歌剧艺术指挥是莉莉·帕西基维，她的任期将持续至2023年7月。自2022年8月起芭蕾舞团的艺术指挥是哈维尔·托雷斯（Javier Torres）。\n芬兰国家歌剧院是由芬兰国家歌剧院基金会来管理的。\n歌剧院举办演出的歌剧厅是在1993年建成，位于赫尔辛基市中心的蝶略湾畔。",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/LOp%C3%A9ra_dHelsinki_%282768446378%29.jpg/1280px-LOp%C3%A9ra_dHelsinki_%282768446378%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/LOp%C3%A9ra_dHelsinki_%282768446378%29.jpg/1280px-LOp%C3%A9ra_dHelsinki_%282768446378%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bytes": 254419,
+      "contentType": "image/jpeg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:LOp%C3%A9ra_dHelsinki_(2768446378).jpg",
+      "license": "CC BY 2.0",
+      "usageTerms": "Creative Commons Attribution 2.0",
+      "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/72746018@N00\">Jean-Pierre Dalbéra</a> from Paris, France"
     },
     {
       "index": 100,
@@ -2907,11 +3029,23 @@
         52.217
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
       "music": "波兰最高等音乐教育机构之一，延续肖邦、波兰民族乐派与现代演奏教育传统。",
       "key": "华沙|肖邦音乐大学",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-100-6e1c6dce18.jpg",
+      "status": "downloaded",
+      "sourceTitle": "肖邦音乐大学",
+      "sourcePage": "https://zh.wikipedia.org/wiki/%E8%82%96%E9%82%A6%E9%9F%B3%E4%B9%90%E5%A4%A7%E5%AD%A6",
+      "searchUsed": false,
+      "extract": "肖邦音乐大学（波蘭語：Uniwersytet Muzyczny Fryderyka Chopina，縮寫：UMFC）位于波兰首都华沙，该校始建于1810年，是一所历史悠久的音乐学院，以浪漫主义音乐家弗雷德里克·肖邦命名。目前肖邦音乐大学开设作曲与音乐理论、指挥艺术、乐器研究、声乐研究、音乐艺术的艺术教育、舞蹈艺术与声音工程这六大领域的专业课程。",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Uniwersytet_Muzyczny_Fryderyka_Chopina_wej%C5%9Bcie_g%C5%82%C3%B3wne_2018.jpg/1280px-Uniwersytet_Muzyczny_Fryderyka_Chopina_wej%C5%9Bcie_g%C5%82%C3%B3wne_2018.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Uniwersytet_Muzyczny_Fryderyka_Chopina_wej%C5%9Bcie_g%C5%82%C3%B3wne_2018.jpg/1280px-Uniwersytet_Muzyczny_Fryderyka_Chopina_wej%C5%9Bcie_g%C5%82%C3%B3wne_2018.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bytes": 338549,
+      "contentType": "image/jpeg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Uniwersytet_Muzyczny_Fryderyka_Chopina_wej%C5%9Bcie_g%C5%82%C3%B3wne_2018.jpg",
+      "license": "CC BY-SA 3.0 pl",
+      "usageTerms": "Creative Commons Attribution-Share Alike 3.0 pl",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Boston9\" title=\"User:Boston9\">Adrian Grycuk</a>"
     },
     {
       "index": 101,
@@ -2924,11 +3058,23 @@
         52.229
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\">Self-photographed</span>",
       "music": "波兰国家级交响乐与钢琴文化中心，也是肖邦国际钢琴比赛的重要场所。",
       "key": "华沙|华沙国家爱乐厅",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-101-bec39ab750.jpg",
+      "status": "downloaded",
+      "sourceTitle": "Filharmonia Narodowa 05.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Filharmonia_Narodowa_05.jpg",
+      "searchUsed": false,
+      "extract": "",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Filharmonia_Narodowa_05.jpg",
+      "license": "Public domain",
+      "usageTerms": "Public domain",
+      "artist": "Szczebrzeszynski",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Filharmonia_Narodowa_05.jpg/1280px-Filharmonia_Narodowa_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Filharmonia_Narodowa_05.jpg/1280px-Filharmonia_Narodowa_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "bytes": 393654,
+      "contentType": "image/jpeg"
     },
     {
       "index": 102,
@@ -2941,11 +3087,23 @@
         52.239
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
       "music": "以肖邦手稿、书信和纪念空间呈现华沙与这位作曲家的城市关系。",
       "key": "华沙|肖邦博物馆",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-102-af81ad09ea.jpg",
+      "status": "downloaded",
+      "sourceTitle": "PL Warsaw Ostrogski Palace and Fryderyk Chopin Institute Tamka Street.JPG",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:PL_Warsaw_Ostrogski_Palace_and_Fryderyk_Chopin_Institute_Tamka_Street.JPG",
+      "searchUsed": false,
+      "extract": "",
+      "filePage": "https://commons.wikimedia.org/wiki/File:PL_Warsaw_Ostrogski_Palace_and_Fryderyk_Chopin_Institute_Tamka_Street.JPG",
+      "license": "CC BY 3.0",
+      "usageTerms": "Creative Commons Attribution 3.0",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Happa\" title=\"User:Happa\">Happa</a>",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/PL_Warsaw_Ostrogski_Palace_and_Fryderyk_Chopin_Institute_Tamka_Street.JPG/1280px-PL_Warsaw_Ostrogski_Palace_and_Fryderyk_Chopin_Institute_Tamka_Street.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/PL_Warsaw_Ostrogski_Palace_and_Fryderyk_Chopin_Institute_Tamka_Street.JPG/1280px-PL_Warsaw_Ostrogski_Palace_and_Fryderyk_Chopin_Institute_Tamka_Street.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "bytes": 200208,
+      "contentType": "image/jpeg"
     },
     {
       "index": 103,
@@ -2958,11 +3116,23 @@
         52.239
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>; self-made",
       "music": "波兰人文学、艺术史与音乐学研究的综合大学节点。",
       "key": "华沙|华沙大学",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-103-e6f5265fc3.jpg",
+      "status": "downloaded",
+      "sourceTitle": "华沙大学",
+      "sourcePage": "https://zh.wikipedia.org/wiki/%E5%8D%8E%E6%B2%99%E5%A4%A7%E5%AD%A6",
+      "searchUsed": false,
+      "extract": "华沙大学（波蘭語：Uniwersytet Warszawski）是波兰最大的大学，被《泰晤士高等教育》于2006年评为世界500强大学之一，2007年被波兰报纸评为波兰最好的高校。2016年英国泰晤士大学排名将华沙大学列为“欧洲最好的100所大学”中，并将其列为第61位。",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Bramauw.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Bramauw.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "bytes": 836306,
+      "contentType": "image/jpeg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Bramauw.jpg",
+      "license": "Public domain",
+      "usageTerms": "Public domain",
+      "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Minimus&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Minimus (page does not exist)\">Minimus</a>"
     },
     {
       "index": 104,
@@ -2975,11 +3145,23 @@
         50.061
       ],
       "img": null,
-      "credit": null,
+      "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.amuz.krakow.pl/www/images/main/header-logo.png\">http://www.amuz.krakow.pl/www/images/main/header-logo.png</a>",
       "music": "波兰重要的高等音乐教育机构，连接民族乐派、现代作曲和城市演出制度。",
       "key": "克拉科夫|克拉科夫音乐学院",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-104-479ade98c1.png",
+      "status": "downloaded",
+      "sourceTitle": "Academy of Music in Kraków logo.png",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Academy_of_Music_in_Krak%C3%B3w_logo.png",
+      "searchUsed": false,
+      "extract": "",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Academy_of_Music_in_Krak%C3%B3w_logo.png",
+      "license": "Public domain",
+      "usageTerms": "Public domain",
+      "artist": "Academy of Music in Kraków",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/6/60/Academy_of_Music_in_Krak%C3%B3w_logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/6/60/Academy_of_Music_in_Krak%C3%B3w_logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "bytes": 105103,
+      "contentType": "image/png"
     },
     {
       "index": 105,
@@ -2992,11 +3174,27 @@
         50.061
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
       "music": "波兰古老大学与人文学研究传统的综合大学节点。",
       "key": "克拉科夫|雅盖隆大学",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-105-d11794fcc5.jpg",
+      "status": "downloaded",
+      "sourceTitle": "20200802 Wydział Fizyki Astronomii i Informatyki Stosowanej, Kampus UJ na Ruczaju w Krakowie 1105 0715.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:20200802_Wydzia%C5%82_Fizyki_Astronomii_i_Informatyki_Stosowanej,_Kampus_UJ_na_Ruczaju_w_Krakowie_1105_0715.jpg",
+      "searchUsed": false,
+      "extract": "亞捷隆大學（波蘭語：Uniwersytet Jagielloński）是位於波蘭克拉科夫的研究型大學，為波蘭第一所大學，由卡齐米日三世創建於1364年，並在1400年由雅蓋沃國王復興。\n這所學校在歷史上曾使用克拉科夫學院（Akademia Krakowska）、王家大學校（Szkoła Główna Koronna）、克拉科夫大學校（Szkoła Główna Krakowska）、克拉科夫大學（Uniwersytet Krakowski）等名稱，至1817年改以奠定其發展基礎的亞捷隆王朝命名至今。\n亞捷隆大學各學院分散座落於市區，其中的克拉科夫大學院（Collegium Maius）是全波蘭最古老的大學建築，現已成為博物館。",
+      "coordinates": {
+        "lat": 50.06083333,
+        "lon": 19.93277778
+      },
+      "filePage": "https://commons.wikimedia.org/wiki/File:20200802_Wydzia%C5%82_Fizyki_Astronomii_i_Informatyki_Stosowanej,_Kampus_UJ_na_Ruczaju_w_Krakowie_1105_0715.jpg",
+      "license": "CC BY-SA 4.0",
+      "usageTerms": "Creative Commons Attribution-Share Alike 4.0",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Jakubhal\" title=\"User:Jakubhal\">Jakub Hałun</a>",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/20200802_Wydzia%C5%82_Fizyki_Astronomii_i_Informatyki_Stosowanej%2C_Kampus_UJ_na_Ruczaju_w_Krakowie_1105_0715.jpg/1280px-20200802_Wydzia%C5%82_Fizyki_Astronomii_i_Informatyki_Stosowanej%2C_Kampus_UJ_na_Ruczaju_w_Krakowie_1105_0715.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/20200802_Wydzia%C5%82_Fizyki_Astronomii_i_Informatyki_Stosowanej%2C_Kampus_UJ_na_Ruczaju_w_Krakowie_1105_0715.jpg/1280px-20200802_Wydzia%C5%82_Fizyki_Astronomii_i_Informatyki_Stosowanej%2C_Kampus_UJ_na_Ruczaju_w_Krakowie_1105_0715.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "bytes": 536931,
+      "contentType": "image/jpeg"
     },
     {
       "index": 106,
@@ -3009,11 +3207,23 @@
         40.417
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
       "music": "西班牙国家级高等音乐教育机构，连接古典演奏、作曲和首都剧院文化。",
       "key": "马德里|马德里皇家音乐学院",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-106-8dbd9203c3.jpg",
+      "status": "downloaded",
+      "sourceTitle": "Madrid - Real Conservatorio Superior de Música de Madrid.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Madrid_-_Real_Conservatorio_Superior_de_M%C3%BAsica_de_Madrid.jpg",
+      "searchUsed": false,
+      "extract": "",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Madrid_-_Real_Conservatorio_Superior_de_M%C3%BAsica_de_Madrid.jpg",
+      "license": "CC0",
+      "usageTerms": "Creative Commons Zero, Public Domain Dedication",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Zarateman\" title=\"User:Zarateman\">Zarateman</a>",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Madrid_-_Real_Conservatorio_Superior_de_M%C3%BAsica_de_Madrid.jpg/1280px-Madrid_-_Real_Conservatorio_Superior_de_M%C3%BAsica_de_Madrid.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Madrid_-_Real_Conservatorio_Superior_de_M%C3%BAsica_de_Madrid.jpg/1280px-Madrid_-_Real_Conservatorio_Superior_de_M%C3%BAsica_de_Madrid.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "bytes": 417211,
+      "contentType": "image/jpeg"
     },
     {
       "index": 107,
@@ -3026,11 +3236,23 @@
         40.42
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
       "music": "面向高水平演奏家的国际化音乐教育机构。",
       "key": "马德里|索菲亚王后音乐学院",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-107-382ec1cdb5.jpg",
+      "status": "downloaded",
+      "sourceTitle": "Edificio de la Escuela Superior de Música Reina Sofía.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Edificio_de_la_Escuela_Superior_de_M%C3%BAsica_Reina_Sof%C3%ADa.jpg",
+      "searchUsed": false,
+      "extract": "",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Edificio_de_la_Escuela_Superior_de_M%C3%BAsica_Reina_Sof%C3%ADa.jpg",
+      "license": "CC BY-SA 4.0",
+      "usageTerms": "Creative Commons Attribution-Share Alike 4.0",
+      "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Escuela_Reina_Sof%C3%ADa&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Escuela Reina Sofía (page does not exist)\">Escuela Reina Sofía</a>",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Edificio_de_la_Escuela_Superior_de_M%C3%BAsica_Reina_Sof%C3%ADa.jpg/1280px-Edificio_de_la_Escuela_Superior_de_M%C3%BAsica_Reina_Sof%C3%ADa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Edificio_de_la_Escuela_Superior_de_M%C3%BAsica_Reina_Sof%C3%ADa.jpg/1280px-Edificio_de_la_Escuela_Superior_de_M%C3%BAsica_Reina_Sof%C3%ADa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "bytes": 340692,
+      "contentType": "image/jpeg"
     },
     {
       "index": 108,
@@ -3043,11 +3265,27 @@
         40.449
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
       "music": "西班牙人文学、艺术史和音乐学研究的重要综合大学节点。",
       "key": "马德里|马德里康普顿斯大学",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-108-ac49f78889.jpg",
+      "status": "downloaded",
+      "sourceTitle": "Facultad Ciencias de la Información Universidad Complutense de Madrid Fachada prinicipal.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Facultad_Ciencias_de_la_Informaci%C3%B3n_Universidad_Complutense_de_Madrid_Fachada_prinicipal.jpg",
+      "searchUsed": false,
+      "extract": "马德里康普顿斯大学（西班牙語：Universidad Complutense de Madrid，縮寫：UCM），又译马德里大学、马德里孔普鲁腾塞大学、马德里完全大学，是一所位于西班牙首都马德里的综合性大学，是目前西班牙最大的大学，也是世界上最古老的一所大学之一。\n马德里康普顿斯大学在哲学、西班牙文学、历史学、药剂学、视光学、新闻学、心理学和社会学等方面在西班牙处于领先地位。",
+      "coordinates": {
+        "lat": 40.44916667,
+        "lon": -3.72805556
+      },
+      "filePage": "https://commons.wikimedia.org/wiki/File:Facultad_Ciencias_de_la_Informaci%C3%B3n_Universidad_Complutense_de_Madrid_Fachada_prinicipal.jpg",
+      "license": "CC BY 4.0",
+      "usageTerms": "Creative Commons Attribution 4.0",
+      "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Cristobalfdez&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Cristobalfdez (page does not exist)\">Cristobalfdez</a>",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Facultad_Ciencias_de_la_Informaci%C3%B3n_Universidad_Complutense_de_Madrid_Fachada_prinicipal.jpg/1280px-Facultad_Ciencias_de_la_Informaci%C3%B3n_Universidad_Complutense_de_Madrid_Fachada_prinicipal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Facultad_Ciencias_de_la_Informaci%C3%B3n_Universidad_Complutense_de_Madrid_Fachada_prinicipal.jpg/1280px-Facultad_Ciencias_de_la_Informaci%C3%B3n_Universidad_Complutense_de_Madrid_Fachada_prinicipal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "bytes": 485873,
+      "contentType": "image/jpeg"
     },
     {
       "index": 109,
@@ -3060,11 +3298,23 @@
         37.981
       ],
       "img": null,
-      "credit": null,
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
       "music": "希腊现代音乐教育与公共演出制度的重要机构。",
       "key": "雅典|雅典音乐学院",
-      "asset": null,
-      "status": "no-wikipedia-page"
+      "asset": "images/poi/poi-109-fa37190ac7.jpg",
+      "status": "downloaded",
+      "sourceTitle": "雅典音乐学院",
+      "sourcePage": "https://zh.wikipedia.org/wiki/%E9%9B%85%E5%85%B8%E9%9F%B3%E4%B9%90%E5%AD%A6%E9%99%A2",
+      "searchUsed": false,
+      "extract": "雅典音乐学院是希腊最古老的表演艺术教育机构以及音樂學院，並開設作曲、军乐、音乐理论、拜占庭教堂音乐（东正教堂音乐）等课程。它成立於1871年，位於雅典。马诺利斯·卡洛米里斯、斯皮罗·萨马拉斯、瑪麗亞·卡拉絲、季米特里斯·米特罗普洛斯、尼科斯·斯卡尔科塔斯、米基斯·塞奥佐拉基斯等人曾在該學校任教。",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/The_facade_of_the_Athens_Conservatoire.jpg/1280px-The_facade_of_the_Athens_Conservatoire.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/The_facade_of_the_Athens_Conservatoire.jpg/1280px-The_facade_of_the_Athens_Conservatoire.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bytes": 286572,
+      "contentType": "image/jpeg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:The_facade_of_the_Athens_Conservatoire.jpg",
+      "license": "CC BY-SA 4.0",
+      "usageTerms": "Creative Commons Attribution-Share Alike 4.0",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:StrangeTraveler\" title=\"User:StrangeTraveler\">StrangeTraveler</a>"
     },
     {
       "index": 110,
