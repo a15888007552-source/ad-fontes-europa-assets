@@ -1,0 +1,2221 @@
+{
+  "special": 29,
+  "cultural": 129,
+  "total": 158,
+  "withImg": 0,
+  "duplicateKeys": [],
+  "rows": [
+    {
+      "index": 0,
+      "city": "巴黎",
+      "name": "巴黎国立高等音乐舞蹈学院",
+      "kind": "音乐学院",
+      "wiki": "Paris Conservatoire",
+      "fallback": [
+        2.336,
+        48.847
+      ],
+      "img": null,
+      "credit": null,
+      "music": "法国国家音乐教育与考试制度的核心机构；柏辽兹、德彪西、拉威尔等人的训练与巴黎音乐职业网络都与它有关。"
+    },
+    {
+      "index": 1,
+      "city": "巴黎",
+      "name": "音乐城",
+      "kind": "音乐场所",
+      "wiki": "Cité de la musique",
+      "fallback": [
+        2.393,
+        48.889
+      ],
+      "img": null,
+      "credit": null,
+      "music": "现代巴黎的音乐博物馆、演出与教育综合体；它把历史乐器收藏、现场演出和音乐知识传播放在同一空间。"
+    },
+    {
+      "index": 2,
+      "city": "伦敦",
+      "name": "皇家音乐学院",
+      "kind": "音乐学院",
+      "wiki": "Royal College of Music",
+      "fallback": [
+        -0.179,
+        51.499
+      ],
+      "img": null,
+      "credit": null,
+      "music": "英国重要的高等音乐教育机构，坐落于伦敦音乐博物馆与演出场馆密集的南肯辛顿文化区。"
+    },
+    {
+      "index": 3,
+      "city": "伦敦",
+      "name": "皇家音乐学院（Royal Academy）",
+      "kind": "音乐学院",
+      "wiki": "Royal Academy of Music",
+      "fallback": [
+        -0.151,
+        51.523
+      ],
+      "img": null,
+      "credit": null,
+      "music": "英国历史最久的音乐学院之一；其学生、教师和演出网络连接了伦敦的歌剧、交响乐与室内乐生活。"
+    },
+    {
+      "index": 4,
+      "city": "伦敦",
+      "name": "亨德尔与亨德里克斯故居",
+      "kind": "音乐家故居",
+      "wiki": "Handel & Hendrix in London",
+      "fallback": [
+        -0.164,
+        51.512
+      ],
+      "img": null,
+      "credit": null,
+      "music": "亨德尔曾在这里生活并创作；两个世纪后吉米·亨德里克斯也住在同一带，故居把巴洛克与摇滚放进同一城市坐标。"
+    },
+    {
+      "index": 5,
+      "city": "维也纳",
+      "name": "维也纳音乐与表演艺术大学",
+      "kind": "音乐学院",
+      "wiki": "University of Music and Performing Arts Vienna",
+      "fallback": [
+        16.366,
+        48.201
+      ],
+      "img": null,
+      "credit": null,
+      "music": "mdw是欧洲重要的音乐与表演艺术大学之一，延续维也纳作曲、演奏、指挥和歌剧教育的制度传统。"
+    },
+    {
+      "index": 6,
+      "city": "维也纳",
+      "name": "贝多芬帕斯夸拉蒂故居",
+      "kind": "音乐家故居",
+      "wiki": "Pasqualati House",
+      "fallback": [
+        16.365,
+        48.215
+      ],
+      "img": null,
+      "credit": null,
+      "music": "贝多芬曾在此居住和工作；“英雄”时期的城市住宅、委约制度与作品形成之间，可以通过故居的空间关系具体化。"
+    },
+    {
+      "index": 7,
+      "city": "维也纳",
+      "name": "舒伯特出生地",
+      "kind": "音乐家故居",
+      "wiki": "Schubert Geburtshaus",
+      "fallback": [
+        16.359,
+        48.222
+      ],
+      "img": null,
+      "credit": null,
+      "music": "舒伯特1797年出生于此；故居让歌曲、家庭音乐和十九世纪初维也纳市民文化不再只是抽象背景。"
+    },
+    {
+      "index": 8,
+      "city": "柏林",
+      "name": "柏林艺术大学音乐学院",
+      "kind": "音乐学院",
+      "wiki": "Berlin University of the Arts",
+      "fallback": [
+        13.327,
+        52.51
+      ],
+      "img": null,
+      "credit": null,
+      "music": "柏林艺术大学延续德语区高等艺术教育传统，作曲、音乐理论、演奏与艺术实践在同一机构内并置。"
+    },
+    {
+      "index": 9,
+      "city": "柏林",
+      "name": "勋伯格中心",
+      "kind": "音乐家故居",
+      "wiki": "Arnold Schoenberg Center",
+      "fallback": [
+        13.379,
+        52.505
+      ],
+      "img": null,
+      "credit": null,
+      "music": "中心保存勋伯格手稿、绘画与研究资料；它是理解十二音技术、流亡经验与现代主义思想史的资料节点。"
+    },
+    {
+      "index": 10,
+      "city": "莱比锡",
+      "name": "莱比锡音乐与戏剧学院",
+      "kind": "音乐学院",
+      "wiki": "University of Music and Theatre Leipzig",
+      "fallback": [
+        12.371,
+        51.334
+      ],
+      "img": null,
+      "credit": null,
+      "music": "门德尔松创办的音乐教育传统在这里延续；学院与格万豪斯、歌剧院和城市合唱制度共同构成莱比锡音乐生态。"
+    },
+    {
+      "index": 11,
+      "city": "莱比锡",
+      "name": "巴赫博物馆",
+      "kind": "音乐场所",
+      "wiki": "Bach Museum, Leipzig",
+      "fallback": [
+        12.368,
+        51.34
+      ],
+      "img": null,
+      "credit": null,
+      "music": "博物馆位于托马斯教堂旁，集中呈现巴赫家族、莱比锡城市乐职和手稿声学材料。"
+    },
+    {
+      "index": 12,
+      "city": "萨尔茨堡",
+      "name": "莫扎特大学",
+      "kind": "音乐学院",
+      "wiki": "Mozarteum University Salzburg",
+      "fallback": [
+        13.043,
+        47.802
+      ],
+      "img": null,
+      "credit": null,
+      "music": "从莫扎特纪念传统发展而来的现代音乐与表演艺术大学；城市节庆、演奏教育和莫扎特研究在此交汇。"
+    },
+    {
+      "index": 13,
+      "city": "米兰",
+      "name": "米兰威尔第音乐学院",
+      "kind": "音乐学院",
+      "wiki": "Milan Conservatory",
+      "fallback": [
+        9.197,
+        45.466
+      ],
+      "img": null,
+      "credit": null,
+      "music": "意大利重要的高等音乐教育机构；米兰歌剧院、出版业与声乐训练共同塑造了意大利歌剧职业制度。"
+    },
+    {
+      "index": 14,
+      "city": "米兰",
+      "name": "威尔第之家 Casa Verdi",
+      "kind": "音乐家故居",
+      "wiki": "Casa Verdi",
+      "fallback": [
+        9.16,
+        45.48
+      ],
+      "img": null,
+      "credit": null,
+      "music": "威尔第晚年创建的音乐家安养院；它既是作曲家故居，也是意大利音乐家社会保障观念的历史见证。"
+    },
+    {
+      "index": 15,
+      "city": "罗马",
+      "name": "圣切契利亚国立学院",
+      "kind": "音乐学院",
+      "wiki": "Accademia Nazionale di Santa Cecilia",
+      "fallback": [
+        12.456,
+        41.929
+      ],
+      "img": null,
+      "credit": null,
+      "music": "从教会音乐传统发展为现代交响乐团与音乐学院；它把罗马的礼仪遗产与现代公共音乐会连接起来。"
+    },
+    {
+      "index": 16,
+      "city": "布拉格",
+      "name": "布拉格表演艺术学院 HAMU",
+      "kind": "音乐学院",
+      "wiki": "Academy of Performing Arts in Prague",
+      "fallback": [
+        14.405,
+        50.087
+      ],
+      "img": null,
+      "credit": null,
+      "music": "捷克高等音乐教育的核心机构，承接斯美塔那、德沃夏克以来的民族乐派与现代演奏传统。"
+    },
+    {
+      "index": 17,
+      "city": "布拉格",
+      "name": "德沃夏克博物馆",
+      "kind": "音乐家故居",
+      "wiki": "Antonín Dvořák Museum",
+      "fallback": [
+        14.426,
+        50.074
+      ],
+      "img": null,
+      "credit": null,
+      "music": "以德沃夏克手稿、文献与纪念空间呈现捷克作曲家如何在民族语汇与国际交响体裁之间工作。"
+    },
+    {
+      "index": 18,
+      "city": "布达佩斯",
+      "name": "李斯特音乐学院",
+      "kind": "音乐学院",
+      "wiki": "Franz Liszt Academy of Music",
+      "fallback": [
+        19.071,
+        47.505
+      ],
+      "img": null,
+      "credit": null,
+      "music": "李斯特创办的高等音乐教育机构；巴托克、柯达伊及匈牙利现代音乐教育都与此传统相连。"
+    },
+    {
+      "index": 19,
+      "city": "纽约",
+      "name": "茱莉亚学院",
+      "kind": "音乐学院",
+      "wiki": "Juilliard School",
+      "fallback": [
+        -73.983,
+        40.773
+      ],
+      "img": null,
+      "credit": null,
+      "music": "美国最具国际影响力的表演艺术学院之一；林肯中心的剧场网络使学院训练直接连接到职业舞台。"
+    },
+    {
+      "index": 20,
+      "city": "波士顿",
+      "name": "哈佛大学",
+      "kind": "综合大学",
+      "wiki": "Harvard University",
+      "fallback": [
+        -71.116,
+        42.377
+      ],
+      "img": null,
+      "credit": null,
+      "music": "这里不是音乐学院，而是音乐学、民族音乐学、历史音乐研究与跨学科人文学的重要综合大学节点；标记它是为了呈现音乐知识如何进入大学制度。"
+    },
+    {
+      "index": 21,
+      "city": "波士顿",
+      "name": "伯克利音乐学院",
+      "kind": "音乐学院",
+      "wiki": "Berklee College of Music",
+      "fallback": [
+        -71.1,
+        42.347
+      ],
+      "img": null,
+      "credit": null,
+      "music": "以爵士、流行、作曲、制作和当代音乐产业教育闻名；它代表波士顿音乐教育中不同于古典学院的另一条现代路径。"
+    },
+    {
+      "index": 22,
+      "city": "新港",
+      "name": "耶鲁音乐学院",
+      "kind": "音乐学院",
+      "wiki": "Yale School of Music",
+      "fallback": [
+        -72.928,
+        41.312
+      ],
+      "img": null,
+      "credit": null,
+      "music": "耶鲁的音乐学院与大学人文学科、演出机构共同构成美国学院音乐体系；欣德米特曾在耶鲁执教。"
+    },
+    {
+      "index": 23,
+      "city": "费城",
+      "name": "柯蒂斯音乐学院",
+      "kind": "音乐学院",
+      "wiki": "Curtis Institute of Music",
+      "fallback": [
+        -75.17,
+        39.95
+      ],
+      "img": null,
+      "credit": null,
+      "music": "以小规模、师徒制和高强度演奏训练闻名；它是费城交响乐传统与美国职业音乐教育的重要节点。"
+    },
+    {
+      "index": 24,
+      "city": "洛杉矶",
+      "name": "南加州大学桑顿音乐学院",
+      "kind": "音乐学院",
+      "wiki": "USC Thornton School of Music",
+      "fallback": [
+        -118.283,
+        34.022
+      ],
+      "img": null,
+      "credit": null,
+      "music": "把古典演奏、爵士、作曲、电影配乐和音乐产业教育置于洛杉矶的影视工业语境中。"
+    },
+    {
+      "index": 25,
+      "city": "圣彼得堡",
+      "name": "里姆斯基-科萨科夫音乐学院",
+      "kind": "音乐学院",
+      "wiki": "Rimsky-Korsakov Conservatory",
+      "fallback": [
+        30.31,
+        59.93
+      ],
+      "img": null,
+      "credit": null,
+      "music": "俄罗斯最早的高等音乐教育机构之一；里姆斯基-科萨科夫的教学把民族乐派的配器与学院制度结合起来。"
+    },
+    {
+      "index": 26,
+      "city": "莫斯科",
+      "name": "柴可夫斯基音乐学院",
+      "kind": "音乐学院",
+      "wiki": "Moscow Conservatory",
+      "fallback": [
+        37.605,
+        55.755
+      ],
+      "img": null,
+      "credit": null,
+      "music": "俄罗斯演奏、作曲与音乐理论教育的核心机构；柴可夫斯基、拉赫玛尼诺夫传统与苏联音乐生活都可在此追踪。"
+    },
+    {
+      "index": 27,
+      "city": "赫尔辛基",
+      "name": "西贝柳斯学院",
+      "kind": "音乐学院",
+      "wiki": "Sibelius Academy",
+      "fallback": [
+        24.94,
+        60.17
+      ],
+      "img": null,
+      "credit": null,
+      "music": "芬兰最重要的高等音乐教育机构，以西贝柳斯命名；它把民族乐派记忆和现代北欧音乐训练连接起来。"
+    },
+    {
+      "index": 28,
+      "city": "布尔诺",
+      "name": "雅纳切克音乐与表演艺术学院",
+      "kind": "音乐学院",
+      "wiki": "Janáček Academy of Music and Performing Arts",
+      "fallback": [
+        16.608,
+        49.195
+      ],
+      "img": null,
+      "credit": null,
+      "music": "以雅纳切克命名的高等艺术院校；摩拉维亚语言、民歌采录与现代歌剧传统在这里形成连续谱系。"
+    },
+    {
+      "index": 29,
+      "city": "巴黎",
+      "name": "索邦大学",
+      "kind": "综合大学",
+      "wiki": "Sorbonne University",
+      "fallback": [
+        2.344,
+        48.847
+      ],
+      "img": null,
+      "credit": null,
+      "music": "索邦的音乐与音乐学研究把法国艺术史、档案学和音乐史放在同一所综合大学中。"
+    },
+    {
+      "index": 30,
+      "city": "巴黎",
+      "name": "巴黎高等音乐师范学院",
+      "kind": "音乐学院",
+      "wiki": "École Normale de Musique de Paris",
+      "fallback": [
+        2.327,
+        48.846
+      ],
+      "img": null,
+      "credit": null,
+      "music": "巴黎重要的私人高等音乐教育机构，连接钢琴、声乐、作曲训练与城市演出职业网络。"
+    },
+    {
+      "index": 31,
+      "city": "巴黎",
+      "name": "音响与音乐研究协调研究所 IRCAM",
+      "kind": "音乐场所",
+      "wiki": "IRCAM",
+      "fallback": [
+        2.352,
+        48.86
+      ],
+      "img": null,
+      "credit": null,
+      "music": "蓬皮杜中心旁的电子音乐与当代作曲研究机构；它把计算机音乐、声学和先锋创作接到巴黎公共文化空间。"
+    },
+    {
+      "index": 32,
+      "city": "伦敦",
+      "name": "伦敦市政厅音乐与戏剧学院",
+      "kind": "音乐学院",
+      "wiki": "Guildhall School of Music and Drama",
+      "fallback": [
+        -0.078,
+        51.507
+      ],
+      "img": null,
+      "credit": null,
+      "music": "英国重要的表演艺术学院，学生训练与伦敦交响乐团、歌剧院和剧场生态直接相连。"
+    },
+    {
+      "index": 33,
+      "city": "伦敦",
+      "name": "三一拉邦音乐舞蹈学院",
+      "kind": "音乐学院",
+      "wiki": "Trinity Laban Conservatoire of Music and Dance",
+      "fallback": [
+        -0.004,
+        51.475
+      ],
+      "img": null,
+      "credit": null,
+      "music": "英国音乐与舞蹈高等教育的重要机构，代表伦敦古典、爵士和当代表演教育的另一条谱系。"
+    },
+    {
+      "index": 34,
+      "city": "伦敦",
+      "name": "威格莫尔音乐厅",
+      "kind": "音乐场所",
+      "wiki": "Wigmore Hall",
+      "fallback": [
+        -0.151,
+        51.517
+      ],
+      "img": null,
+      "credit": null,
+      "music": "伦敦室内乐演出的标志性场所，以声学、曲目深度和独奏家传统闻名。"
+    },
+    {
+      "index": 35,
+      "city": "伦敦",
+      "name": "伦敦大学金史密斯学院",
+      "kind": "综合大学",
+      "wiki": "Goldsmiths, University of London",
+      "fallback": [
+        -0.033,
+        51.474
+      ],
+      "img": null,
+      "credit": null,
+      "music": "金史密斯学院的音乐研究连接实验作曲、声音艺术、民族音乐学与当代文化研究。"
+    },
+    {
+      "index": 36,
+      "city": "维也纳",
+      "name": "维也纳市立音乐与艺术大学",
+      "kind": "音乐学院",
+      "wiki": "Music and Arts University of the City of Vienna",
+      "fallback": [
+        16.373,
+        48.209
+      ],
+      "img": null,
+      "credit": null,
+      "music": "维也纳市立高等音乐教育机构，覆盖演奏、作曲、音乐剧和音乐教育。"
+    },
+    {
+      "index": 37,
+      "city": "维也纳",
+      "name": "维也纳大学",
+      "kind": "综合大学",
+      "wiki": "University of Vienna",
+      "fallback": [
+        16.36,
+        48.213
+      ],
+      "img": null,
+      "credit": null,
+      "music": "维也纳大学的音乐学与人文学研究，为理解奥地利音乐史、档案和城市文化提供综合大学节点。"
+    },
+    {
+      "index": 38,
+      "city": "维也纳",
+      "name": "金色大厅",
+      "kind": "音乐场所",
+      "wiki": "Musikverein",
+      "fallback": [
+        16.373,
+        48.201
+      ],
+      "img": null,
+      "credit": null,
+      "music": "维也纳爱乐传统的核心演出场所；金色大厅的音响与新年音乐会已经成为现代公共音乐文化的全球符号。"
+    },
+    {
+      "index": 39,
+      "city": "维也纳",
+      "name": "维也纳国家歌剧院",
+      "kind": "音乐场所",
+      "wiki": "Vienna State Opera",
+      "fallback": [
+        16.369,
+        48.203
+      ],
+      "img": null,
+      "credit": null,
+      "music": "欧洲歌剧院制度与维也纳歌剧传统的中心，连接莫扎特、施特劳斯和现代歌剧制作。"
+    },
+    {
+      "index": 40,
+      "city": "维也纳",
+      "name": "莫扎特公寓",
+      "kind": "音乐家故居",
+      "wiki": "Mozart Wohnhaus",
+      "fallback": [
+        16.372,
+        48.208
+      ],
+      "img": null,
+      "credit": null,
+      "music": "莫扎特在维也纳最重要的居所之一；这里适合观察他的城市职业、出版和公共音乐会生活。"
+    },
+    {
+      "index": 41,
+      "city": "维也纳",
+      "name": "海顿故居",
+      "kind": "音乐家故居",
+      "wiki": "Haydnhaus",
+      "fallback": [
+        16.354,
+        48.195
+      ],
+      "img": null,
+      "credit": null,
+      "music": "海顿晚年居所与维也纳市民音乐文化的见证，也保存着作曲家从宫廷制度走向公共声誉的轨迹。"
+    },
+    {
+      "index": 42,
+      "city": "柏林",
+      "name": "汉斯·艾斯勒音乐学院",
+      "kind": "音乐学院",
+      "wiki": "Hanns Eisler School of Music",
+      "fallback": [
+        13.414,
+        52.518
+      ],
+      "img": null,
+      "credit": null,
+      "music": "柏林重要的公立音乐学院，继承德语区作曲、指挥和高等演奏教育传统。"
+    },
+    {
+      "index": 43,
+      "city": "柏林",
+      "name": "巴伦博伊姆—赛义德学院",
+      "kind": "音乐学院",
+      "wiki": "Barenboim–Said Academy",
+      "fallback": [
+        13.389,
+        52.514
+      ],
+      "img": null,
+      "credit": null,
+      "music": "以室内乐、跨文化教育和西东合集管弦乐团理念著称的柏林新型音乐学院。"
+    },
+    {
+      "index": 44,
+      "city": "柏林",
+      "name": "柏林爱乐音乐厅",
+      "kind": "音乐场所",
+      "wiki": "Berlin Philharmonie",
+      "fallback": [
+        13.369,
+        52.509
+      ],
+      "img": null,
+      "credit": null,
+      "music": "柏林爱乐的主场，以环绕舞台的大厅结构重塑了现代交响乐的听觉关系。"
+    },
+    {
+      "index": 45,
+      "city": "柏林",
+      "name": "柏林国家歌剧院",
+      "kind": "音乐场所",
+      "wiki": "Berlin State Opera",
+      "fallback": [
+        13.326,
+        52.517
+      ],
+      "img": null,
+      "credit": null,
+      "music": "柏林歌剧制度的重要剧院，连接普鲁士宫廷传统、德语歌剧和现代舞台制作。"
+    },
+    {
+      "index": 46,
+      "city": "柏林",
+      "name": "柏林洪堡大学",
+      "kind": "综合大学",
+      "wiki": "Humboldt University of Berlin",
+      "fallback": [
+        13.393,
+        52.518
+      ],
+      "img": null,
+      "credit": null,
+      "music": "柏林音乐学、艺术史和人文学研究网络的重要综合大学节点。"
+    },
+    {
+      "index": 47,
+      "city": "莱比锡",
+      "name": "托马斯教堂",
+      "kind": "音乐场所",
+      "wiki": "St. Thomas Church, Leipzig",
+      "fallback": [
+        12.368,
+        51.339
+      ],
+      "img": null,
+      "credit": null,
+      "music": "巴赫长期任职的教堂，也是莱比锡城市乐职、合唱传统与作曲家纪念文化的核心地点。"
+    },
+    {
+      "index": 48,
+      "city": "莱比锡",
+      "name": "格万豪斯音乐厅",
+      "kind": "音乐场所",
+      "wiki": "Gewandhaus",
+      "fallback": [
+        12.378,
+        51.339
+      ],
+      "img": null,
+      "credit": null,
+      "music": "门德尔松以来莱比锡交响乐传统的中心，连接公共音乐会、乐团制度和城市中产文化。"
+    },
+    {
+      "index": 49,
+      "city": "莱比锡",
+      "name": "门德尔松故居",
+      "kind": "音乐家故居",
+      "wiki": "Mendelssohn House",
+      "fallback": [
+        12.38,
+        51.333
+      ],
+      "img": null,
+      "credit": null,
+      "music": "门德尔松在莱比锡最后的居所；这里连接作曲、指挥、音乐教育与格万豪斯改革。"
+    },
+    {
+      "index": 50,
+      "city": "莱比锡",
+      "name": "舒曼故居",
+      "kind": "音乐家故居",
+      "wiki": "Schumann House, Leipzig",
+      "fallback": [
+        12.386,
+        51.329
+      ],
+      "img": null,
+      "credit": null,
+      "music": "舒曼夫妇在莱比锡生活与创作的纪念地点，提示十九世纪音乐家庭、沙龙和职业网络的关系。"
+    },
+    {
+      "index": 51,
+      "city": "莱比锡",
+      "name": "莱比锡大学",
+      "kind": "综合大学",
+      "wiki": "Leipzig University",
+      "fallback": [
+        12.373,
+        51.339
+      ],
+      "img": null,
+      "credit": null,
+      "music": "莱比锡大学的人文学和音乐学传统，与托马斯教堂、音乐学院和城市档案共同构成研究网络。"
+    },
+    {
+      "index": 52,
+      "city": "萨尔茨堡",
+      "name": "莫扎特出生地",
+      "kind": "音乐家故居",
+      "wiki": "Mozart's Birthplace",
+      "fallback": [
+        13.043,
+        47.8
+      ],
+      "img": null,
+      "credit": null,
+      "music": "莫扎特1756年出生的故居，连接萨尔茨堡市民家庭、宫廷音乐和后来的纪念产业。"
+    },
+    {
+      "index": 53,
+      "city": "萨尔茨堡",
+      "name": "莫扎特住宅",
+      "kind": "音乐家故居",
+      "wiki": "Mozart's Residence",
+      "fallback": [
+        13.047,
+        47.801
+      ],
+      "img": null,
+      "credit": null,
+      "music": "莫扎特一家在萨尔茨堡的重要居所，能补足出生地之外的城市生活与音乐职业信息。"
+    },
+    {
+      "index": 54,
+      "city": "萨尔茨堡",
+      "name": "萨尔茨堡节日大剧院",
+      "kind": "音乐场所",
+      "wiki": "Großes Festspielhaus",
+      "fallback": [
+        13.044,
+        47.798
+      ],
+      "img": null,
+      "credit": null,
+      "music": "萨尔茨堡音乐节的核心剧场，把莫扎特纪念、歌剧制作和现代节庆制度连接起来。"
+    },
+    {
+      "index": 55,
+      "city": "萨尔茨堡",
+      "name": "萨尔茨堡大学",
+      "kind": "综合大学",
+      "wiki": "University of Salzburg",
+      "fallback": [
+        13.048,
+        47.8
+      ],
+      "img": null,
+      "credit": null,
+      "music": "萨尔茨堡的综合大学研究节点，可与莫扎特研究、音乐学和城市文化史相互参照。"
+    },
+    {
+      "index": 56,
+      "city": "米兰",
+      "name": "斯卡拉歌剧院",
+      "kind": "音乐场所",
+      "wiki": "La Scala",
+      "fallback": [
+        9.189,
+        45.467
+      ],
+      "img": null,
+      "credit": null,
+      "music": "意大利歌剧制度的世界级剧院，连接米兰出版、歌手训练、作曲委约和观众文化。"
+    },
+    {
+      "index": 57,
+      "city": "米兰",
+      "name": "米兰大学",
+      "kind": "综合大学",
+      "wiki": "University of Milan",
+      "fallback": [
+        9.193,
+        45.477
+      ],
+      "img": null,
+      "credit": null,
+      "music": "米兰大学的人文学和音乐学研究为歌剧史、城市文化和意大利艺术制度提供综合大学坐标。"
+    },
+    {
+      "index": 58,
+      "city": "罗马",
+      "name": "罗马歌剧院",
+      "kind": "音乐场所",
+      "wiki": "Teatro dell'Opera di Roma",
+      "fallback": [
+        12.496,
+        41.9
+      ],
+      "img": null,
+      "credit": null,
+      "music": "罗马现代歌剧制度的中心，连接教廷城市的历史遗产与公共剧院文化。"
+    },
+    {
+      "index": 59,
+      "city": "罗马",
+      "name": "罗马第一大学",
+      "kind": "综合大学",
+      "wiki": "Sapienza University of Rome",
+      "fallback": [
+        12.514,
+        41.903
+      ],
+      "img": null,
+      "credit": null,
+      "music": "罗马第一大学的音乐学、人文学与档案研究，为罗马礼仪音乐和现代文化史提供综合大学节点。"
+    },
+    {
+      "index": 60,
+      "city": "布拉格",
+      "name": "鲁道夫音乐厅",
+      "kind": "音乐场所",
+      "wiki": "Rudolfinum",
+      "fallback": [
+        14.415,
+        50.09
+      ],
+      "img": null,
+      "credit": null,
+      "music": "捷克爱乐的主场，连接德沃夏克传统、国家音乐机构和布拉格公共音乐会生活。"
+    },
+    {
+      "index": 61,
+      "city": "布拉格",
+      "name": "布拉格国家歌剧院",
+      "kind": "音乐场所",
+      "wiki": "State Opera, Prague",
+      "fallback": [
+        14.434,
+        50.081
+      ],
+      "img": null,
+      "credit": null,
+      "music": "布拉格歌剧制度和德语—捷克语舞台文化交汇的代表性剧院。"
+    },
+    {
+      "index": 62,
+      "city": "布拉格",
+      "name": "查理大学",
+      "kind": "综合大学",
+      "wiki": "Charles University",
+      "fallback": [
+        14.416,
+        50.088
+      ],
+      "img": null,
+      "credit": null,
+      "music": "查理大学的人文学与音乐学研究，是理解波希米亚音乐史和捷克民族乐派的综合大学节点。"
+    },
+    {
+      "index": 63,
+      "city": "布达佩斯",
+      "name": "匈牙利国家歌剧院",
+      "kind": "音乐场所",
+      "wiki": "Hungarian State Opera",
+      "fallback": [
+        19.059,
+        47.502
+      ],
+      "img": null,
+      "credit": null,
+      "music": "匈牙利歌剧、管弦乐和舞台制度的中心，连接李斯特、巴托克与柯达伊之后的公共音乐文化。"
+    },
+    {
+      "index": 64,
+      "city": "布达佩斯",
+      "name": "巴托克纪念馆",
+      "kind": "音乐家故居",
+      "wiki": "Béla Bartók Memorial House",
+      "fallback": [
+        19.012,
+        47.525
+      ],
+      "img": null,
+      "credit": null,
+      "music": "巴托克晚年居所与纪念空间，展示民歌采集、现代作曲和流亡经验之间的联系。"
+    },
+    {
+      "index": 65,
+      "city": "布达佩斯",
+      "name": "柯达伊纪念馆",
+      "kind": "音乐家故居",
+      "wiki": "Kodály Memorial Museum",
+      "fallback": [
+        19.063,
+        47.507
+      ],
+      "img": null,
+      "credit": null,
+      "music": "柯达伊居所与纪念资料节点，连接匈牙利民歌研究和以歌唱为核心的音乐教育改革。"
+    },
+    {
+      "index": 66,
+      "city": "布达佩斯",
+      "name": "罗兰大学",
+      "kind": "综合大学",
+      "wiki": "Eötvös Loránd University",
+      "fallback": [
+        19.061,
+        47.489
+      ],
+      "img": null,
+      "credit": null,
+      "music": "匈牙利人文学与音乐学研究的综合大学节点，可与李斯特学院的表演教育形成对照。"
+    },
+    {
+      "index": 67,
+      "city": "纽约",
+      "name": "曼哈顿音乐学院",
+      "kind": "音乐学院",
+      "wiki": "Manhattan School of Music",
+      "fallback": [
+        -73.961,
+        40.813
+      ],
+      "img": null,
+      "credit": null,
+      "music": "纽约重要的表演艺术学院，连接古典、爵士、作曲教育和职业舞台。"
+    },
+    {
+      "index": 68,
+      "city": "纽约",
+      "name": "曼内斯音乐学院",
+      "kind": "音乐学院",
+      "wiki": "Mannes School of Music",
+      "fallback": [
+        -73.96,
+        40.775
+      ],
+      "img": null,
+      "credit": null,
+      "music": "纽约音乐学院体系的重要组成，位于城市演出、教育和现代音乐创作网络之中。"
+    },
+    {
+      "index": 69,
+      "city": "纽约",
+      "name": "卡内基音乐厅",
+      "kind": "音乐场所",
+      "wiki": "Carnegie Hall",
+      "fallback": [
+        -73.98,
+        40.765
+      ],
+      "img": null,
+      "credit": null,
+      "music": "现代音乐会制度最具象征性的大厅之一，见证了欧洲音乐传统在美国公共舞台上的重建。"
+    },
+    {
+      "index": 70,
+      "city": "纽约",
+      "name": "大都会歌剧院",
+      "kind": "音乐场所",
+      "wiki": "Metropolitan Opera House",
+      "fallback": [
+        -73.988,
+        40.772
+      ],
+      "img": null,
+      "credit": null,
+      "music": "美国歌剧制度的核心剧院，连接移民城市、明星歌唱家和国际歌剧曲目。"
+    },
+    {
+      "index": 71,
+      "city": "纽约",
+      "name": "哥伦比亚大学",
+      "kind": "综合大学",
+      "wiki": "Columbia University",
+      "fallback": [
+        -73.962,
+        40.807
+      ],
+      "img": null,
+      "credit": null,
+      "music": "哥伦比亚大学的人文学、音乐学与跨学科研究，是纽约综合大学音乐知识网络的重要节点。"
+    },
+    {
+      "index": 72,
+      "city": "波士顿",
+      "name": "新英格兰音乐学院",
+      "kind": "音乐学院",
+      "wiki": "New England Conservatory",
+      "fallback": [
+        -71.084,
+        42.337
+      ],
+      "img": null,
+      "credit": null,
+      "music": "美国历史悠久的音乐学院之一，与波士顿交响乐团、古典演奏和作曲教育关系密切。"
+    },
+    {
+      "index": 73,
+      "city": "波士顿",
+      "name": "波士顿交响音乐厅",
+      "kind": "音乐场所",
+      "wiki": "Symphony Hall, Boston",
+      "fallback": [
+        -71.085,
+        42.342
+      ],
+      "img": null,
+      "credit": null,
+      "music": "波士顿交响乐团的主场，以声学设计和美国交响乐传统闻名。"
+    },
+    {
+      "index": 74,
+      "city": "波士顿",
+      "name": "波士顿大学",
+      "kind": "综合大学",
+      "wiki": "Boston University",
+      "fallback": [
+        -71.1,
+        42.35
+      ],
+      "img": null,
+      "credit": null,
+      "music": "波士顿大学的音乐学院、艺术与人文学研究把综合大学教育接入城市的音乐职业生态。"
+    },
+    {
+      "index": 75,
+      "city": "芝加哥",
+      "name": "芝加哥大学",
+      "kind": "综合大学",
+      "wiki": "University of Chicago",
+      "fallback": [
+        -87.599,
+        41.789
+      ],
+      "img": null,
+      "credit": null,
+      "music": "芝加哥大学的音乐学与人文学研究，在美国大学音乐史、理论和跨学科研究中具有重要位置。"
+    },
+    {
+      "index": 76,
+      "city": "芝加哥",
+      "name": "德保罗大学表演艺术学院",
+      "kind": "音乐学院",
+      "wiki": "DePaul University School of Music",
+      "fallback": [
+        -87.627,
+        41.925
+      ],
+      "img": null,
+      "credit": null,
+      "music": "芝加哥重要的音乐与表演艺术教育节点，覆盖古典、爵士和当代职业训练。"
+    },
+    {
+      "index": 77,
+      "city": "芝加哥",
+      "name": "芝加哥交响乐中心",
+      "kind": "音乐场所",
+      "wiki": "Symphony Center",
+      "fallback": [
+        -87.623,
+        41.888
+      ],
+      "img": null,
+      "credit": null,
+      "music": "芝加哥交响乐团的主场，代表美国城市交响乐团制度的成熟形态。"
+    },
+    {
+      "index": 78,
+      "city": "费城",
+      "name": "费城音乐学院",
+      "kind": "音乐场所",
+      "wiki": "Academy of Music, Philadelphia",
+      "fallback": [
+        -75.165,
+        39.948
+      ],
+      "img": null,
+      "credit": null,
+      "music": "美国历史悠久的歌剧与音乐会场所，费城交响乐和歌剧文化的重要地标。"
+    },
+    {
+      "index": 79,
+      "city": "费城",
+      "name": "宾夕法尼亚大学",
+      "kind": "综合大学",
+      "wiki": "University of Pennsylvania",
+      "fallback": [
+        -75.193,
+        39.952
+      ],
+      "img": null,
+      "credit": null,
+      "music": "宾夕法尼亚大学的人文学、音乐学与跨学科研究，为费城的大学音乐文化提供综合大学节点。"
+    },
+    {
+      "index": 80,
+      "city": "费城",
+      "name": "天普大学博耶音乐与舞蹈学院",
+      "kind": "音乐学院",
+      "wiki": "Boy­er College of Music and Dance",
+      "fallback": [
+        -75.156,
+        39.981
+      ],
+      "img": null,
+      "credit": null,
+      "music": "费城重要的音乐与舞蹈高等教育机构，连接古典训练、爵士和城市公共文化。"
+    },
+    {
+      "index": 81,
+      "city": "洛杉矶",
+      "name": "科尔本音乐学院",
+      "kind": "音乐学院",
+      "wiki": "Colburn School",
+      "fallback": [
+        -118.249,
+        34.055
+      ],
+      "img": null,
+      "credit": null,
+      "music": "洛杉矶面向高水平演奏家的音乐教育机构，位于华特·迪士尼音乐厅与城市艺术中心附近。"
+    },
+    {
+      "index": 82,
+      "city": "洛杉矶",
+      "name": "加州大学洛杉矶分校赫伯·阿尔珀特音乐学院",
+      "kind": "音乐学院",
+      "wiki": "UCLA Herb Alpert School of Music",
+      "fallback": [
+        -118.442,
+        34.072
+      ],
+      "img": null,
+      "credit": null,
+      "music": "把音乐学、民族音乐学、作曲和表演教育置于洛杉矶综合大学与文化产业语境中。"
+    },
+    {
+      "index": 83,
+      "city": "洛杉矶",
+      "name": "华特·迪士尼音乐厅",
+      "kind": "音乐场所",
+      "wiki": "Walt Disney Concert Hall",
+      "fallback": [
+        -118.249,
+        34.055
+      ],
+      "img": null,
+      "credit": null,
+      "music": "洛杉矶爱乐的主场，也是二十一世纪音乐厅建筑与城市文化复兴的标志。"
+    },
+    {
+      "index": 84,
+      "city": "洛杉矶",
+      "name": "加州大学洛杉矶分校",
+      "kind": "综合大学",
+      "wiki": "University of California, Los Angeles",
+      "fallback": [
+        -118.442,
+        34.073
+      ],
+      "img": null,
+      "credit": null,
+      "music": "其音乐学院与综合大学研究体系共同覆盖音乐学、民族音乐学、作曲和表演。"
+    },
+    {
+      "index": 85,
+      "city": "华盛顿",
+      "name": "约翰·F·肯尼迪表演艺术中心",
+      "kind": "音乐场所",
+      "wiki": "John F. Kennedy Center for the Performing Arts",
+      "fallback": [
+        -77.055,
+        38.896
+      ],
+      "img": null,
+      "credit": null,
+      "music": "美国国家级表演艺术中心，连接交响乐、歌剧、舞蹈和公共文化政策。"
+    },
+    {
+      "index": 86,
+      "city": "华盛顿",
+      "name": "美国国会图书馆音乐部",
+      "kind": "音乐场所",
+      "wiki": "Music Division of the Library of Congress",
+      "fallback": [
+        -77.004,
+        38.889
+      ],
+      "img": null,
+      "credit": null,
+      "music": "美国重要的音乐文献、手稿与演出资料收藏节点，体现音乐知识的档案制度。"
+    },
+    {
+      "index": 87,
+      "city": "华盛顿",
+      "name": "乔治·华盛顿大学",
+      "kind": "综合大学",
+      "wiki": "George Washington University",
+      "fallback": [
+        -77.046,
+        38.899
+      ],
+      "img": null,
+      "credit": null,
+      "music": "首都地区综合大学音乐研究、表演和公共文化网络的一个节点。"
+    },
+    {
+      "index": 88,
+      "city": "旧金山",
+      "name": "旧金山音乐学院",
+      "kind": "音乐学院",
+      "wiki": "San Francisco Conservatory of Music",
+      "fallback": [
+        -122.419,
+        37.792
+      ],
+      "img": null,
+      "credit": null,
+      "music": "美国西海岸重要的高等音乐教育机构，连接歌剧、交响乐、作曲和当代音乐。"
+    },
+    {
+      "index": 89,
+      "city": "旧金山",
+      "name": "戴维斯交响音乐厅",
+      "kind": "音乐场所",
+      "wiki": "Davies Symphony Hall",
+      "fallback": [
+        -122.42,
+        37.776
+      ],
+      "img": null,
+      "credit": null,
+      "music": "旧金山交响乐团的主场，代表美国西海岸公共交响乐传统。"
+    },
+    {
+      "index": 90,
+      "city": "匹兹堡",
+      "name": "卡内基梅隆大学音乐学院",
+      "kind": "音乐学院",
+      "wiki": "Carnegie Mellon School of Music",
+      "fallback": [
+        -79.943,
+        40.443
+      ],
+      "img": null,
+      "credit": null,
+      "music": "匹兹堡重要的音乐、戏剧和技术交叉教育节点，连接作曲、表演与新媒体。"
+    },
+    {
+      "index": 91,
+      "city": "匹兹堡",
+      "name": "匹兹堡大学",
+      "kind": "综合大学",
+      "wiki": "University of Pittsburgh",
+      "fallback": [
+        -79.953,
+        40.444
+      ],
+      "img": null,
+      "credit": null,
+      "music": "匹兹堡综合大学音乐研究和公共文化网络的节点。"
+    },
+    {
+      "index": 92,
+      "city": "匹兹堡",
+      "name": "海因茨音乐厅",
+      "kind": "音乐场所",
+      "wiki": "Heinz Hall",
+      "fallback": [
+        -80.001,
+        40.443
+      ],
+      "img": null,
+      "credit": null,
+      "music": "匹兹堡交响乐与歌剧演出的重要场所。"
+    },
+    {
+      "index": 93,
+      "city": "新港",
+      "name": "耶鲁大学",
+      "kind": "综合大学",
+      "wiki": "Yale University",
+      "fallback": [
+        -72.927,
+        41.316
+      ],
+      "img": null,
+      "credit": null,
+      "music": "耶鲁大学的音乐学、人文学和表演艺术体系与耶鲁音乐学院形成综合大学音乐网络。"
+    },
+    {
+      "index": 94,
+      "city": "圣彼得堡",
+      "name": "马林斯基剧院",
+      "kind": "音乐场所",
+      "wiki": "Mariinsky Theatre",
+      "fallback": [
+        30.296,
+        59.925
+      ],
+      "img": null,
+      "credit": null,
+      "music": "俄罗斯歌剧、芭蕾和交响乐传统的核心剧院，连接帝国剧院制度与现代舞台。"
+    },
+    {
+      "index": 95,
+      "city": "圣彼得堡",
+      "name": "圣彼得堡国立大学",
+      "kind": "综合大学",
+      "wiki": "Saint Petersburg State University",
+      "fallback": [
+        30.299,
+        59.941
+      ],
+      "img": null,
+      "credit": null,
+      "music": "圣彼得堡人文学、艺术史与音乐学研究的综合大学节点。"
+    },
+    {
+      "index": 96,
+      "city": "莫斯科",
+      "name": "莫斯科大剧院",
+      "kind": "音乐场所",
+      "wiki": "Bolshoi Theatre",
+      "fallback": [
+        37.618,
+        55.76
+      ],
+      "img": null,
+      "credit": null,
+      "music": "俄罗斯歌剧与芭蕾制度的象征性剧院，连接帝国、苏联与当代舞台传统。"
+    },
+    {
+      "index": 97,
+      "city": "莫斯科",
+      "name": "格涅辛俄罗斯音乐学院",
+      "kind": "音乐学院",
+      "wiki": "Gnessin Russian Academy of Music",
+      "fallback": [
+        37.59,
+        55.752
+      ],
+      "img": null,
+      "credit": null,
+      "music": "俄罗斯重要的音乐教育机构，覆盖演奏、作曲、音乐理论和师范传统。"
+    },
+    {
+      "index": 98,
+      "city": "赫尔辛基",
+      "name": "赫尔辛基音乐中心",
+      "kind": "音乐场所",
+      "wiki": "Helsinki Music Centre",
+      "fallback": [
+        24.934,
+        60.175
+      ],
+      "img": null,
+      "credit": null,
+      "music": "芬兰公共音乐生活的现代中心，与赫尔辛基大学和西贝柳斯学院形成城市音乐教育与演出网络。"
+    },
+    {
+      "index": 99,
+      "city": "赫尔辛基",
+      "name": "芬兰国家歌剧院",
+      "kind": "音乐场所",
+      "wiki": "Finnish National Opera and Ballet",
+      "fallback": [
+        24.923,
+        60.188
+      ],
+      "img": null,
+      "credit": null,
+      "music": "芬兰歌剧与芭蕾制度的核心剧院。"
+    },
+    {
+      "index": 100,
+      "city": "华沙",
+      "name": "肖邦音乐大学",
+      "kind": "音乐学院",
+      "wiki": "Chopin University of Music",
+      "fallback": [
+        21.02,
+        52.217
+      ],
+      "img": null,
+      "credit": null,
+      "music": "波兰最高等音乐教育机构之一，延续肖邦、波兰民族乐派与现代演奏教育传统。"
+    },
+    {
+      "index": 101,
+      "city": "华沙",
+      "name": "华沙国家爱乐厅",
+      "kind": "音乐场所",
+      "wiki": "Warsaw Philharmonic",
+      "fallback": [
+        21.009,
+        52.229
+      ],
+      "img": null,
+      "credit": null,
+      "music": "波兰国家级交响乐与钢琴文化中心，也是肖邦国际钢琴比赛的重要场所。"
+    },
+    {
+      "index": 102,
+      "city": "华沙",
+      "name": "肖邦博物馆",
+      "kind": "音乐家故居",
+      "wiki": "Chopin Museum, Warsaw",
+      "fallback": [
+        21.033,
+        52.239
+      ],
+      "img": null,
+      "credit": null,
+      "music": "以肖邦手稿、书信和纪念空间呈现华沙与这位作曲家的城市关系。"
+    },
+    {
+      "index": 103,
+      "city": "华沙",
+      "name": "华沙大学",
+      "kind": "综合大学",
+      "wiki": "University of Warsaw",
+      "fallback": [
+        21.019,
+        52.239
+      ],
+      "img": null,
+      "credit": null,
+      "music": "波兰人文学、艺术史与音乐学研究的综合大学节点。"
+    },
+    {
+      "index": 104,
+      "city": "克拉科夫",
+      "name": "克拉科夫音乐学院",
+      "kind": "音乐学院",
+      "wiki": "Academy of Music in Kraków",
+      "fallback": [
+        19.927,
+        50.061
+      ],
+      "img": null,
+      "credit": null,
+      "music": "波兰重要的高等音乐教育机构，连接民族乐派、现代作曲和城市演出制度。"
+    },
+    {
+      "index": 105,
+      "city": "克拉科夫",
+      "name": "雅盖隆大学",
+      "kind": "综合大学",
+      "wiki": "Jagiellonian University",
+      "fallback": [
+        19.924,
+        50.061
+      ],
+      "img": null,
+      "credit": null,
+      "music": "波兰古老大学与人文学研究传统的综合大学节点。"
+    },
+    {
+      "index": 106,
+      "city": "马德里",
+      "name": "马德里皇家音乐学院",
+      "kind": "音乐学院",
+      "wiki": "Real Conservatorio Superior de Música de Madrid",
+      "fallback": [
+        -3.706,
+        40.417
+      ],
+      "img": null,
+      "credit": null,
+      "music": "西班牙国家级高等音乐教育机构，连接古典演奏、作曲和首都剧院文化。"
+    },
+    {
+      "index": 107,
+      "city": "马德里",
+      "name": "索菲亚王后音乐学院",
+      "kind": "音乐学院",
+      "wiki": "Queen Sofía School of Music",
+      "fallback": [
+        -3.696,
+        40.42
+      ],
+      "img": null,
+      "credit": null,
+      "music": "面向高水平演奏家的国际化音乐教育机构。"
+    },
+    {
+      "index": 108,
+      "city": "马德里",
+      "name": "马德里康普顿斯大学",
+      "kind": "综合大学",
+      "wiki": "Complutense University of Madrid",
+      "fallback": [
+        -3.716,
+        40.449
+      ],
+      "img": null,
+      "credit": null,
+      "music": "西班牙人文学、艺术史和音乐学研究的重要综合大学节点。"
+    },
+    {
+      "index": 109,
+      "city": "雅典",
+      "name": "雅典音乐学院",
+      "kind": "音乐学院",
+      "wiki": "Athens Conservatoire",
+      "fallback": [
+        23.735,
+        37.981
+      ],
+      "img": null,
+      "credit": null,
+      "music": "希腊现代音乐教育与公共演出制度的重要机构。"
+    },
+    {
+      "index": 110,
+      "city": "雅典",
+      "name": "希腊国家歌剧院",
+      "kind": "音乐场所",
+      "wiki": "Greek National Opera",
+      "fallback": [
+        23.723,
+        37.982
+      ],
+      "img": null,
+      "credit": null,
+      "music": "希腊歌剧、芭蕾与当代舞台艺术的国家级中心。"
+    },
+    {
+      "index": 111,
+      "city": "雅典",
+      "name": "雅典国立暨卡波季斯特里亚大学",
+      "kind": "综合大学",
+      "wiki": "National and Kapodistrian University of Athens",
+      "fallback": [
+        23.736,
+        37.968
+      ],
+      "img": null,
+      "credit": null,
+      "music": "希腊人文学、古典学与音乐文化研究的综合大学节点。"
+    },
+    {
+      "index": 112,
+      "city": "佛罗伦萨",
+      "name": "路易吉·凯鲁比尼音乐学院",
+      "kind": "音乐学院",
+      "wiki": "Luigi Cherubini Conservatory",
+      "fallback": [
+        11.249,
+        43.775
+      ],
+      "img": null,
+      "credit": null,
+      "music": "佛罗伦萨高等音乐教育机构，连接歌剧、作曲和托斯卡纳音乐传统。"
+    },
+    {
+      "index": 113,
+      "city": "佛罗伦萨",
+      "name": "五月音乐节剧院",
+      "kind": "音乐场所",
+      "wiki": "Teatro del Maggio Musicale Fiorentino",
+      "fallback": [
+        11.249,
+        43.778
+      ],
+      "img": null,
+      "credit": null,
+      "music": "佛罗伦萨歌剧与交响乐节庆制度的核心剧院。"
+    },
+    {
+      "index": 114,
+      "city": "那不勒斯",
+      "name": "圣彼得罗·马耶拉音乐学院",
+      "kind": "音乐学院",
+      "wiki": "Conservatorio di San Pietro a Majella",
+      "fallback": [
+        14.252,
+        40.851
+      ],
+      "img": null,
+      "credit": null,
+      "music": "那不勒斯四大音乐院传统的现存核心，培养了歌剧史上众多作曲家和歌唱家。"
+    },
+    {
+      "index": 115,
+      "city": "那不勒斯",
+      "name": "圣卡洛歌剧院",
+      "kind": "音乐场所",
+      "wiki": "Teatro di San Carlo",
+      "fallback": [
+        14.249,
+        40.838
+      ],
+      "img": null,
+      "credit": null,
+      "music": "欧洲历史最悠久的持续运营歌剧院之一，那不勒斯歌剧和美声传统的中心。"
+    },
+    {
+      "index": 116,
+      "city": "那不勒斯",
+      "name": "费德里科二世大学",
+      "kind": "综合大学",
+      "wiki": "University of Naples Federico II",
+      "fallback": [
+        14.305,
+        40.853
+      ],
+      "img": null,
+      "credit": null,
+      "music": "那不勒斯人文学、历史与音乐文化研究的综合大学节点。"
+    },
+    {
+      "index": 117,
+      "city": "威尼斯",
+      "name": "贝内德托·马尔切洛音乐学院",
+      "kind": "音乐学院",
+      "wiki": "Benedetto Marcello Conservatory",
+      "fallback": [
+        12.327,
+        45.436
+      ],
+      "img": null,
+      "credit": null,
+      "music": "威尼斯高等音乐教育机构，延续圣马可、歌剧院和水城演出传统。"
+    },
+    {
+      "index": 118,
+      "city": "博洛尼亚",
+      "name": "博洛尼亚音乐学院",
+      "kind": "音乐学院",
+      "wiki": "Conservatorio Giovanni Battista Martini",
+      "fallback": [
+        11.346,
+        44.497
+      ],
+      "img": null,
+      "credit": null,
+      "music": "博洛尼亚重要音乐教育机构，连接马蒂尼传统、歌剧和器乐训练。"
+    },
+    {
+      "index": 119,
+      "city": "博洛尼亚",
+      "name": "博洛尼亚大学",
+      "kind": "综合大学",
+      "wiki": "University of Bologna",
+      "fallback": [
+        11.347,
+        44.496
+      ],
+      "img": null,
+      "credit": null,
+      "music": "欧洲最古老大学之一，博洛尼亚音乐学、人文学和历史档案研究的综合大学节点。"
+    },
+    {
+      "index": 120,
+      "city": "费拉拉",
+      "name": "弗雷斯科巴尔迪音乐学院",
+      "kind": "音乐学院",
+      "wiki": "Frescobaldi Conservatory of Ferrara",
+      "fallback": [
+        11.619,
+        44.837
+      ],
+      "img": null,
+      "credit": null,
+      "music": "以费拉拉音乐传统命名的高等音乐教育机构，连接文艺复兴宫廷与现代音乐训练。"
+    },
+    {
+      "index": 121,
+      "city": "曼托瓦",
+      "name": "卢奇奥·坎皮亚尼音乐学院",
+      "kind": "音乐学院",
+      "wiki": "Conservatorio Lucio Campiani",
+      "fallback": [
+        10.79,
+        45.16
+      ],
+      "img": null,
+      "credit": null,
+      "music": "曼托瓦的高等音乐教育机构，城市宫廷音乐传统的重要当代延续。"
+    },
+    {
+      "index": 122,
+      "city": "帕尔马",
+      "name": "阿里戈·博伊托音乐学院",
+      "kind": "音乐学院",
+      "wiki": "Arrigo Boito Conservatory",
+      "fallback": [
+        10.329,
+        44.803
+      ],
+      "img": null,
+      "credit": null,
+      "music": "帕尔马高等音乐教育机构，连接威尔第传统、歌剧演出和意大利作曲训练。"
+    },
+    {
+      "index": 123,
+      "city": "热那亚",
+      "name": "尼科洛·帕格尼尼音乐学院",
+      "kind": "音乐学院",
+      "wiki": "Niccolò Paganini Conservatory",
+      "fallback": [
+        8.946,
+        44.405
+      ],
+      "img": null,
+      "credit": null,
+      "music": "以帕格尼尼命名的热那亚音乐学院，连接小提琴传统和现代高等演奏教育。"
+    },
+    {
+      "index": 124,
+      "city": "佩萨罗",
+      "name": "罗西尼音乐学院",
+      "kind": "音乐学院",
+      "wiki": "Rossini Conservatory",
+      "fallback": [
+        12.913,
+        43.91
+      ],
+      "img": null,
+      "credit": null,
+      "music": "佩萨罗的高等音乐教育机构，延续罗西尼故乡与歌剧节庆传统。"
+    },
+    {
+      "index": 125,
+      "city": "贝尔加莫",
+      "name": "多尼采蒂音乐学院",
+      "kind": "音乐学院",
+      "wiki": "Gaetano Donizetti Higher Institute of Musical Studies",
+      "fallback": [
+        9.675,
+        45.698
+      ],
+      "img": null,
+      "credit": null,
+      "music": "以多尼采蒂命名的贝尔加莫音乐教育机构，连接美声歌剧和城市演出传统。"
+    },
+    {
+      "index": 126,
+      "city": "贝尔加莫",
+      "name": "多尼采蒂出生地博物馆",
+      "kind": "音乐家故居",
+      "wiki": "Donizetti Museum",
+      "fallback": [
+        9.673,
+        45.694
+      ],
+      "img": null,
+      "credit": null,
+      "music": "多尼采蒂出生地与纪念空间，补充剧院之外的作曲家家庭与地方记忆。"
+    },
+    {
+      "index": 127,
+      "city": "卡塔尼亚",
+      "name": "贝利尼音乐学院",
+      "kind": "音乐学院",
+      "wiki": "Vincenzo Bellini Institute of Music",
+      "fallback": [
+        15.087,
+        37.509
+      ],
+      "img": null,
+      "credit": null,
+      "music": "西西里重要的高等音乐教育机构，以贝利尼传统连接声乐、歌剧和作曲训练。"
+    },
+    {
+      "index": 128,
+      "city": "卡塔尼亚",
+      "name": "贝利尼出生地博物馆",
+      "kind": "音乐家故居",
+      "wiki": "Bellini Museum, Catania",
+      "fallback": [
+        15.087,
+        37.505
+      ],
+      "img": null,
+      "credit": null,
+      "music": "贝利尼出生地与文献纪念空间，连接西西里城市生活和十九世纪美声歌剧。"
+    },
+    {
+      "index": 129,
+      "city": "卢卡",
+      "name": "博凯里尼音乐学院",
+      "kind": "音乐学院",
+      "wiki": "Luigi Boccherini Higher Institute of Musical Studies",
+      "fallback": [
+        10.502,
+        43.844
+      ],
+      "img": null,
+      "credit": null,
+      "music": "卢卡高等音乐教育机构，以博凯里尼命名并延续托斯卡纳器乐传统。"
+    },
+    {
+      "index": 130,
+      "city": "图卢兹",
+      "name": "图卢兹高等音乐学院",
+      "kind": "音乐学院",
+      "wiki": "Conservatoire à rayonnement régional de Toulouse",
+      "fallback": [
+        1.444,
+        43.604
+      ],
+      "img": null,
+      "credit": null,
+      "music": "图卢兹的高等音乐教育与表演机构，连接奥克语文化圈、歌剧和现代音乐训练。"
+    },
+    {
+      "index": 131,
+      "city": "利摩日",
+      "name": "利摩日地区音乐学院",
+      "kind": "音乐学院",
+      "wiki": "Conservatoire de Limoges",
+      "fallback": [
+        1.263,
+        45.833
+      ],
+      "img": null,
+      "credit": null,
+      "music": "利摩日现代音乐教育机构，与圣马夏尔修道院的中世纪音乐记忆形成古今对照。"
+    },
+    {
+      "index": 132,
+      "city": "科隆",
+      "name": "科隆音乐与舞蹈学院",
+      "kind": "音乐学院",
+      "wiki": "Hochschule für Musik und Tanz Köln",
+      "fallback": [
+        6.953,
+        50.935
+      ],
+      "img": null,
+      "credit": null,
+      "music": "德国重要的高等音乐教育机构，覆盖作曲、演奏、爵士与舞蹈。"
+    },
+    {
+      "index": 133,
+      "city": "科隆",
+      "name": "科隆大学",
+      "kind": "综合大学",
+      "wiki": "University of Cologne",
+      "fallback": [
+        6.93,
+        50.928
+      ],
+      "img": null,
+      "credit": null,
+      "music": "科隆人文学、音乐学和战后先锋艺术研究的综合大学节点。"
+    },
+    {
+      "index": 134,
+      "city": "法兰克福",
+      "name": "法兰克福音乐与表演艺术大学",
+      "kind": "音乐学院",
+      "wiki": "Hochschule für Musik und Darstellende Kunst Frankfurt",
+      "fallback": [
+        8.668,
+        50.118
+      ],
+      "img": null,
+      "credit": null,
+      "music": "德国重要的高等音乐与表演艺术机构，连接歌剧、交响乐和作曲教育。"
+    },
+    {
+      "index": 135,
+      "city": "法兰克福",
+      "name": "法兰克福歌德大学",
+      "kind": "综合大学",
+      "wiki": "Goethe University Frankfurt",
+      "fallback": [
+        8.66,
+        50.127
+      ],
+      "img": null,
+      "credit": null,
+      "music": "法兰克福人文学、社会理论与音乐哲学研究的综合大学节点。"
+    },
+    {
+      "index": 136,
+      "city": "慕尼黑",
+      "name": "慕尼黑音乐与戏剧大学",
+      "kind": "音乐学院",
+      "wiki": "University of Music and Theatre Munich",
+      "fallback": [
+        11.568,
+        48.15
+      ],
+      "img": null,
+      "credit": null,
+      "music": "巴伐利亚高等音乐教育中心，覆盖歌剧、交响乐、作曲和演奏。"
+    },
+    {
+      "index": 137,
+      "city": "慕尼黑",
+      "name": "慕尼黑大学",
+      "kind": "综合大学",
+      "wiki": "Ludwig Maximilian University of Munich",
+      "fallback": [
+        11.582,
+        48.15
+      ],
+      "img": null,
+      "credit": null,
+      "music": "慕尼黑人文学、音乐学与艺术史研究的综合大学节点。"
+    },
+    {
+      "index": 138,
+      "city": "慕尼黑",
+      "name": "巴伐利亚国家歌剧院",
+      "kind": "音乐场所",
+      "wiki": "Bavarian State Opera",
+      "fallback": [
+        11.571,
+        48.139
+      ],
+      "img": null,
+      "credit": null,
+      "music": "慕尼黑歌剧制度的中心，连接宫廷剧院传统和现代歌剧制作。"
+    },
+    {
+      "index": 139,
+      "city": "德累斯顿",
+      "name": "卡尔·玛丽亚·冯·韦伯音乐学院",
+      "kind": "音乐学院",
+      "wiki": "Hochschule für Musik Carl Maria von Weber",
+      "fallback": [
+        13.732,
+        51.051
+      ],
+      "img": null,
+      "credit": null,
+      "music": "德累斯顿高等音乐教育机构，以韦伯命名并延续歌剧、指挥和器乐传统。"
+    },
+    {
+      "index": 140,
+      "city": "德累斯顿",
+      "name": "森帕歌剧院",
+      "kind": "音乐场所",
+      "wiki": "Semperoper",
+      "fallback": [
+        13.735,
+        51.054
+      ],
+      "img": null,
+      "credit": null,
+      "music": "德累斯顿国家歌剧院与理查德·施特劳斯、瓦格纳传统相连的代表性剧场。"
+    },
+    {
+      "index": 141,
+      "city": "汉堡",
+      "name": "汉堡音乐与戏剧大学",
+      "kind": "音乐学院",
+      "wiki": "University of Music and Theatre Hamburg",
+      "fallback": [
+        9.987,
+        53.567
+      ],
+      "img": null,
+      "credit": null,
+      "music": "汉堡高等音乐教育机构，连接北德歌剧、管弦乐和当代音乐训练。"
+    },
+    {
+      "index": 142,
+      "city": "汉堡",
+      "name": "易北爱乐音乐厅",
+      "kind": "音乐场所",
+      "wiki": "Elbphilharmonie",
+      "fallback": [
+        9.984,
+        53.542
+      ],
+      "img": null,
+      "credit": null,
+      "music": "汉堡的新地标音乐厅，以建筑、声学和城市港口景观重塑公共音乐会经验。"
+    },
+    {
+      "index": 143,
+      "city": "汉堡",
+      "name": "勃拉姆斯博物馆",
+      "kind": "音乐家故居",
+      "wiki": "Brahms Museum, Hamburg",
+      "fallback": [
+        9.987,
+        53.556
+      ],
+      "img": null,
+      "credit": null,
+      "music": "勃拉姆斯出生城市的纪念与文献地点，连接北德音乐家庭、出版和交响乐传统。"
+    },
+    {
+      "index": 144,
+      "city": "魏玛",
+      "name": "弗朗茨·李斯特音乐学院",
+      "kind": "音乐学院",
+      "wiki": "Franz Liszt University of Music Weimar",
+      "fallback": [
+        11.326,
+        50.98
+      ],
+      "img": null,
+      "credit": null,
+      "music": "李斯特在魏玛建立的高等音乐教育传统，延续交响乐、钢琴和新音乐的城市记忆。"
+    },
+    {
+      "index": 145,
+      "city": "拜罗伊特",
+      "name": "拜罗伊特节日剧院",
+      "kind": "音乐场所",
+      "wiki": "Bayreuth Festspielhaus",
+      "fallback": [
+        11.578,
+        49.953
+      ],
+      "img": null,
+      "credit": null,
+      "music": "瓦格纳音乐节专用剧院，代表主导动机、整体艺术和音乐朝圣的现代遗产。"
+    },
+    {
+      "index": 146,
+      "city": "拜罗伊特",
+      "name": "瓦格纳故居",
+      "kind": "音乐家故居",
+      "wiki": "Wahnfried",
+      "fallback": [
+        11.572,
+        49.949
+      ],
+      "img": null,
+      "credit": null,
+      "music": "瓦格纳在拜罗伊特的住宅与墓地，连接《指环》、音乐节制度和作曲家家族记忆。"
+    },
+    {
+      "index": 147,
+      "city": "苏黎世",
+      "name": "苏黎世艺术大学",
+      "kind": "音乐学院",
+      "wiki": "Zurich University of the Arts",
+      "fallback": [
+        8.536,
+        47.376
+      ],
+      "img": null,
+      "credit": null,
+      "music": "瑞士重要的艺术与音乐高等教育机构，覆盖表演、作曲、音乐学和跨媒体艺术。"
+    },
+    {
+      "index": 148,
+      "city": "苏黎世",
+      "name": "苏黎世大学",
+      "kind": "综合大学",
+      "wiki": "University of Zurich",
+      "fallback": [
+        8.548,
+        47.374
+      ],
+      "img": null,
+      "credit": null,
+      "music": "苏黎世人文学、音乐学与瓦格纳流亡史研究的综合大学节点。"
+    },
+    {
+      "index": 149,
+      "city": "纽伦堡",
+      "name": "纽伦堡音乐学院",
+      "kind": "音乐学院",
+      "wiki": "Nuremberg University of Music",
+      "fallback": [
+        11.077,
+        49.449
+      ],
+      "img": null,
+      "credit": null,
+      "music": "纽伦堡高等音乐教育机构，连接名歌手传统、歌剧和现代演奏训练。"
+    },
+    {
+      "index": 150,
+      "city": "曼海姆",
+      "name": "曼海姆音乐与表演艺术大学",
+      "kind": "音乐学院",
+      "wiki": "University of Music and Performing Arts Mannheim",
+      "fallback": [
+        8.462,
+        49.489
+      ],
+      "img": null,
+      "credit": null,
+      "music": "曼海姆高等音乐教育机构，延续宫廷乐队、交响乐和现代表演训练传统。"
+    },
+    {
+      "index": 151,
+      "city": "布尔诺",
+      "name": "雅纳切克故居",
+      "kind": "音乐家故居",
+      "wiki": "Leoš Janáček House",
+      "fallback": [
+        16.604,
+        49.205
+      ],
+      "img": null,
+      "credit": null,
+      "music": "雅纳切克在布尔诺生活与创作的纪念地点，连接摩拉维亚语言、民歌和现代歌剧。"
+    },
+    {
+      "index": 152,
+      "city": "布尔诺",
+      "name": "马萨里克大学",
+      "kind": "综合大学",
+      "wiki": "Masaryk University",
+      "fallback": [
+        16.608,
+        49.195
+      ],
+      "img": null,
+      "credit": null,
+      "music": "布尔诺人文学、语言学与音乐文化研究的综合大学节点。"
+    },
+    {
+      "index": 153,
+      "city": "卑尔根",
+      "name": "格里格学院",
+      "kind": "音乐学院",
+      "wiki": "Grieg Academy",
+      "fallback": [
+        5.322,
+        60.392
+      ],
+      "img": null,
+      "credit": null,
+      "music": "卑尔根大学的高等音乐教育机构，以格里格命名并连接北欧演奏与作曲传统。"
+    },
+    {
+      "index": 154,
+      "city": "塔林",
+      "name": "爱沙尼亚音乐与戏剧学院",
+      "kind": "音乐学院",
+      "wiki": "Estonian Academy of Music and Theatre",
+      "fallback": [
+        24.754,
+        59.435
+      ],
+      "img": null,
+      "credit": null,
+      "music": "爱沙尼亚高等音乐教育的核心机构，连接合唱传统、作曲和当代北欧音乐。"
+    },
+    {
+      "index": 155,
+      "city": "帕多瓦",
+      "name": "帕多瓦大学",
+      "kind": "综合大学",
+      "wiki": "University of Padua",
+      "fallback": [
+        11.876,
+        45.406
+      ],
+      "img": null,
+      "credit": null,
+      "music": "帕多瓦大学与中世纪自然哲学、医学和音乐理论传统相连，也为奇科尼亚所在的城市知识环境提供背景。"
+    },
+    {
+      "index": 156,
+      "city": "列日",
+      "name": "列日皇家音乐学院",
+      "kind": "音乐学院",
+      "wiki": "Royal Conservatory of Liège",
+      "fallback": [
+        5.571,
+        50.641
+      ],
+      "img": null,
+      "credit": null,
+      "music": "列日高等音乐教育机构，延续低地国家教会音乐和现代比利时音乐训练传统。"
+    },
+    {
+      "index": 157,
+      "city": "列日",
+      "name": "列日大学",
+      "kind": "综合大学",
+      "wiki": "University of Liège",
+      "fallback": [
+        5.57,
+        50.58
+      ],
+      "img": null,
+      "credit": null,
+      "music": "列日人文学、历史和音乐文化研究的综合大学节点。"
+    }
+  ]
+}
