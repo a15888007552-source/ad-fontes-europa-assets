@@ -4,6 +4,7 @@ import concurrent.futures
 import hashlib
 import json
 import mimetypes
+import os
 import re
 import sys
 import time
@@ -18,6 +19,9 @@ SOURCE_FILE = ROOT / "source-pois.json"
 IMAGE_DIR = ROOT / "images" / "poi"
 USER_AGENT = "AdFontesEuropa/1.0 (static image cache; Wikimedia attribution manifest)"
 COMMONS_FALLBACK_MAX = 10
+BATCH_ONLY = os.environ.get("CACHE_BATCH_ONLY", "0") == "1"
+BATCH_START = int(os.environ.get("CACHE_BATCH_START", "0"))
+BATCH_END = int(os.environ.get("CACHE_BATCH_END", "10"))
 
 
 def get_json(url: str, timeout: int = 35) -> dict:
@@ -256,13 +260,28 @@ def main() -> int:
     IMAGE_DIR.mkdir(parents=True, exist_ok=True)
     source = json.loads(SOURCE_FILE.read_text(encoding="utf-8"))
     rows = source["rows"]
+    existing_manifest = {}
+    existing_path = ROOT / "manifest.json"
+    if existing_path.exists():
+        try:
+            existing = json.loads(existing_path.read_text(encoding="utf-8"))
+            existing_manifest = {row.get("key") or f"{row.get('city', '')}|{row.get('name', '')}": row for row in existing.get("rows", [])}
+        except Exception:
+            existing_manifest = {}
+    target_rows = rows
+    if BATCH_ONLY:
+        target_rows = [row for row in rows if BATCH_START <= int(row.get("index", 0)) < BATCH_END]
     results: list[dict] = []
     with concurrent.futures.ThreadPoolExecutor(max_workers=2) as executor:
-        futures = {executor.submit(process, row): row for row in rows}
+        futures = {executor.submit(process, row): row for row in target_rows}
         for index, future in enumerate(concurrent.futures.as_completed(futures), 1):
             result = future.result()
             results.append(result)
-            print(f"[{index}/{len(rows)}] {result['status']} {result.get('city', '')} · {result.get('name', '')}", flush=True)
+            print(f"[{index}/{len(target_rows)}] {result['status']} {result.get('city', '')} · {result.get('name', '')}", flush=True)
+    if BATCH_ONLY:
+        for result in results:
+            existing_manifest[result["key"]] = result
+        results = list(existing_manifest.values())
     results.sort(key=lambda row: row.get("index", 0))
     manifest = {
         "schema": "ad-fontes-europa-poi-assets/v1",
