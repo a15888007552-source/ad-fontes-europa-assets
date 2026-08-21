@@ -15,6 +15,10 @@ on:
         description: 'Optional comma-separated source row indexes to retry'
         required: false
         default: ''
+      force_redownload:
+        description: 'Redownload existing POI files when a source image was replaced'
+        required: true
+        default: '0'
 
 permissions:
   contents: write
@@ -35,6 +39,7 @@ jobs:
           CACHE_BATCH_START: ${{ inputs.batch_start }}
           CACHE_BATCH_END: ${{ inputs.batch_end }}
           CACHE_INDEXES: ${{ inputs.indexes }}
+          CACHE_FORCE_REDOWNLOAD: ${{ inputs.force_redownload }}
         run: python scripts/cache_images.py
       - name: Commit refreshed cache
         shell: bash
