@@ -22,6 +22,11 @@ COMMONS_FALLBACK_MAX = 372
 BATCH_ONLY = os.environ.get("CACHE_BATCH_ONLY", "0") == "1"
 BATCH_START = int(os.environ.get("CACHE_BATCH_START", "0"))
 BATCH_END = int(os.environ.get("CACHE_BATCH_END", "10"))
+BATCH_INDEXES = {
+    int(value.strip())
+    for value in os.environ.get("CACHE_INDEXES", "").split(",")
+    if value.strip().isdigit()
+}
 
 
 def get_json(url: str, timeout: int = 35) -> dict:
@@ -282,7 +287,9 @@ def main() -> int:
         except Exception:
             existing_manifest = {}
     target_rows = rows
-    if BATCH_ONLY:
+    if BATCH_INDEXES:
+        target_rows = [row for row in rows if int(row.get("index", 0)) in BATCH_INDEXES]
+    elif BATCH_ONLY:
         target_rows = [row for row in rows if BATCH_START <= int(row.get("index", 0)) < BATCH_END]
     results: list[dict] = []
     with concurrent.futures.ThreadPoolExecutor(max_workers=1) as executor:
