@@ -8,6 +8,7 @@ import os
 import re
 import sys
 import time
+import unicodedata
 from urllib.error import HTTPError
 from pathlib import Path
 from urllib.parse import quote, unquote, urlencode, urlparse
@@ -17,6 +18,7 @@ from urllib.request import Request, urlopen
 ROOT = Path(__file__).resolve().parents[1]
 SOURCE_FILE = ROOT / "source-pois.json"
 IMAGE_DIR = ROOT / "images" / "poi"
+IMAGE_OVERRIDES_FILE = ROOT / "image-overrides.json"
 USER_AGENT = "AdFontesEuropa/1.0 (https://github.com/a15888007552-source/ad-fontes-europa-assets; static image cache; Wikimedia attribution manifest)"
 COMMONS_FALLBACK_MAX = 372
 BATCH_ONLY = os.environ.get("CACHE_BATCH_ONLY", "0") == "1"
@@ -27,6 +29,85 @@ BATCH_INDEXES = {
     for value in os.environ.get("CACHE_INDEXES", "").split(",")
     if value.strip().isdigit()
 }
+
+
+DISPLAY_BAD_TERMS = (
+    "logo", "seal", "crest", "coat of arms", "emblema", "emblem", "badge",
+    "portrait", "bust", "caricature", "catalogue", "catalog", "dictionary",
+    "report", "thesis", "manuscript", "inscription", "map", "drawing",
+    "painting", "engraving", "scan", "document", "poster", "treatise",
+    ".pdf", ".djvu", "thumbnail.png", "mummif", "medal", "organum",
+    "altar", "chandelier", "cross", "tomb", "musicians", "festival",
+    "performance", "actor", "actress", "concertgoer", "group photo",
+)
+DISPLAY_STRUCTURAL_TERMS = (
+    "building", "facade", "façade", "front", "exterior", "outside", "house",
+    "museum", "university", "academy", "conservatory", "school", "college",
+    "campus", "faculty", "institute", "hochschule", "universitat", "université",
+    "università", "music", "theatre", "theater", "opera", "hall", "church",
+    "cathedral", "basilica", "palace", "castle", "walls", "square", "garden",
+    "bridge", "tower", "gate", "street", "monument", "statue", "memorial",
+)
+DISPLAY_GENERIC_TERMS = {
+    "the", "of", "and", "for", "in", "at", "de", "di", "da", "del", "la", "le",
+    "der", "die", "das", "und", "von", "zu", "house", "home", "music", "school",
+    "university", "college", "academy", "institute", "museum", "hall", "building",
+}
+
+
+def normalize_text(value: str) -> str:
+    text = unicodedata.normalize("NFKD", str(value or "")).lower()
+    text = "".join(char for char in text if not unicodedata.combining(char))
+    return re.sub(r"[^\w\s-]", " ", text, flags=re.UNICODE).replace("_", " ")
+
+
+def text_tokens(value: str) -> set[str]:
+    return {
+        token for token in re.findall(r"[^\W_]+", normalize_text(value), flags=re.UNICODE)
+        if len(token) > 2 and token not in DISPLAY_GENERIC_TERMS
+    }
+
+
+def image_label(image_source: str, source_title: str = "") -> str:
+    path_name = unquote(urlparse(image_source or "").path.rsplit("/", 1)[-1])
+    return f"{source_title or ''} {path_name}".lower()
+
+
+def image_relevance(poi: dict, image_source: str, source_title: str = "") -> int:
+    label = normalize_text(image_label(image_source, source_title))
+    tokens = text_tokens(" ".join(str(poi.get(key) or "") for key in ("city", "name", "wiki")))
+    score = sum(3 if token in label else 0 for token in tokens)
+    score += sum(1 for term in DISPLAY_STRUCTURAL_TERMS if term in label)
+    return score
+
+
+def is_bad_display_image(poi: dict, image_source: str, source_title: str = "") -> bool:
+    label = image_label(image_source, source_title)
+    if any(term in label for term in DISPLAY_BAD_TERMS):
+        return True
+    # A generic university/conservatory/building entry should not silently accept
+    # an unrelated place just because the search hit happened to be an image.
+    tokens = text_tokens(" ".join(str(poi.get(key) or "") for key in ("city", "name", "wiki")))
+    if tokens and image_relevance(poi, image_source, source_title) == 0:
+        return True
+    return False
+
+
+def load_image_overrides() -> dict[str, dict]:
+    if not IMAGE_OVERRIDES_FILE.exists():
+        return {}
+    try:
+        payload = json.loads(IMAGE_OVERRIDES_FILE.read_text(encoding="utf-8"))
+        return {
+            str(row.get("index")): row
+            for row in (payload.get("rows") or [])
+            if row.get("index") is not None
+        }
+    except Exception:
+        return {}
+
+
+IMAGE_OVERRIDES = load_image_overrides()
 
 
 def get_json(url: str, timeout: int = 35) -> dict:
@@ -101,11 +182,12 @@ def find_commons_image(poi: dict) -> tuple[dict | None, dict]:
     for value in (poi.get("wiki"), poi.get("name"), f"{poi.get('city', '')} {poi.get('name', '')}"):
         if value and value not in queries:
             queries.append(value)
+    candidates: dict[str, tuple[int, dict, dict]] = {}
     for query in queries:
         try:
             payload = get_json(project_api_url("commons", {
                 "action": "query", "format": "json", "generator": "search",
-                "gsrsearch": query, "gsrnamespace": "6", "gsrlimit": "5",
+                "gsrsearch": query, "gsrnamespace": "6", "gsrlimit": "20",
                 "prop": "imageinfo", "iiprop": "url|extmetadata", "iiurlwidth": "1200",
             }))
             pages = list((payload.get("query", {}).get("pages", {}) or {}).values())
@@ -114,26 +196,75 @@ def find_commons_image(poi: dict) -> tuple[dict | None, dict]:
                 image_source = info.get("thumburl") or info.get("url") or ""
                 if not image_source.startswith("https://upload.wikimedia.org/"):
                     continue
+                title = page.get("title", "").removeprefix("File:")
+                if is_bad_display_image(poi, image_source, title):
+                    continue
+                score = image_relevance(poi, image_source, title)
+                if score == 0 and text_tokens(" ".join(str(poi.get(key) or "") for key in ("city", "name", "wiki"))):
+                    continue
                 metadata = info.get("extmetadata", {}) or {}
 
                 def value(key: str) -> str:
                     item = metadata.get(key, {}) or {}
                     return str(item.get("value") or item.get("cleanvalue") or "")
 
-                return {
-                    "title": page.get("title", "").removeprefix("File:"),
+                candidate = {
+                    "title": title,
                     "sourcePage": info.get("descriptionurl", ""),
                     "imageSource": image_source,
-                }, {
+                }
+                candidate_meta = {
                     "filePage": info.get("descriptionurl", ""),
                     "license": value("LicenseShortName") or value("UsageTerms"),
                     "usageTerms": value("UsageTerms"),
                     "artist": value("Artist"),
                     "credit": value("Credit"),
                 }
+                key = candidate["sourcePage"] or candidate["title"]
+                # Keep the strongest candidate across all three queries. The old
+                # implementation accepted the first search result, which is how
+                # logos, scanned books and unrelated images entered the cache.
+                if key not in candidates or score > candidates[key][0]:
+                    candidates[key] = (score, candidate, candidate_meta)
         except Exception:
             continue
+    if candidates:
+        _, candidate, candidate_meta = max(candidates.values(), key=lambda item: item[0])
+        return candidate, candidate_meta
     return None, {}
+
+
+def find_commons_file_image(file_title: str) -> tuple[dict | None, dict]:
+    """Resolve an explicitly reviewed Commons file title to its thumbnail."""
+    try:
+        payload = get_json(project_api_url("commons", {
+            "action": "query", "format": "json", "titles": f"File:{file_title}",
+            "prop": "imageinfo", "iiprop": "url|extmetadata", "iiurlwidth": "1200",
+        }))
+        pages = list((payload.get("query", {}).get("pages", {}) or {}).values())
+        info = (pages[0].get("imageinfo") or [{}])[0] if pages else {}
+        image_source = info.get("thumburl") or info.get("url") or ""
+        if not image_source.startswith("https://upload.wikimedia.org/"):
+            return None, {}
+        metadata = info.get("extmetadata", {}) or {}
+
+        def value(key: str) -> str:
+            item = metadata.get(key, {}) or {}
+            return str(item.get("value") or item.get("cleanvalue") or "")
+
+        return {
+            "title": file_title,
+            "sourcePage": info.get("descriptionurl", ""),
+            "imageSource": image_source,
+        }, {
+            "filePage": info.get("descriptionurl", ""),
+            "license": value("LicenseShortName") or value("UsageTerms"),
+            "usageTerms": value("UsageTerms"),
+            "artist": value("Artist"),
+            "credit": value("Credit"),
+        }
+    except Exception:
+        return None, {}
 
 
 def image_metadata(image_url: str) -> dict:
@@ -231,6 +362,26 @@ def process(row: dict) -> dict:
                 result["coordinates"] = {"lat": coordinates.get("lat"), "lon": coordinates.get("lon")}
             image = page.get("thumbnail") or page.get("originalimage") or {}
             image_source = image.get("source", "")
+
+        override = IMAGE_OVERRIDES.get(str(result.get("index")))
+        if override and override.get("commonsFile"):
+            commons, commons_meta = find_commons_file_image(str(override["commonsFile"]))
+            if commons:
+                result["sourceTitle"] = commons["title"]
+                result["sourcePage"] = commons["sourcePage"]
+                image_source = commons["imageSource"]
+                result.update(commons_meta)
+                result["imageOverride"] = str(override["commonsFile"])
+            else:
+                result["overrideError"] = f"Commons file not resolved: {override['commonsFile']}"
+
+        if image_source and is_bad_display_image(row, image_source, result.get("sourceTitle", "")):
+            result["rejectedImage"] = {
+                "sourceTitle": result.get("sourceTitle", ""),
+                "imageSource": image_source,
+                "reason": "not a suitable real-world landmark photo",
+            }
+            image_source = ""
         if not image_source and int(result.get("index", 10**9)) < COMMONS_FALLBACK_MAX:
             commons, commons_meta = find_commons_image(row)
             if commons:
@@ -240,7 +391,7 @@ def process(row: dict) -> dict:
                 result.update(commons_meta)
         result["imageSource"] = image_source
         if not image_source:
-            result["status"] = "no-image" if page else "no-wikipedia-page"
+            result["status"] = "no-suitable-image" if page else "no-wikipedia-page"
             return result
         if not image_source.startswith("https://upload.wikimedia.org/"):
             result["status"] = "non-wikimedia-image"
@@ -311,6 +462,7 @@ def main() -> int:
             "Only images served from upload.wikimedia.org were cached.",
             "Each cached record retains its source page and image URL; license metadata is copied when exposed by the Wikimedia API.",
             "A blank or unknown license field still requires manual attribution review.",
+            "Display images are filtered for obvious logos, portraits, scans, documents, objects and unrelated search results; manually reviewed Commons overrides are recorded in image-overrides.json.",
         ],
         "total": len(results),
         "downloaded": sum(result.get("status") == "downloaded" for result in results),
