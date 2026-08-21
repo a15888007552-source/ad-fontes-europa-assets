@@ -11,6 +11,10 @@ on:
         description: 'Last source row index (exclusive)'
         required: true
         default: '200'
+      indexes:
+        description: 'Optional comma-separated source row indexes to retry'
+        required: false
+        default: ''
 
 permissions:
   contents: write
@@ -30,6 +34,7 @@ jobs:
           CACHE_BATCH_ONLY: '1'
           CACHE_BATCH_START: ${{ inputs.batch_start }}
           CACHE_BATCH_END: ${{ inputs.batch_end }}
+          CACHE_INDEXES: ${{ inputs.indexes }}
         run: python scripts/cache_images.py
       - name: Commit refreshed cache
         shell: bash
