@@ -376,7 +376,10 @@ def process(row: dict) -> dict:
             else:
                 result["overrideError"] = f"Commons file not resolved: {override['commonsFile']}"
 
-        if image_source and is_bad_display_image(row, image_source, result.get("sourceTitle", "")):
+        # An exact override has already been manually reviewed as a real-world
+        # landmark photo.  Its local-language filename may not contain the
+        # English/Chinese POI tokens used by the automatic relevance filter.
+        if image_source and not result.get("imageOverride") and is_bad_display_image(row, image_source, result.get("sourceTitle", "")):
             result["rejectedImage"] = {
                 "sourceTitle": result.get("sourceTitle", ""),
                 "imageSource": image_source,
