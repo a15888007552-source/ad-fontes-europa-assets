@@ -1,6 +1,6 @@
 {
   "schema": "ad-fontes-europa-poi-assets/v1",
-  "generatedAt": "2026-08-21T05:01:48.147481+00:00",
+  "generatedAt": "2026-08-21T05:28:49.391069+00:00",
   "source": "Wikipedia/Wikimedia API (zh.wikipedia.org and upload.wikimedia.org)",
   "notes": [
     "Only images served from upload.wikimedia.org were cached.",
@@ -9,7 +9,7 @@
     "Display images are filtered for obvious logos, portraits, scans, documents, objects and unrelated search results; manually reviewed Commons overrides are recorded in image-overrides.json."
   ],
   "total": 372,
-  "downloaded": 321,
+  "downloaded": 320,
   "rows": [
     {
       "index": 0,
@@ -42,7 +42,7 @@
       "imageOverride": "Paris - Conservatoire National Supérieur de Musique et de Danse (22896169063).jpg",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Paris_-_Conservatoire_National_Sup%C3%A9rieur_de_Musique_et_de_Danse_%2822896169063%29.jpg/1280px-Paris_-_Conservatoire_National_Sup%C3%A9rieur_de_Musique_et_de_Danse_%2822896169063%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Paris_-_Conservatoire_National_Sup%C3%A9rieur_de_Musique_et_de_Danse_%2822896169063%29.jpg/1280px-Paris_-_Conservatoire_National_Sup%C3%A9rieur_de_Musique_et_de_Danse_%2822896169063%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 200941,
+      "bytes": 202502,
       "contentType": "image/jpeg"
     },
     {
@@ -105,7 +105,7 @@
       "imageOverride": "Royal College of Music, Kensington, London.jpg",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Royal_College_of_Music%2C_Kensington%2C_London.jpg/1280px-Royal_College_of_Music%2C_Kensington%2C_London.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Royal_College_of_Music%2C_Kensington%2C_London.jpg/1280px-Royal_College_of_Music%2C_Kensington%2C_London.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 326575,
+      "bytes": 355353,
       "contentType": "image/jpeg"
     },
     {
@@ -163,7 +163,7 @@
       "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/12982516@N02\">DAVID HOLT</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/London_003_Hendrix_and_Handel_houses.jpg/1280px-London_003_Hendrix_and_Handel_houses.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/London_003_Hendrix_and_Handel_houses.jpg/1280px-London_003_Hendrix_and_Handel_houses.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 652875,
+      "bytes": 394335,
       "contentType": "image/jpeg"
     },
     {
@@ -225,7 +225,7 @@
       "artist": "<a href=\"https://en.wikipedia.org/wiki/User:Daderot\" class=\"extiw\" title=\"en:User:Daderot\">Daderot</a> at <a class=\"external text\" data-mw-original-href=\"http://en.wikipedia.org\" href=\"https://en.wikipedia.org\">en.wikipedia</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Beethoven_residence_-_M%C3%B6lkerbastei_8_%28Pasqualati_House%29%2C_Vienna.JPG/1280px-Beethoven_residence_-_M%C3%B6lkerbastei_8_%28Pasqualati_House%29%2C_Vienna.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Beethoven_residence_-_M%C3%B6lkerbastei_8_%28Pasqualati_House%29%2C_Vienna.JPG/1280px-Beethoven_residence_-_M%C3%B6lkerbastei_8_%28Pasqualati_House%29%2C_Vienna.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 405229,
+      "bytes": 449560,
       "contentType": "image/jpeg"
     },
     {
@@ -254,7 +254,7 @@
       "artist": "<bdi><a href=\"https://www.wikidata.org/wiki/Q108154913\" class=\"extiw\" title=\"d:Q108154913\"><span title=\"Austrian etcher (1890-1942)\">Grete Fuchs-Braun</span></a></bdi>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Grete_Fuchs-Braun_Schuberts_Geburtshaus.jpg/1280px-Grete_Fuchs-Braun_Schuberts_Geburtshaus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Grete_Fuchs-Braun_Schuberts_Geburtshaus.jpg/1280px-Grete_Fuchs-Braun_Schuberts_Geburtshaus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 321356,
+      "bytes": 1070385,
       "contentType": "image/jpeg"
     },
     {
@@ -283,7 +283,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Gunnar_Klack\" title=\"User:Gunnar Klack\">Gunnar Klack</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/2026-01-05-UdK-Theatersaal-Fasanenstr-Berlin-Charlottenburg.jpg/1280px-2026-01-05-UdK-Theatersaal-Fasanenstr-Berlin-Charlottenburg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/2026-01-05-UdK-Theatersaal-Fasanenstr-Berlin-Charlottenburg.jpg/1280px-2026-01-05-UdK-Theatersaal-Fasanenstr-Berlin-Charlottenburg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 545104,
+      "bytes": 381874,
       "contentType": "image/jpeg"
     },
     {
@@ -363,7 +363,7 @@
       "artist": "<bdi><a href=\"https://www.wikidata.org/wiki/Q88798881\" class=\"extiw\" title=\"d:Q88798881\"><span title=\"German photographer\">Friedrich Gahlbeck</span></a></bdi>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/8/84/Bundesarchiv_Bild_183-1983-0325-309%2C_Leipzig%2C_Bosehaus%2C_Bach-Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/8/84/Bundesarchiv_Bild_183-1983-0325-309%2C_Leipzig%2C_Bosehaus%2C_Bach-Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "bytes": 696397,
+      "bytes": 100952,
       "contentType": "image/jpeg"
     },
     {
@@ -392,7 +392,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Elisa.rolle\" title=\"User:Elisa.rolle\">Elisa.rolle</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Mozarteum_University_of_Salzburg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Mozarteum_University_of_Salzburg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "bytes": 312365,
+      "bytes": 122900,
       "contentType": "image/jpeg"
     },
     {
@@ -450,7 +450,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:LaEma63&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:LaEma63 (page does not exist)\">LaEma63</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Casa_Verdi_e_monumento_a_Giuseppe_Verdi.jpg/1280px-Casa_Verdi_e_monumento_a_Giuseppe_Verdi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Casa_Verdi_e_monumento_a_Giuseppe_Verdi.jpg/1280px-Casa_Verdi_e_monumento_a_Giuseppe_Verdi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 108900,
+      "bytes": 275665,
       "contentType": "image/jpeg"
     },
     {
@@ -479,7 +479,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Croberto68&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Croberto68 (page does not exist)\">Croberto68</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Campo_Marzio_-_Accademia_di_Santa_Cecilia_1.JPG/1280px-Campo_Marzio_-_Accademia_di_Santa_Cecilia_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Campo_Marzio_-_Accademia_di_Santa_Cecilia_1.JPG/1280px-Campo_Marzio_-_Accademia_di_Santa_Cecilia_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 59996,
+      "bytes": 564718,
       "contentType": "image/jpeg"
     },
     {
@@ -508,7 +508,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:%C5%A0afr%C3%A1nek_je_autorem&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Šafránek je autorem (page does not exist)\">Šafránek je autorem</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/It%27s_a_Wonderful_Life_-_Prague_IMG_0111.png/1280px-It%27s_a_Wonderful_Life_-_Prague_IMG_0111.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/It%27s_a_Wonderful_Life_-_Prague_IMG_0111.png/1280px-It%27s_a_Wonderful_Life_-_Prague_IMG_0111.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 1796584,
+      "bytes": 1796620,
       "contentType": "image/png"
     },
     {
@@ -537,7 +537,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Huhulenik\" title=\"User:Huhulenik\">Huhulenik</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Museum_of_the_Antonin_Dvorak_in_Prague_%281%29.jpg/1280px-Museum_of_the_Antonin_Dvorak_in_Prague_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Museum_of_the_Antonin_Dvorak_in_Prague_%281%29.jpg/1280px-Museum_of_the_Antonin_Dvorak_in_Prague_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 621652,
+      "bytes": 633504,
       "contentType": "image/jpeg"
     },
     {
@@ -616,7 +616,7 @@
       "credit": "",
       "music": "这里不是音乐学院，而是音乐学、民族音乐学、历史音乐研究与跨学科人文学的重要综合大学节点；标记它是为了呈现音乐知识如何进入大学制度。",
       "key": "波士顿|哈佛大学",
-      "asset": "images/poi/poi-020-7b209ee6e6.png",
+      "asset": "images/poi/poi-020-7b209ee6e6.webp",
       "status": "downloaded",
       "sourceTitle": "哈佛大学",
       "sourcePage": "https://zh.wikipedia.org/wiki/%E5%93%88%E4%BD%9B%E5%A4%A7%E5%AD%A6",
@@ -624,8 +624,8 @@
       "extract": "哈佛大學（英語：Harvard University）為一所本部坐落於美國麻省劍橋市的私立研究型大學。其因歷史、學術影響力、財富等因素而獲評為世上最享負盛名的學府之一。\n哈佛於1636年由當地的殖民地立法機關立案成立，迄今為全美歷史最悠久的高等學府，並擁有北美最古老的校董委員會。其最初稱之為「新學院」，該機構為了感謝一名年輕的加尔文宗牧師約翰·哈佛所作出的捐贈，而改名為「哈佛學院」。雖然從沒有與任何宗教派別有正式的聯繫，然而早期的學院還是以培養公理會及一位論派神職者為主要職責。但自18世紀起，其課程與學生群體的宗教性質漸漸淡化，而19世紀的哈佛則進一步成為波士頓菁英的文化起源地。美國南北戰爭後，當時的校長查爾斯·艾略特將哈佛各個學術機構綜合成一所研究型大學，並增添小班授課以及入學考試，而這些模式同時也影響國家的中高等教育政策。此校亦為美洲大學協會12個創始成員之一，並在經濟大蕭條及二次大戰後進一步修改課程及收生政策，後與拉德克利夫學院合併成為男女校。\n校方目前共有十所學院及一所高等研究院，這些單位遍佈鄰近各區：其本部位於劍橋的哈佛园；醫學、公共衛生及牙醫學院位於波士頓的長木醫學區；而包括哈佛體育場在內的大學體育設施以及商學院則在奧爾斯頓。哈佛同時擁有龐大的資產，每年所收到的捐款回贈數目長期位列全球教育機構之首。\n哈佛大學為全美最難入讀的學府之一。學校的研究生課程較為多元化，而學士教育則主要集中在文理學範疇。校方在2007年起實行財政援助政策，家庭年收入低於一定數目的學生獲得不同程度的學費豁免。哈佛擁有全美最古老的圖書館系統，這同時也是全球最具規模的私立及大學圖書館系統，館藏量逾1,600萬冊。其為常春藤盟校成員之一，現共有42支參與不同運動競賽的代表隊，屬全美大學體育協會甲組。除了體育，學生的課外生活還包括各個學會所舉辦的活動。哈佛校友涵蓋8名美國總統及多國領袖與政治要員；其亦培養了62名富翁企業家及335位羅德學者，人數均為全美最多。截止2020年10月，共有161名諾貝爾獎得主、18位菲尔兹奖得主、14位图灵奖得主現在或曾經在哈佛學習或工作。",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Harvard_University_coat_of_arms.svg/1280px-Harvard_University_coat_of_arms.svg.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Harvard_University_coat_of_arms.svg/1280px-Harvard_University_coat_of_arms.svg.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bytes": 437037,
-      "contentType": "image/png",
+      "bytes": 177130,
+      "contentType": "image/webp",
       "filePage": "",
       "license": "",
       "usageTerms": "",
@@ -690,7 +690,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:DanielPenfield\" title=\"User:DanielPenfield\">DanielPenfield</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/YaleSchoolOfMusicSpragueMemorialHallPlaque.jpg/1280px-YaleSchoolOfMusicSpragueMemorialHallPlaque.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/YaleSchoolOfMusicSpragueMemorialHallPlaque.jpg/1280px-YaleSchoolOfMusicSpragueMemorialHallPlaque.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 272365,
+      "bytes": 338202,
       "contentType": "image/jpeg"
     },
     {
@@ -777,7 +777,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Александров (page does not exist)\">Александров</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/St._Petersburg._Imperial_Conservatory._Theatre_Square.%2C_3..JPG/1280px-St._Petersburg._Imperial_Conservatory._Theatre_Square.%2C_3..JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/St._Petersburg._Imperial_Conservatory._Theatre_Square.%2C_3..JPG/1280px-St._Petersburg._Imperial_Conservatory._Theatre_Square.%2C_3..JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 265591,
+      "bytes": 235011,
       "contentType": "image/jpeg"
     },
     {
@@ -905,7 +905,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:NonOmnisMoriar\" title=\"User:NonOmnisMoriar\">NonOmnisMoriar</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Sorbonne_university_main_building_entrance.jpg/1280px-Sorbonne_university_main_building_entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Sorbonne_university_main_building_entrance.jpg/1280px-Sorbonne_university_main_building_entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 652312,
+      "bytes": 388880,
       "contentType": "image/jpeg"
     },
     {
@@ -934,7 +934,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Uatema&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Uatema (page does not exist)\">Uatema</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/New_Era_Orchestra%2C_Cortot_Hall%2C_%C3%89cole_normale_de_musique_de_Paris%2C_2011.jpg/1280px-New_Era_Orchestra%2C_Cortot_Hall%2C_%C3%89cole_normale_de_musique_de_Paris%2C_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/New_Era_Orchestra%2C_Cortot_Hall%2C_%C3%89cole_normale_de_musique_de_Paris%2C_2011.jpg/1280px-New_Era_Orchestra%2C_Cortot_Hall%2C_%C3%89cole_normale_de_musique_de_Paris%2C_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 415258,
+      "bytes": 334689,
       "contentType": "image/jpeg"
     },
     {
@@ -992,7 +992,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Tilman2007\" title=\"User:Tilman2007\">Tilman2007</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/1352667_II_BARBICAN%2C_Guildhall_School_of_Music_and_Drama_City_of_London_London_20250613_0001.jpg/1280px-1352667_II_BARBICAN%2C_Guildhall_School_of_Music_and_Drama_City_of_London_London_20250613_0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/1352667_II_BARBICAN%2C_Guildhall_School_of_Music_and_Drama_City_of_London_London_20250613_0001.jpg/1280px-1352667_II_BARBICAN%2C_Guildhall_School_of_Music_and_Drama_City_of_London_London_20250613_0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 416396,
+      "bytes": 805519,
       "contentType": "image/jpeg"
     },
     {
@@ -1112,7 +1112,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Hokachung\" title=\"User:Hokachung\">Hokachung</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Kai_Tak_Muk_On_Street_%281%29.jpg/1280px-Kai_Tak_Muk_On_Street_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Kai_Tak_Muk_On_Street_%281%29.jpg/1280px-Kai_Tak_Muk_On_Street_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 115664,
+      "bytes": 246531,
       "contentType": "image/jpeg"
     },
     {
@@ -1237,7 +1237,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Thisisbossi\" title=\"User:Thisisbossi\">Andrew Bossi</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/1944_-_Salzburg_-_Mozart_Wohnhaus%2C_Makartplatz.jpg/1280px-1944_-_Salzburg_-_Mozart_Wohnhaus%2C_Makartplatz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/1944_-_Salzburg_-_Mozart_Wohnhaus%2C_Makartplatz.jpg/1280px-1944_-_Salzburg_-_Mozart_Wohnhaus%2C_Makartplatz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 279754,
+      "bytes": 318800,
       "contentType": "image/jpeg"
     },
     {
@@ -1266,7 +1266,7 @@
       "artist": "<bdi><a href=\"https://www.wikidata.org/wiki/Q108154913\" class=\"extiw\" title=\"d:Q108154913\"><span title=\"Austrian etcher (1890-1942)\">Grete Fuchs-Braun</span></a></bdi>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Grete_Fuchs-Braun_Haydnhaus.jpg/1280px-Grete_Fuchs-Braun_Haydnhaus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Grete_Fuchs-Braun_Haydnhaus.jpg/1280px-Grete_Fuchs-Braun_Haydnhaus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 374237,
+      "bytes": 931830,
       "contentType": "image/jpeg"
     },
     {
@@ -1325,7 +1325,7 @@
       "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/158438800@N02\">Paul Korecky</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/2018-08-12_DE_Berlin-Mitte%2C_Franz%C3%B6sische_Stra%C3%9Fe%2C_Oberwallstra%C3%9Fe%2C_Barenboim-Said-Akademie_%2850022818967%29.jpg/1280px-2018-08-12_DE_Berlin-Mitte%2C_Franz%C3%B6sische_Stra%C3%9Fe%2C_Oberwallstra%C3%9Fe%2C_Barenboim-Said-Akademie_%2850022818967%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/2018-08-12_DE_Berlin-Mitte%2C_Franz%C3%B6sische_Stra%C3%9Fe%2C_Oberwallstra%C3%9Fe%2C_Barenboim-Said-Akademie_%2850022818967%29.jpg/1280px-2018-08-12_DE_Berlin-Mitte%2C_Franz%C3%B6sische_Stra%C3%9Fe%2C_Oberwallstra%C3%9Fe%2C_Barenboim-Said-Akademie_%2850022818967%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 24382,
+      "bytes": 208088,
       "contentType": "image/jpeg"
     },
     {
@@ -1354,7 +1354,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Joseolgon\" title=\"User:Joseolgon\">Joseolgon</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Berliner_Philharmonie%2C_main_building_%281%29.jpg/1280px-Berliner_Philharmonie%2C_main_building_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Berliner_Philharmonie%2C_main_building_%281%29.jpg/1280px-Berliner_Philharmonie%2C_main_building_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 283560,
+      "bytes": 276846,
       "contentType": "image/jpeg"
     },
     {
@@ -1446,7 +1446,7 @@
       "artist": "<a href=\"https://en.wikipedia.org/wiki/User:Zarafa\" class=\"extiw\" title=\"en:User:Zarafa\">Zarafa</a> at <a class=\"external text\" data-mw-original-href=\"http://en.wikipedia.org\" href=\"https://en.wikipedia.org\">en.wikipedia</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Exterior_of_St._Thomas_Church%2C_Leipzig%2C_with_Bach_statue.jpg/1280px-Exterior_of_St._Thomas_Church%2C_Leipzig%2C_with_Bach_statue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Exterior_of_St._Thomas_Church%2C_Leipzig%2C_with_Bach_statue.jpg/1280px-Exterior_of_St._Thomas_Church%2C_Leipzig%2C_with_Bach_statue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 405662,
+      "bytes": 583728,
       "contentType": "image/jpeg"
     },
     {
@@ -1475,7 +1475,7 @@
       "artist": "<bdi><a href=\"https://www.wikidata.org/wiki/Q28598952\" class=\"extiw\" title=\"d:Q28598952\"><span title=\"German architect and photographer\">Jörg Blobelt</span></a></bdi>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/20070812100DR_Dresden_Gewandhaus_mit_Dinglingerbrunnen.jpg/1280px-20070812100DR_Dresden_Gewandhaus_mit_Dinglingerbrunnen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/20070812100DR_Dresden_Gewandhaus_mit_Dinglingerbrunnen.jpg/1280px-20070812100DR_Dresden_Gewandhaus_mit_Dinglingerbrunnen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 419146,
+      "bytes": 358154,
       "contentType": "image/jpeg"
     },
     {
@@ -1505,7 +1505,7 @@
       "imageOverride": "Mendelssohnhaus außen 1.jpg",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Mendelssohnhaus_au%C3%9Fen_1.jpg/1280px-Mendelssohnhaus_au%C3%9Fen_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Mendelssohnhaus_au%C3%9Fen_1.jpg/1280px-Mendelssohnhaus_au%C3%9Fen_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 210715,
+      "bytes": 368719,
       "contentType": "image/jpeg"
     },
     {
@@ -1630,7 +1630,7 @@
       "artist": "Josef Wohlmuth",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/6/66/Mozart%27s_last_residence_at_Rauhensteingasse_970.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/6/66/Mozart%27s_last_residence_at_Rauhensteingasse_970.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "bytes": 279754,
+      "bytes": 677771,
       "contentType": "image/jpeg"
     },
     {
@@ -1783,7 +1783,7 @@
       "artist": "Carmine Gallone",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/3/35/Casta_diva_-_Teatro_dell%27Opera_di_Roma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/3/35/Casta_diva_-_Teatro_dell%27Opera_di_Roma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "bytes": 310085,
+      "bytes": 98676,
       "contentType": "image/jpeg"
     },
     {
@@ -1812,7 +1812,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Albarubescens&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Albarubescens (page does not exist)\">Albarubescens</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wheelchair_lift%2C_Sapienza_University_of_Rome.jpg/1280px-Wheelchair_lift%2C_Sapienza_University_of_Rome.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wheelchair_lift%2C_Sapienza_University_of_Rome.jpg/1280px-Wheelchair_lift%2C_Sapienza_University_of_Rome.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 449179,
+      "bytes": 452490,
       "contentType": "image/jpeg"
     },
     {
@@ -1841,7 +1841,7 @@
       },
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Old_Town%2C_110_00_Prague-Prague_1%2C_Czech_Republic_-_panoramio_%28109%29.jpg/1280px-Old_Town%2C_110_00_Prague-Prague_1%2C_Czech_Republic_-_panoramio_%28109%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Old_Town%2C_110_00_Prague-Prague_1%2C_Czech_Republic_-_panoramio_%28109%29.jpg/1280px-Old_Town%2C_110_00_Prague-Prague_1%2C_Czech_Republic_-_panoramio_%28109%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bytes": 333957,
+      "bytes": 335353,
       "contentType": "image/jpeg",
       "filePage": "https://commons.wikimedia.org/wiki/File:Old_Town,_110_00_Prague-Prague_1,_Czech_Republic_-_panoramio_(109).jpg",
       "license": "CC BY-SA 3.0",
@@ -1969,7 +1969,7 @@
       "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/46191841@N00\">Jorge Franganillo</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/B%C3%A9la_Bart%C3%B3k_Memorial_House_%2852648970259%29.jpg/1280px-B%C3%A9la_Bart%C3%B3k_Memorial_House_%2852648970259%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/B%C3%A9la_Bart%C3%B3k_Memorial_House_%2852648970259%29.jpg/1280px-B%C3%A9la_Bart%C3%B3k_Memorial_House_%2852648970259%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 588920,
+      "bytes": 329201,
       "contentType": "image/jpeg"
     },
     {
@@ -1998,7 +1998,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Globetrotter19\" title=\"User:Globetrotter19\">Globetrotter19</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/5/54/Gedenktafel_H%C3%B3man%2C_Kod%C3%A1ly_Zolt%C3%A1n_Stra%C3%9Fe_3%2C_2025_V%C3%A1c.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/5/54/Gedenktafel_H%C3%B3man%2C_Kod%C3%A1ly_Zolt%C3%A1n_Stra%C3%9Fe_3%2C_2025_V%C3%A1c.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "bytes": 272290,
+      "bytes": 336893,
       "contentType": "image/jpeg"
     },
     {
@@ -2089,7 +2089,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Bm91792&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Bm91792 (page does not exist)\">Bm91792</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/7/77/Mannes_facade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/7/77/Mannes_facade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "bytes": 593683,
+      "bytes": 167931,
       "contentType": "image/jpeg"
     },
     {
@@ -2147,7 +2147,7 @@
       "extract": "大都會歌劇院（英語：Metropolitan Opera House），俗稱大都會（The Met），是位於美國紐約的林肯中心內的世界知名的歌劇院，由「大都會歌劇院協會」（Metropolitan Opera Association）負責營運。大都會歌劇院協會於1880年4月成立，是纽约主要的歌劇公司，也是美國最大的古典音樂組織，每年上演約240部歌劇。大都會歌劇院是林肯中心的十二個常駐組織之一。",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Metropolitan_Opera_House_At_Lincoln_Center.jpg/1280px-Metropolitan_Opera_House_At_Lincoln_Center.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Metropolitan_Opera_House_At_Lincoln_Center.jpg/1280px-Metropolitan_Opera_House_At_Lincoln_Center.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bytes": 193170,
+      "bytes": 194616,
       "contentType": "image/jpeg",
       "filePage": "https://commons.wikimedia.org/wiki/File:Metropolitan_Opera_House_At_Lincoln_Center.jpg",
       "license": "CC BY-SA 2.5",
@@ -2251,7 +2251,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Beyond_My_Ken\" class=\"mw-redirect\" title=\"User:Beyond My Ken\">Beyond My Ken</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/2018_Symphony_Hall_Boston.jpg/1280px-2018_Symphony_Hall_Boston.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/2018_Symphony_Hall_Boston.jpg/1280px-2018_Symphony_Hall_Boston.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 399323,
+      "bytes": 348838,
       "contentType": "image/jpeg"
     },
     {
@@ -2280,7 +2280,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:4300streetcar\" title=\"User:4300streetcar\">4300streetcar</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Boston_University_Bridge_March_2025_1.jpg/1280px-Boston_University_Bridge_March_2025_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Boston_University_Bridge_March_2025_1.jpg/1280px-Boston_University_Bridge_March_2025_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 479045,
+      "bytes": 288824,
       "contentType": "image/jpeg"
     },
     {
@@ -2309,7 +2309,7 @@
       "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/59081381@N03\">Warren LeMay</a> from Chicago, IL, United States",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Walker_Museum_Building%2C_University_of_Chicago%2C_University_Avenue%2C_Hyde_Park%2C_Chicago%2C_IL_%2854515842641%29.jpg/1280px-Walker_Museum_Building%2C_University_of_Chicago%2C_University_Avenue%2C_Hyde_Park%2C_Chicago%2C_IL_%2854515842641%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Walker_Museum_Building%2C_University_of_Chicago%2C_University_Avenue%2C_Hyde_Park%2C_Chicago%2C_IL_%2854515842641%29.jpg/1280px-Walker_Museum_Building%2C_University_of_Chicago%2C_University_Avenue%2C_Hyde_Park%2C_Chicago%2C_IL_%2854515842641%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 507118,
+      "bytes": 862585,
       "contentType": "image/jpeg"
     },
     {
@@ -2389,7 +2389,7 @@
       "artist": "",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Cortlandt_V.D._Hubbard%2C_Photographer_November_1967_HALLWAY_OUTSIDE_THEATRE_-_American_Academy_of_Music%2C_232-246_South_Broad_Street%2C_Philadelphia%2C_Philadelphia_County%2C_PA_HABS_PA%2C51-PHILA%2C294-8.tif/lossy-page1-1280px-thumbnail.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Cortlandt_V.D._Hubbard%2C_Photographer_November_1967_HALLWAY_OUTSIDE_THEATRE_-_American_Academy_of_Music%2C_232-246_South_Broad_Street%2C_Philadelphia%2C_Philadelphia_County%2C_PA_HABS_PA%2C51-PHILA%2C294-8.tif/lossy-page1-1280px-thumbnail.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 200027,
+      "bytes": 200079,
       "contentType": "image/jpeg"
     },
     {
@@ -2469,7 +2469,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Parkerdr\" title=\"User:Parkerdr\">Dave Parker</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/ColburnSchoolFront.jpg/1280px-ColburnSchoolFront.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/ColburnSchoolFront.jpg/1280px-ColburnSchoolFront.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 370056,
+      "bytes": 368284,
       "contentType": "image/jpeg"
     },
     {
@@ -2589,7 +2589,7 @@
       "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20161013001430/http://www.panoramio.com/user/739115?with_photo_id=5485877\">Jaakko H.</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Watergate_and_John_F._Kennedy_Center_for_Performing_arts_as_seen_from_the_Georgetown_waterfront_%28March_26%2C_%2704%29_-_panoramio.jpg/1280px-Watergate_and_John_F._Kennedy_Center_for_Performing_arts_as_seen_from_the_Georgetown_waterfront_%28March_26%2C_%2704%29_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Watergate_and_John_F._Kennedy_Center_for_Performing_arts_as_seen_from_the_Georgetown_waterfront_%28March_26%2C_%2704%29_-_panoramio.jpg/1280px-Watergate_and_John_F._Kennedy_Center_for_Performing_arts_as_seen_from_the_Georgetown_waterfront_%28March_26%2C_%2704%29_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 463095,
+      "bytes": 214257,
       "contentType": "image/jpeg"
     },
     {
@@ -2618,7 +2618,7 @@
       "artist": "Library of Congress Life",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Eddie_Condon_guitar_from_the_Music_Division_at_the_Library_of_Congress_on_15_July_2025.jpg/1280px-Eddie_Condon_guitar_from_the_Music_Division_at_the_Library_of_Congress_on_15_July_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Eddie_Condon_guitar_from_the_Music_Division_at_the_Library_of_Congress_on_15_July_2025.jpg/1280px-Eddie_Condon_guitar_from_the_Music_Division_at_the_Library_of_Congress_on_15_July_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 183828,
+      "bytes": 233509,
       "contentType": "image/jpeg"
     },
     {
@@ -2647,7 +2647,7 @@
       "artist": "",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Columbian_University_law_school_and_university_building_-_The_George_Washington_University.tif/lossy-page1-1280px-Columbian_University_law_school_and_university_building_-_The_George_Washington_University.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Columbian_University_law_school_and_university_building_-_The_George_Washington_University.tif/lossy-page1-1280px-Columbian_University_law_school_and_university_building_-_The_George_Washington_University.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 508030,
+      "bytes": 249317,
       "contentType": "image/jpeg"
     },
     {
@@ -2676,7 +2676,7 @@
       "artist": "Carlin Ma",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/San_Francisco_Conservatory_of_Music_Building.jpg/1280px-San_Francisco_Conservatory_of_Music_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/San_Francisco_Conservatory_of_Music_Building.jpg/1280px-San_Francisco_Conservatory_of_Music_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 752600,
+      "bytes": 222094,
       "contentType": "image/jpeg"
     },
     {
@@ -2760,7 +2760,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Public_Universal_Friendo&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Public Universal Friendo (page does not exist)\">Public Universal Friendo</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Plaza_next_to_Posvar_Hall_and_Barco_Law_Building%2C_University_of_Pittsburgh_Oakland_Campus.jpg/1280px-Plaza_next_to_Posvar_Hall_and_Barco_Law_Building%2C_University_of_Pittsburgh_Oakland_Campus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Plaza_next_to_Posvar_Hall_and_Barco_Law_Building%2C_University_of_Pittsburgh_Oakland_Campus.jpg/1280px-Plaza_next_to_Posvar_Hall_and_Barco_Law_Building%2C_University_of_Pittsburgh_Oakland_Campus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 649399,
+      "bytes": 283553,
       "contentType": "image/jpeg"
     },
     {
@@ -2789,7 +2789,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Cbaile19\" title=\"User:Cbaile19\">Cbaile19</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Grand_Staircase%2C_Heinz_Hall%2C_2015-06-07.jpg/1280px-Grand_Staircase%2C_Heinz_Hall%2C_2015-06-07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Grand_Staircase%2C_Heinz_Hall%2C_2015-06-07.jpg/1280px-Grand_Staircase%2C_Heinz_Hall%2C_2015-06-07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 769301,
+      "bytes": 708384,
       "contentType": "image/jpeg"
     },
     {
@@ -2942,7 +2942,7 @@
       "artist": "Главархив Москвы",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/History_of_Gnessin_Academy_of_Music_01.jpg/1280px-History_of_Gnessin_Academy_of_Music_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/History_of_Gnessin_Academy_of_Music_01.jpg/1280px-History_of_Gnessin_Academy_of_Music_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 310103,
+      "bytes": 401824,
       "contentType": "image/jpeg"
     },
     {
@@ -2971,7 +2971,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:A333\" class=\"mw-redirect\" title=\"User:A333\">Antti Leppänen</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/View_towards_Helsinki_Music_Centre_from_tower_of_National_Museum.jpg/1280px-View_towards_Helsinki_Music_Centre_from_tower_of_National_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/View_towards_Helsinki_Music_Centre_from_tower_of_National_Museum.jpg/1280px-View_towards_Helsinki_Music_Centre_from_tower_of_National_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 140883,
+      "bytes": 258458,
       "contentType": "image/jpeg"
     },
     {
@@ -2996,7 +2996,7 @@
       "extract": "芬兰国家歌剧芭蕾院（芬蘭語：Suomen Kansallisooppera ja -baletti，瑞典語：Finlands nationalopera och -balett）是芬兰唯一的一个专业歌剧院，位于芬兰赫尔辛基。歌剧院里举行歌剧、芭蕾和音乐会等演出。在门厅里也有艺术展览。国家歌剧院有自己的专业管弦乐团—芬兰国家歌剧院管弦乐团，乐队包括111名演奏家和50名成员的合唱团，另外还有50名成员的儿童合唱团。歌剧演唱家中有一些是长期雇佣的，之外还聘请一些客座演唱家。隶属国家歌剧院下的芬兰国家芭蕾舞团里有80名舞蹈演员。自2018年起国家歌剧院的院长是吉塔·卡丹比。从2013年起歌剧艺术指挥是莉莉·帕西基维，她的任期将持续至2023年7月。自2022年8月起芭蕾舞团的艺术指挥是哈维尔·托雷斯（Javier Torres）。\n芬兰国家歌剧院是由芬兰国家歌剧院基金会来管理的。\n歌剧院举办演出的歌剧厅是在1993年建成，位于赫尔辛基市中心的蝶略湾畔。",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/LOp%C3%A9ra_dHelsinki_%282768446378%29.jpg/1280px-LOp%C3%A9ra_dHelsinki_%282768446378%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/LOp%C3%A9ra_dHelsinki_%282768446378%29.jpg/1280px-LOp%C3%A9ra_dHelsinki_%282768446378%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bytes": 254419,
+      "bytes": 255592,
       "contentType": "image/jpeg",
       "filePage": "https://commons.wikimedia.org/wiki/File:LOp%C3%A9ra_dHelsinki_(2768446378).jpg",
       "license": "CC BY 2.0",
@@ -3058,7 +3058,7 @@
       "artist": "Unknown author<span style=\"display: none;\">Unknown author</span>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Warsaw_Philharmonic_-_southern_facade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Warsaw_Philharmonic_-_southern_facade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "bytes": 393654,
+      "bytes": 49471,
       "contentType": "image/jpeg"
     },
     {
@@ -3179,7 +3179,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Misiek2\" title=\"User:Misiek2\">Mateusz Giełczyński</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Garden_of_the_Jagiellonian_University_Pedagogical_Institute.jpg/1280px-Garden_of_the_Jagiellonian_University_Pedagogical_Institute.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Garden_of_the_Jagiellonian_University_Pedagogical_Institute.jpg/1280px-Garden_of_the_Jagiellonian_University_Pedagogical_Institute.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 536931,
+      "bytes": 490235,
       "contentType": "image/jpeg"
     },
     {
@@ -3270,7 +3270,7 @@
       "artist": "<a href=\"https://en.wikipedia.org/wiki/User:Jamesmcneilwhistler\" class=\"extiw\" title=\"en:User:Jamesmcneilwhistler\">Jamesmcneilwhistler</a> (<a href=\"https://en.wikipedia.org/wiki/User_talk:Jamesmcneilwhistler\" class=\"extiw\" title=\"en:User talk:Jamesmcneilwhistler\">talk</a>) (<a href=\"https://en.wikipedia.org/wiki/Special:ListFiles/Jamesmcneilwhistler\" class=\"extiw\" title=\"en:Special:ListFiles/Jamesmcneilwhistler\">Uploads</a>)",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Complutense_University_of_Madrid_Philosophy_Club_advertises_Marx%27s_Das_Kapital.jpg/1280px-Complutense_University_of_Madrid_Philosophy_Club_advertises_Marx%27s_Das_Kapital.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Complutense_University_of_Madrid_Philosophy_Club_advertises_Marx%27s_Das_Kapital.jpg/1280px-Complutense_University_of_Madrid_Philosophy_Club_advertises_Marx%27s_Das_Kapital.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 485873,
+      "bytes": 325366,
       "contentType": "image/jpeg"
     },
     {
@@ -3328,7 +3328,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:StrangeTraveler\" title=\"User:StrangeTraveler\">StrangeTraveler</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Faust_at_the_Stavros_Niarchos_Hall_of_the_Greek_National_Opera_%2807-04-2022%29_%2801%29.jpg/1280px-Faust_at_the_Stavros_Niarchos_Hall_of_the_Greek_National_Opera_%2807-04-2022%29_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Faust_at_the_Stavros_Niarchos_Hall_of_the_Greek_National_Opera_%2807-04-2022%29_%2801%29.jpg/1280px-Faust_at_the_Stavros_Niarchos_Hall_of_the_Greek_National_Opera_%2807-04-2022%29_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 192636,
+      "bytes": 277694,
       "contentType": "image/jpeg"
     },
     {
@@ -3357,7 +3357,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Armineaghayan\" title=\"User:Armineaghayan\">Armineaghayan</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/National_and_Kapodistrian_University_of_Athens%2C_buildings_and_statues_%281%29.jpg/1280px-National_and_Kapodistrian_University_of_Athens%2C_buildings_and_statues_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/National_and_Kapodistrian_University_of_Athens%2C_buildings_and_statues_%281%29.jpg/1280px-National_and_Kapodistrian_University_of_Athens%2C_buildings_and_statues_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 195819,
+      "bytes": 427170,
       "contentType": "image/jpeg"
     },
     {
@@ -3386,7 +3386,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Sailko\" title=\"User:Sailko\">sailko</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Conservatorio_luigi_cherubini%2C_portale.JPG/1280px-Conservatorio_luigi_cherubini%2C_portale.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Conservatorio_luigi_cherubini%2C_portale.JPG/1280px-Conservatorio_luigi_cherubini%2C_portale.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 235443,
+      "bytes": 445501,
       "contentType": "image/jpeg"
     },
     {
@@ -3444,7 +3444,7 @@
       "artist": "U.S. Navy NAVEUR-NAVAF-Band by Petty Officer 2nd Class <a rel=\"nofollow\" class=\"external text\" href=\"https://www.dvidshub.net/portfolio/1804750\">Raymond Laffoon</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/U_S_Naval_Forces_Europe_and_Africa_Band_at_Conservatorio_di_Musica_San_Pietro_a_Majella_in_Naples%2C_Italy_%288124582%29.jpg/1280px-U_S_Naval_Forces_Europe_and_Africa_Band_at_Conservatorio_di_Musica_San_Pietro_a_Majella_in_Naples%2C_Italy_%288124582%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/U_S_Naval_Forces_Europe_and_Africa_Band_at_Conservatorio_di_Musica_San_Pietro_a_Majella_in_Naples%2C_Italy_%288124582%29.jpg/1280px-U_S_Naval_Forces_Europe_and_Africa_Band_at_Conservatorio_di_Musica_San_Pietro_a_Majella_in_Naples%2C_Italy_%288124582%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 539644,
+      "bytes": 380986,
       "contentType": "image/jpeg"
     },
     {
@@ -3473,7 +3473,7 @@
       "artist": "Yair-haklai",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Statue_of_Domenico_Cimarosa_by_Giuseppe_Antonio_Sorbilli_at_Teatro_di_San_Carlo.jpg/1280px-Statue_of_Domenico_Cimarosa_by_Giuseppe_Antonio_Sorbilli_at_Teatro_di_San_Carlo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Statue_of_Domenico_Cimarosa_by_Giuseppe_Antonio_Sorbilli_at_Teatro_di_San_Carlo.jpg/1280px-Statue_of_Domenico_Cimarosa_by_Giuseppe_Antonio_Sorbilli_at_Teatro_di_San_Carlo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 288789,
+      "bytes": 533656,
       "contentType": "image/jpeg"
     },
     {
@@ -3502,7 +3502,7 @@
       "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/16441028@N00\">Antonio Manfredonio</a> from Napoli, Italia",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ingresso_Universit%C3%A0_Federico_II_-napoli_-city_-italy_-naples_-manfrys_-photostreet_%2813295062175%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ingresso_Universit%C3%A0_Federico_II_-napoli_-city_-italy_-naples_-manfrys_-photostreet_%2813295062175%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "bytes": 467064,
+      "bytes": 152275,
       "contentType": "image/jpeg"
     },
     {
@@ -3567,28 +3567,23 @@
         44.496
       ],
       "img": null,
-      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+      "credit": "opera propria",
       "music": "欧洲最古老大学之一，博洛尼亚音乐学、人文学和历史档案研究的综合大学节点。",
       "key": "博洛尼亚|博洛尼亚大学",
       "asset": "images/poi/poi-119-26db7d7272.jpg",
       "status": "downloaded",
-      "sourceTitle": "2022-08-23 Library University of Bologna by Benoit Soubeyran 04.jpg",
-      "sourcePage": "https://commons.wikimedia.org/wiki/File:2022-08-23_Library_University_of_Bologna_by_Benoit_Soubeyran_04.jpg",
+      "sourceTitle": "Palazzo Poggi UniBo.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Palazzo_Poggi_UniBo.jpg",
       "searchUsed": false,
       "extract": "博洛尼亚大学（義大利語：Università di Bologna；拉丁語：Universitas Bononiensis；又譯波隆纳大学）是一所坐落在意大利艾米利亚-罗马涅大区首府博洛尼亚的综合性公立大学，是广泛公认的最古老的大学，建立于公元1088年神圣罗马帝国时期。博洛尼亚大学源於11世纪末出现的世界上第一所法学院，后来由神圣罗马帝国皇帝腓特烈一世于1158年颁布設立章程确定其正式身份。博洛尼亚大学的建校时间在1888年博洛尼亚大学八百年校庆期间由后来的诺贝尔文学奖得主乔苏埃·卡尔杜奇所领导的历史委员会经过考证确定为1088年。1988年9月18日，博洛尼亚大学九百年校庆之际，欧洲430位大学校长在博洛尼亚的大广场上共同签署了欧洲大学宪章，正式承认与宣布博洛尼亚大学为“大学之母”（拉丁文：Alma mater studiorum），即世上所有大学的母校。在以拉丁语为主要学术与研究通用语言的中世纪及近代欧洲，博洛尼亚大学始终保持着欧洲文化与学术发展的中心位置，并引领了欧洲大学体系的改革。 作为经历了近千年历史演变的教育机构，博洛尼亚大学的校园建筑保留了不同时期，特别是文艺复兴时期的众多特点。博洛尼亚大学曾被福布斯杂志评为全球最美的15所校园之一，2014年被世界最大的英文旅游信息出版商福多尔公司评为全球15所最值得访问的大学之一。博洛尼亚大学校园建筑面积117万平方米，总面积674万平方米，除博洛尼亚的主校区之外，博洛尼亚大学还有四个校区，分别位于切塞纳、弗利、拉文纳、里米尼，另外在阿根廷首都布宜诺斯艾利斯设有海外校区。",
-      "filePage": "https://commons.wikimedia.org/wiki/File:2022-08-23_Library_University_of_Bologna_by_Benoit_Soubeyran_04.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Palazzo_Poggi_UniBo.jpg",
       "license": "CC BY-SA 4.0",
       "usageTerms": "Creative Commons Attribution-Share Alike 4.0",
-      "artist": "<bdi>Benoit Soubeyran</bdi>",
+      "artist": "Utente:Mattia Barci",
       "imageOverride": "Palazzo Poggi UniBo.jpg",
-      "rejectedImage": {
-        "sourceTitle": "Palazzo Poggi UniBo.jpg",
-        "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Palazzo_Poggi_UniBo.jpg/1280px-Palazzo_Poggi_UniBo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "reason": "not a suitable real-world landmark photo"
-      },
-      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/2022-08-23_Library_University_of_Bologna_by_Benoit_Soubeyran_04.jpg/1280px-2022-08-23_Library_University_of_Bologna_by_Benoit_Soubeyran_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/2022-08-23_Library_University_of_Bologna_by_Benoit_Soubeyran_04.jpg/1280px-2022-08-23_Library_University_of_Bologna_by_Benoit_Soubeyran_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 569703,
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Palazzo_Poggi_UniBo.jpg/1280px-Palazzo_Poggi_UniBo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Palazzo_Poggi_UniBo.jpg/1280px-Palazzo_Poggi_UniBo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "bytes": 673941,
       "contentType": "image/jpeg"
     },
     {
@@ -3646,7 +3641,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:FranzK\" title=\"User:FranzK\">FranzK</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Conservatorio_Lucio_Campiani.jpg/1280px-Conservatorio_Lucio_Campiani.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Conservatorio_Lucio_Campiani.jpg/1280px-Conservatorio_Lucio_Campiani.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 452770,
+      "bytes": 452822,
       "contentType": "image/jpeg"
     },
     {
@@ -3784,7 +3779,7 @@
       "artist": "Unknown author<span style=\"display: none;\">Unknown author</span>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/8/85/Donizetti_as_a_schoolboy_in_Bergamo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/8/85/Donizetti_as_a_schoolboy_in_Bergamo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "bytes": 119035,
+      "bytes": 15893,
       "contentType": "image/jpeg"
     },
     {
@@ -3835,7 +3830,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Roberto86\" title=\"User:Roberto86\">Roberto Quartarone</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Riproduzione_della_scenografia_della_opera_%22Norma%22%2C_Museo_Civico_Belliniano_di_Catania.jpg/1280px-Riproduzione_della_scenografia_della_opera_%22Norma%22%2C_Museo_Civico_Belliniano_di_Catania.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Riproduzione_della_scenografia_della_opera_%22Norma%22%2C_Museo_Civico_Belliniano_di_Catania.jpg/1280px-Riproduzione_della_scenografia_della_opera_%22Norma%22%2C_Museo_Civico_Belliniano_di_Catania.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 156676,
+      "bytes": 222505,
       "contentType": "image/jpeg"
     },
     {
@@ -3886,7 +3881,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Archaeodontosaurus\" title=\"User:Archaeodontosaurus\">Didier Descouens</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Conservatoire_%C3%A0_rayonnement_r%C3%A9gional_de_Toulouse_%28ancien_h%C3%B4pital_Larrey%29.jpg/1280px-Conservatoire_%C3%A0_rayonnement_r%C3%A9gional_de_Toulouse_%28ancien_h%C3%B4pital_Larrey%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Conservatoire_%C3%A0_rayonnement_r%C3%A9gional_de_Toulouse_%28ancien_h%C3%B4pital_Larrey%29.jpg/1280px-Conservatoire_%C3%A0_rayonnement_r%C3%A9gional_de_Toulouse_%28ancien_h%C3%B4pital_Larrey%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 227343,
+      "bytes": 243029,
       "contentType": "image/jpeg"
     },
     {
@@ -3915,7 +3910,7 @@
       "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Pierre-Auguste_Renoir\" class=\"extiw\" title=\"w:en:Pierre-Auguste Renoir\"><span title=\"French painter and sculptor (1841–1919)\">Pierre-Auguste Renoir</span></a></bdi>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/La_Sortie_du_conservatoire.jpg/1280px-La_Sortie_du_conservatoire.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/La_Sortie_du_conservatoire.jpg/1280px-La_Sortie_du_conservatoire.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 860674,
+      "bytes": 574580,
       "contentType": "image/jpeg"
     },
     {
@@ -3944,7 +3939,7 @@
       "artist": "<bdi><a href=\"https://www.wikidata.org/wiki/Q108103612\" class=\"extiw\" title=\"d:Q108103612\"><span title=\"Wikipedian and OpenStreetMap mapper from Cologne, Open Data activist\">Raimond Spekking</span></a></bdi>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Hochschule_f%C3%BCr_Musik_und_Tanz_K%C3%B6ln%2C_Unter_Krahnenb%C3%A4umen_87-9339.jpg/1280px-Hochschule_f%C3%BCr_Musik_und_Tanz_K%C3%B6ln%2C_Unter_Krahnenb%C3%A4umen_87-9339.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Hochschule_f%C3%BCr_Musik_und_Tanz_K%C3%B6ln%2C_Unter_Krahnenb%C3%A4umen_87-9339.jpg/1280px-Hochschule_f%C3%BCr_Musik_und_Tanz_K%C3%B6ln%2C_Unter_Krahnenb%C3%A4umen_87-9339.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 424064,
+      "bytes": 809993,
       "contentType": "image/jpeg"
     },
     {
@@ -4002,7 +3997,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Renate007\" title=\"User:Renate007\">Renate007</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Eingangshalle_der_Hochschule_f%C3%BCr_Musik_und_Darstellende_Kunst_Frankfurt_am_Main.jpg/1280px-Eingangshalle_der_Hochschule_f%C3%BCr_Musik_und_Darstellende_Kunst_Frankfurt_am_Main.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Eingangshalle_der_Hochschule_f%C3%BCr_Musik_und_Darstellende_Kunst_Frankfurt_am_Main.jpg/1280px-Eingangshalle_der_Hochschule_f%C3%BCr_Musik_und_Darstellende_Kunst_Frankfurt_am_Main.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 403291,
+      "bytes": 315467,
       "contentType": "image/jpeg"
     },
     {
@@ -4031,7 +4026,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Sven\" title=\"User:Sven\">Sven</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Closeup_on_Physics_Building_on_Campus_Riedberg%2C_Goethe_University_Frankfurt.jpg/1280px-Closeup_on_Physics_Building_on_Campus_Riedberg%2C_Goethe_University_Frankfurt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Closeup_on_Physics_Building_on_Campus_Riedberg%2C_Goethe_University_Frankfurt.jpg/1280px-Closeup_on_Physics_Building_on_Campus_Riedberg%2C_Goethe_University_Frankfurt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 1290943,
+      "bytes": 338193,
       "contentType": "image/jpeg"
     },
     {
@@ -4118,7 +4113,7 @@
       "artist": "<bdi><a href=\"https://www.wikidata.org/wiki/Q115464159\" class=\"extiw\" title=\"d:Q115464159\"><span title=\"developer analyst and photographer from Venezuela\">Wilfredor</span></a></bdi>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Bavarian_State_Opera%2C_Munich.jpg/1280px-Bavarian_State_Opera%2C_Munich.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Bavarian_State_Opera%2C_Munich.jpg/1280px-Bavarian_State_Opera%2C_Munich.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 250153,
+      "bytes": 306472,
       "contentType": "image/jpeg"
     },
     {
@@ -4132,23 +4127,16 @@
         51.051
       ],
       "img": null,
-      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+      "credit": null,
       "music": "德累斯顿高等音乐教育机构，以韦伯命名并延续歌剧、指挥和器乐传统。",
       "key": "德累斯顿|卡尔·玛丽亚·冯·韦伯音乐学院",
-      "asset": "images/poi/poi-139-ed395a7d79.jpg",
-      "status": "downloaded",
-      "sourceTitle": "000003 Image Hochschule für Musik Carl Maria von Weber Dresden Sachsen Germany Lupus in Saxonia.jpg",
-      "sourcePage": "https://commons.wikimedia.org/wiki/File:000003_Image_Hochschule_f%C3%BCr_Musik_Carl_Maria_von_Weber_Dresden_Sachsen_Germany_Lupus_in_Saxonia.jpg",
+      "asset": null,
+      "status": "no-suitable-image",
+      "sourceTitle": "卡尔·玛丽亚·冯·韦伯音乐学院",
+      "sourcePage": "https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%B0%94%C2%B7%E7%8E%9B%E4%B8%BD%E4%BA%9A%C2%B7%E5%86%AF%C2%B7%E9%9F%A6%E4%BC%AF%E9%9F%B3%E4%B9%90%E5%AD%A6%E9%99%A2",
       "searchUsed": false,
       "extract": "",
-      "filePage": "https://commons.wikimedia.org/wiki/File:000003_Image_Hochschule_f%C3%BCr_Musik_Carl_Maria_von_Weber_Dresden_Sachsen_Germany_Lupus_in_Saxonia.jpg",
-      "license": "CC BY-SA 4.0",
-      "usageTerms": "Creative Commons Attribution-Share Alike 4.0",
-      "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Lupus_in_Saxonia&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Lupus in Saxonia (page does not exist)\">Lupus in Saxonia</a>",
-      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/000003_Image_Hochschule_f%C3%BCr_Musik_Carl_Maria_von_Weber_Dresden_Sachsen_Germany_Lupus_in_Saxonia.jpg/1280px-000003_Image_Hochschule_f%C3%BCr_Musik_Carl_Maria_von_Weber_Dresden_Sachsen_Germany_Lupus_in_Saxonia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/000003_Image_Hochschule_f%C3%BCr_Musik_Carl_Maria_von_Weber_Dresden_Sachsen_Germany_Lupus_in_Saxonia.jpg/1280px-000003_Image_Hochschule_f%C3%BCr_Musik_Carl_Maria_von_Weber_Dresden_Sachsen_Germany_Lupus_in_Saxonia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 444191,
-      "contentType": "image/jpeg"
+      "imageSource": ""
     },
     {
       "index": 140,
@@ -4176,7 +4164,7 @@
       "artist": "<bdi><a href=\"https://www.wikidata.org/wiki/Q28598952\" class=\"extiw\" title=\"d:Q28598952\"><span title=\"German architect and photographer\">Jörg Blobelt</span></a></bdi>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/20050320540DR_Dresden_Semperoper_am_Theaterplatz.jpg/1280px-20050320540DR_Dresden_Semperoper_am_Theaterplatz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/20050320540DR_Dresden_Semperoper_am_Theaterplatz.jpg/1280px-20050320540DR_Dresden_Semperoper_am_Theaterplatz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 346147,
+      "bytes": 424710,
       "contentType": "image/jpeg"
     },
     {
@@ -4205,7 +4193,7 @@
       "artist": "Rob Oo",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/20230214_Hochschule_f%C3%BCr_Musik_und_Darstellende_Kunst_Stuttgart.jpg/1280px-20230214_Hochschule_f%C3%BCr_Musik_und_Darstellende_Kunst_Stuttgart.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/20230214_Hochschule_f%C3%BCr_Musik_und_Darstellende_Kunst_Stuttgart.jpg/1280px-20230214_Hochschule_f%C3%BCr_Musik_und_Darstellende_Kunst_Stuttgart.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 467591,
+      "bytes": 305769,
       "contentType": "image/jpeg"
     },
     {
@@ -4263,7 +4251,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Ajepbah\" title=\"User:Ajepbah\">Ajepbah</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Beyling-Stift%2C_Peterstra%C3%9Fe_39_%28Hamburg-Neustadt%29.Brahms-Museum.13677.ajb.jpg/1280px-Beyling-Stift%2C_Peterstra%C3%9Fe_39_%28Hamburg-Neustadt%29.Brahms-Museum.13677.ajb.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Beyling-Stift%2C_Peterstra%C3%9Fe_39_%28Hamburg-Neustadt%29.Brahms-Museum.13677.ajb.jpg/1280px-Beyling-Stift%2C_Peterstra%C3%9Fe_39_%28Hamburg-Neustadt%29.Brahms-Museum.13677.ajb.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 205806,
+      "bytes": 730683,
       "contentType": "image/jpeg"
     },
     {
@@ -4508,7 +4496,7 @@
       "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/27911027@N00\">Donald Judge</a> from England",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/9.8.17_1_Hukvaldy_and_Leos_Janacek_019_%2836498394665%29.jpg/1280px-9.8.17_1_Hukvaldy_and_Leos_Janacek_019_%2836498394665%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/9.8.17_1_Hukvaldy_and_Leos_Janacek_019_%2836498394665%29.jpg/1280px-9.8.17_1_Hukvaldy_and_Leos_Janacek_019_%2836498394665%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 482319,
+      "bytes": 275512,
       "contentType": "image/jpeg"
     },
     {
@@ -4571,7 +4559,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Simon_Jewell&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Simon Jewell (page does not exist)\">Simon Jewell</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/5/58/Griffith_College_Dublin_-_Front_of_Campus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/5/58/Griffith_College_Dublin_-_Front_of_Campus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "bytes": 58233,
+      "bytes": 167870,
       "contentType": "image/jpeg"
     },
     {
@@ -4622,7 +4610,7 @@
       "artist": "Quirinale",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/800th_anniversary_of_the_University_of_Padua_1.jpg/1280px-800th_anniversary_of_the_University_of_Padua_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/800th_anniversary_of_the_University_of_Padua_1.jpg/1280px-800th_anniversary_of_the_University_of_Padua_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 110216,
+      "bytes": 162159,
       "contentType": "image/jpeg"
     },
     {
@@ -4651,7 +4639,7 @@
       "artist": "Unknown author<span style=\"display: none;\">Unknown author</span>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Li%C3%A8ge._Conservatoire_royal_de_musique._%28knipsel%29_Late_19th-begin_20th_century_barcode_800000037234.jpg/1280px-Li%C3%A8ge._Conservatoire_royal_de_musique._%28knipsel%29_Late_19th-begin_20th_century_barcode_800000037234.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Li%C3%A8ge._Conservatoire_royal_de_musique._%28knipsel%29_Late_19th-begin_20th_century_barcode_800000037234.jpg/1280px-Li%C3%A8ge._Conservatoire_royal_de_musique._%28knipsel%29_Late_19th-begin_20th_century_barcode_800000037234.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 262140,
+      "bytes": 361943,
       "contentType": "image/jpeg"
     },
     {
@@ -4742,7 +4730,7 @@
       "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20161102060332/http://www.panoramio.com/user/6455607?with_photo_id=115309437\">Maarten Sepp</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/3/38/Crotone%2C_Calabria%2C_Italy._Basilica_Cattedrale_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/3/38/Crotone%2C_Calabria%2C_Italy._Basilica_Cattedrale_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "bytes": 153016,
+      "bytes": 631222,
       "contentType": "image/jpeg"
     },
     {
@@ -4771,7 +4759,7 @@
       "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.wikivoyage-old.org/shared/User%3ABbb\">Bbb</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Bingen_am_Rhein_histMuseum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Bingen_am_Rhein_histMuseum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "bytes": 501389,
+      "bytes": 184174,
       "contentType": "image/jpeg"
     },
     {
@@ -4800,7 +4788,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Fab5669\" title=\"User:Fab5669\">Fab5669</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Reims_-_porte_de_Mars_%2814%29.JPG/1280px-Reims_-_porte_de_Mars_%2814%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Reims_-_porte_de_Mars_%2814%29.JPG/1280px-Reims_-_porte_de_Mars_%2814%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 475038,
+      "bytes": 309033,
       "contentType": "image/jpeg"
     },
     {
@@ -4829,7 +4817,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Archaeodontosaurus\" title=\"User:Archaeodontosaurus\">Didier Descouens</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/%28Venice%29_Doge%27s_Palace_and_campanile_of_St._Mark%27s_Basilica_facing_the_sea.jpg/1280px-%28Venice%29_Doge%27s_Palace_and_campanile_of_St._Mark%27s_Basilica_facing_the_sea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/%28Venice%29_Doge%27s_Palace_and_campanile_of_St._Mark%27s_Basilica_facing_the_sea.jpg/1280px-%28Venice%29_Doge%27s_Palace_and_campanile_of_St._Mark%27s_Basilica_facing_the_sea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 837146,
+      "bytes": 317886,
       "contentType": "image/jpeg"
     },
     {
@@ -4858,7 +4846,7 @@
       "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/profile/25319\">Richard Law</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:9_Chapel_Street,_Llangollen_-_Haydn_House_-_geograph.org.uk_-_7933326.jpg#P170\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/9_Chapel_Street%2C_Llangollen_-_Haydn_House_-_geograph.org.uk_-_7933326.jpg/1280px-9_Chapel_Street%2C_Llangollen_-_Haydn_House_-_geograph.org.uk_-_7933326.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/9_Chapel_Street%2C_Llangollen_-_Haydn_House_-_geograph.org.uk_-_7933326.jpg/1280px-9_Chapel_Street%2C_Llangollen_-_Haydn_House_-_geograph.org.uk_-_7933326.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 105081,
+      "bytes": 328455,
       "contentType": "image/jpeg"
     },
     {
@@ -4887,7 +4875,7 @@
       "artist": "<bdi><a href=\"https://www.wikidata.org/wiki/Q17350272\" class=\"extiw\" title=\"d:Q17350272\"><span title=\"French photographer (1866-1898)\">Paul Robert</span></a></bdi>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Eglise_Saint-G%C3%A9ry_-_Cambrai_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010450.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Eglise_Saint-G%C3%A9ry_-_Cambrai_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010450.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "bytes": 388849,
+      "bytes": 30008,
       "contentType": "image/jpeg"
     },
     {
@@ -4949,7 +4937,7 @@
       "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Camille_Enlart\" class=\"extiw\" title=\"w:en:Camille Enlart\"><span title=\"French art historian and photographer (1862-1927)\">Camille Enlart</span></a></bdi>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Eglise_Saint-Wasnon_-_Fa%C3%A7ade_-_Cond%C3%A9-sur-l%27Escaut_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00028978.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Eglise_Saint-Wasnon_-_Fa%C3%A7ade_-_Cond%C3%A9-sur-l%27Escaut_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00028978.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "bytes": 595631,
+      "bytes": 10243,
       "contentType": "image/jpeg"
     },
     {
@@ -4978,7 +4966,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Fernando\" title=\"User:Fernando\">Fernando</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Basilica_de_San_Vicente%2C_Avila-HDR.jpg/1280px-Basilica_de_San_Vicente%2C_Avila-HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Basilica_de_San_Vicente%2C_Avila-HDR.jpg/1280px-Basilica_de_San_Vicente%2C_Avila-HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 324959,
+      "bytes": 334439,
       "contentType": "image/jpeg"
     },
     {
@@ -5007,7 +4995,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Tournasol7\" title=\"User:Tournasol7\">Tournasol7</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/B%C3%A9ziers_Cathedral_and_Old_Bridge001.JPG/1280px-B%C3%A9ziers_Cathedral_and_Old_Bridge001.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/B%C3%A9ziers_Cathedral_and_Old_Bridge001.JPG/1280px-B%C3%A9ziers_Cathedral_and_Old_Bridge001.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 337485,
+      "bytes": 281277,
       "contentType": "image/jpeg"
     },
     {
@@ -5069,7 +5057,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Martinvl\" title=\"User:Martinvl\">Martinvl</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/FonseranesLocks.jpg/1280px-FonseranesLocks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/FonseranesLocks.jpg/1280px-FonseranesLocks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 99782,
+      "bytes": 358398,
       "contentType": "image/jpeg"
     },
     {
@@ -5098,7 +5086,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Txllxt_TxllxT\" title=\"User:Txllxt TxllxT\">Txllxt TxllxT</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Honfleur_-_Place_Sainte-Catherine_-_View_NW_on_Free-standing_Bell-Tower_%26_Saint-Catherine%27s_Church.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Honfleur_-_Place_Sainte-Catherine_-_View_NW_on_Free-standing_Bell-Tower_%26_Saint-Catherine%27s_Church.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "bytes": 551102,
+      "bytes": 292425,
       "contentType": "image/jpeg"
     },
     {
@@ -5112,23 +5100,16 @@
         45.829
       ],
       "img": null,
-      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+      "credit": "",
       "music": "利摩日圣马夏尔修道院是阿基坦复调与花唱手稿的重要中心；这里标出的是中世纪音乐书写制度的地点，而非现代演出场馆。",
       "key": "利摩日|圣马夏尔修道院遗址",
-      "asset": "images/poi/poi-172-1bde7db3d5.jpg",
-      "status": "downloaded",
-      "sourceTitle": "Bras reliquaire de saint Martial.jpg",
-      "sourcePage": "https://commons.wikimedia.org/wiki/File:Bras_reliquaire_de_saint_Martial.jpg",
+      "asset": null,
+      "status": "no-suitable-image",
+      "sourceTitle": "圣马夏尔修道院遗址",
+      "sourcePage": "https://zh.wikipedia.org/wiki/%E5%9C%A3%E9%A9%AC%E5%A4%8F%E5%B0%94%E4%BF%AE%E9%81%93%E9%99%A2%E9%81%97%E5%9D%80",
       "searchUsed": false,
       "extract": "",
-      "filePage": "https://commons.wikimedia.org/wiki/File:Bras_reliquaire_de_saint_Martial.jpg",
-      "license": "CC BY-SA 4.0",
-      "usageTerms": "Creative Commons Attribution-Share Alike 4.0",
-      "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:GuyRova&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:GuyRova (page does not exist)\">GuyRova</a>",
-      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bras_reliquaire_de_saint_Martial.jpg/1280px-Bras_reliquaire_de_saint_Martial.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bras_reliquaire_de_saint_Martial.jpg/1280px-Bras_reliquaire_de_saint_Martial.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 177036,
-      "contentType": "image/jpeg"
+      "imageSource": ""
     },
     {
       "index": 173,
@@ -5228,7 +5209,7 @@
         52.208
       ],
       "img": null,
-      "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/photo/5827921\">Geograph Britain and Ireland</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Art_of_Edward_Elgar_at_Elgar%27s_Birthplace_Museum_Visitor_Centre_-_geograph.org.uk_-_5827921.jpg#P7482\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png\" decoding=\"async\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+      "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/photo/5827921\">Geograph Britain and Ireland</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Art_of_Edward_Elgar_at_Elgar%27s_Birthplace_Museum_Visitor_Centre_-_geograph.org.uk_-_5827921.jpg#P7482\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
       "music": "埃尔加在伍斯特郡的乡土经验进入《谜语变奏曲》等作品；此处是理解其英国地方性与帝国时代音乐语言的入口。",
       "key": "伍斯特|埃尔加出生地博物馆",
       "asset": "images/poi/poi-176-2f503318f5.jpg",
@@ -5240,7 +5221,7 @@
       "filePage": "https://commons.wikimedia.org/wiki/File:Art_of_Edward_Elgar_at_Elgar%27s_Birthplace_Museum_Visitor_Centre_-_geograph.org.uk_-_5827921.jpg",
       "license": "CC BY-SA 2.0",
       "usageTerms": "Creative Commons Attribution-Share Alike 2.0",
-      "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/profile/125723\">Fabian Musto</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Art_of_Edward_Elgar_at_Elgar%27s_Birthplace_Museum_Visitor_Centre_-_geograph.org.uk_-_5827921.jpg#P170\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png\" decoding=\"async\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+      "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/profile/125723\">Fabian Musto</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Art_of_Edward_Elgar_at_Elgar%27s_Birthplace_Museum_Visitor_Centre_-_geograph.org.uk_-_5827921.jpg#P170\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Art_of_Edward_Elgar_at_Elgar%27s_Birthplace_Museum_Visitor_Centre_-_geograph.org.uk_-_5827921.jpg/1280px-Art_of_Edward_Elgar_at_Elgar%27s_Birthplace_Museum_Visitor_Centre_-_geograph.org.uk_-_5827921.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Art_of_Edward_Elgar_at_Elgar%27s_Birthplace_Museum_Visitor_Centre_-_geograph.org.uk_-_5827921.jpg/1280px-Art_of_Edward_Elgar_at_Elgar%27s_Birthplace_Museum_Visitor_Centre_-_geograph.org.uk_-_5827921.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "bytes": 331756,
@@ -5295,17 +5276,17 @@
       "key": "列日|瓦隆皇家歌剧院",
       "asset": "images/poi/poi-178-195b3264d1.jpg",
       "status": "downloaded",
-      "sourceTitle": "Alpha profile 1500 in the Opéra Royal de Wallonie (01).JPG",
-      "sourcePage": "https://commons.wikimedia.org/wiki/File:Alpha_profile_1500_in_the_Op%C3%A9ra_Royal_de_Wallonie_(01).JPG",
+      "sourceTitle": "Alpha profile 1500 in the Opéra Royal de Wallonie (02).JPG",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Alpha_profile_1500_in_the_Op%C3%A9ra_Royal_de_Wallonie_(02).JPG",
       "searchUsed": false,
       "extract": "",
-      "filePage": "https://commons.wikimedia.org/wiki/File:Alpha_profile_1500_in_the_Op%C3%A9ra_Royal_de_Wallonie_(01).JPG",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Alpha_profile_1500_in_the_Op%C3%A9ra_Royal_de_Wallonie_(02).JPG",
       "license": "CC BY-SA 3.0",
       "usageTerms": "Creative Commons Attribution-Share Alike 3.0",
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:M0tty\" title=\"User:M0tty\">M0tty</a>",
-      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Alpha_profile_1500_in_the_Op%C3%A9ra_Royal_de_Wallonie_%2801%29.JPG/1280px-Alpha_profile_1500_in_the_Op%C3%A9ra_Royal_de_Wallonie_%2801%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Alpha_profile_1500_in_the_Op%C3%A9ra_Royal_de_Wallonie_%2801%29.JPG/1280px-Alpha_profile_1500_in_the_Op%C3%A9ra_Royal_de_Wallonie_%2801%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 442331,
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Alpha_profile_1500_in_the_Op%C3%A9ra_Royal_de_Wallonie_%2802%29.JPG/1280px-Alpha_profile_1500_in_the_Op%C3%A9ra_Royal_de_Wallonie_%2802%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Alpha_profile_1500_in_the_Op%C3%A9ra_Royal_de_Wallonie_%2802%29.JPG/1280px-Alpha_profile_1500_in_the_Op%C3%A9ra_Royal_de_Wallonie_%2802%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "bytes": 459584,
       "contentType": "image/jpeg"
     },
     {
@@ -5363,7 +5344,7 @@
       "artist": "<a href=\"https://en.wikipedia.org/wiki/User:Blehgoaway\" class=\"extiw\" title=\"en:User:Blehgoaway\">Blehgoaway</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Facade_of_the_Metropolitan_Opera_House_at_Lincoln_Center%2C_NYC.jpg/1280px-Facade_of_the_Metropolitan_Opera_House_at_Lincoln_Center%2C_NYC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Facade_of_the_Metropolitan_Opera_House_at_Lincoln_Center%2C_NYC.jpg/1280px-Facade_of_the_Metropolitan_Opera_House_at_Lincoln_Center%2C_NYC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 205328,
+      "bytes": 261220,
       "contentType": "image/jpeg"
     },
     {
@@ -5476,7 +5457,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:AramilFeraxa\" title=\"User:AramilFeraxa\">AramilFeraxa</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hollywood_sign_seen_from_Dolby_Theatre.jpg/1280px-Hollywood_sign_seen_from_Dolby_Theatre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hollywood_sign_seen_from_Dolby_Theatre.jpg/1280px-Hollywood_sign_seen_from_Dolby_Theatre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 247313,
+      "bytes": 187879,
       "contentType": "image/jpeg"
     },
     {
@@ -5490,22 +5471,22 @@
         42.36
       ],
       "img": "boston3",
-      "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://web.archive.org/web/20161113061119/http://www.panoramio.com/photo/48503048\">https://web.archive.org/web/20161113061119/http://www.panoramio.com/photo/48503048</a>",
+      "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
       "music": "",
       "key": "波士顿|三一教堂",
       "asset": "images/poi/poi-185-bc8cc0ca3f.jpg",
       "status": "downloaded",
-      "sourceTitle": "圣三一教堂 - panoramio.jpg",
-      "sourcePage": "https://commons.wikimedia.org/wiki/File:%E5%9C%A3%E4%B8%89%E4%B8%80%E6%95%99%E5%A0%82_-_panoramio.jpg",
+      "sourceTitle": "Trinity Church at Wall street (11).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Trinity_Church_at_Wall_street_(11).jpg",
       "searchUsed": false,
       "extract": "三一教堂（英語：Trinity Church）可以指：\n\n三一教堂 (纽约)\n三一教堂 (哥本哈根)\n三一教堂 (奧斯陸)\n三一教堂 (薩頓)\n鼓浪屿三一堂",
-      "filePage": "https://commons.wikimedia.org/wiki/File:%E5%9C%A3%E4%B8%89%E4%B8%80%E6%95%99%E5%A0%82_-_panoramio.jpg",
-      "license": "CC BY-SA 3.0",
-      "usageTerms": "Creative Commons Attribution-Share Alike 3.0",
-      "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20161113061118/http://www.panoramio.com/user/717254?with_photo_id=48503048\">山海风</a>",
-      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/%E5%9C%A3%E4%B8%89%E4%B8%80%E6%95%99%E5%A0%82_-_panoramio.jpg/1280px-%E5%9C%A3%E4%B8%89%E4%B8%80%E6%95%99%E5%A0%82_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/%E5%9C%A3%E4%B8%89%E4%B8%80%E6%95%99%E5%A0%82_-_panoramio.jpg/1280px-%E5%9C%A3%E4%B8%89%E4%B8%80%E6%95%99%E5%A0%82_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 393664,
+      "filePage": "https://commons.wikimedia.org/wiki/File:Trinity_Church_at_Wall_street_(11).jpg",
+      "license": "CC BY 4.0",
+      "usageTerms": "Creative Commons Attribution 4.0",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Ferfive\" title=\"User:Ferfive\">Ferfive</a>",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Trinity_Church_at_Wall_street_%2811%29.jpg/1280px-Trinity_Church_at_Wall_street_%2811%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Trinity_Church_at_Wall_street_%2811%29.jpg/1280px-Trinity_Church_at_Wall_street_%2811%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "bytes": 416475,
       "contentType": "image/jpeg"
     },
     {
@@ -5621,7 +5602,7 @@
       "artist": "",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Cortlandt_V.D._Hubbard%2C_Photographer_November_1967_HALLWAY_OUTSIDE_THEATRE_-_American_Academy_of_Music%2C_232-246_South_Broad_Street%2C_Philadelphia%2C_Philadelphia_County%2C_PA_HABS_PA%2C51-PHILA%2C294-8.tif/lossy-page1-1280px-thumbnail.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Cortlandt_V.D._Hubbard%2C_Photographer_November_1967_HALLWAY_OUTSIDE_THEATRE_-_American_Academy_of_Music%2C_232-246_South_Broad_Street%2C_Philadelphia%2C_Philadelphia_County%2C_PA_HABS_PA%2C51-PHILA%2C294-8.tif/lossy-page1-1280px-thumbnail.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 200027,
+      "bytes": 200079,
       "contentType": "image/jpeg"
     },
     {
@@ -5650,7 +5631,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Beyond_My_Ken\" class=\"mw-redirect\" title=\"User:Beyond My Ken\">Beyond My Ken</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/2013_Kimmel_Center_Spruce_Street_entrance.jpg/1280px-2013_Kimmel_Center_Spruce_Street_entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/2013_Kimmel_Center_Spruce_Street_entrance.jpg/1280px-2013_Kimmel_Center_Spruce_Street_entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 259268,
+      "bytes": 363684,
       "contentType": "image/jpeg"
     },
     {
@@ -5679,7 +5660,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Avi1111\" title=\"User:Avi1111\">Avi1111</a> dr. avishai teicher",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Memorial_plaque_on_Independence_Hall_%28Israel%29.JPG/1280px-Memorial_plaque_on_Independence_Hall_%28Israel%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Memorial_plaque_on_Independence_Hall_%28Israel%29.JPG/1280px-Memorial_plaque_on_Independence_Hall_%28Israel%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 455660,
+      "bytes": 481168,
       "contentType": "image/jpeg"
     },
     {
@@ -5708,7 +5689,7 @@
       "artist": "",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/The_1896_bronze_statue_of_onetime_president_Theodore_Dwight_Woolsey_before_the_entrance_of_Dwight_Hall%2C_the_former_college_library_used_as_a_volunteer_center_on_Yale_University%27s_Old_Campus%2C_New_Haven_LCCN2011634076.tif/lossy-page1-1280px-thumbnail.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/The_1896_bronze_statue_of_onetime_president_Theodore_Dwight_Woolsey_before_the_entrance_of_Dwight_Hall%2C_the_former_college_library_used_as_a_volunteer_center_on_Yale_University%27s_Old_Campus%2C_New_Haven_LCCN2011634076.tif/lossy-page1-1280px-thumbnail.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 332042,
+      "bytes": 960228,
       "contentType": "image/jpeg"
     },
     {
@@ -5766,7 +5747,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:DanielPenfield\" title=\"User:DanielPenfield\">DanielPenfield</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/YaleSchoolOfMusicSpragueMemorialHallPlaque.jpg/1280px-YaleSchoolOfMusicSpragueMemorialHallPlaque.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/YaleSchoolOfMusicSpragueMemorialHallPlaque.jpg/1280px-YaleSchoolOfMusicSpragueMemorialHallPlaque.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 89470,
+      "bytes": 338202,
       "contentType": "image/jpeg"
     },
     {
@@ -5795,7 +5776,7 @@
       "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/16073996@N00\">Christopher Lancaster</a> from Oshawa, Canada",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/PittStephenFosterMemorial_front.jpg/1280px-PittStephenFosterMemorial_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/PittStephenFosterMemorial_front.jpg/1280px-PittStephenFosterMemorial_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 309074,
+      "bytes": 295518,
       "contentType": "image/jpeg"
     },
     {
@@ -5890,7 +5871,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Diliff\" title=\"User:Diliff\">Diliff</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Library_of_Congress_Great_Hall_-_Jan_2006.jpg/1280px-Library_of_Congress_Great_Hall_-_Jan_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Library_of_Congress_Great_Hall_-_Jan_2006.jpg/1280px-Library_of_Congress_Great_Hall_-_Jan_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 270111,
+      "bytes": 556596,
       "contentType": "image/jpeg"
     },
     {
@@ -5928,7 +5909,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:%E9%A2%90%E5%9B%AD%E5%B1%85\" title=\"User:颐园居\">颐园居</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Cannon_House_Office_Building_20240601.jpg/1280px-Cannon_House_Office_Building_20240601.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Cannon_House_Office_Building_20240601.jpg/1280px-Cannon_House_Office_Building_20240601.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 207158,
+      "bytes": 411814,
       "contentType": "image/jpeg"
     },
     {
@@ -6074,7 +6055,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:George_E._Koronaios\" title=\"User:George E. Koronaios\">George E. Koronaios</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/At_the_Theatre_of_Dionysus_in_Athens.jpg/1280px-At_the_Theatre_of_Dionysus_in_Athens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/At_the_Theatre_of_Dionysus_in_Athens.jpg/1280px-At_the_Theatre_of_Dionysus_in_Athens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 496969,
+      "bytes": 436125,
       "contentType": "image/jpeg"
     },
     {
@@ -6163,7 +6144,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Yair-haklai\" title=\"User:Yair-haklai\">Yair Haklai</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sistine_Chapel-St._Peter%27s_Basilica_Dome.jpg/1280px-Sistine_Chapel-St._Peter%27s_Basilica_Dome.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sistine_Chapel-St._Peter%27s_Basilica_Dome.jpg/1280px-Sistine_Chapel-St._Peter%27s_Basilica_Dome.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 384410,
+      "bytes": 580284,
       "contentType": "image/jpeg"
     },
     {
@@ -6192,7 +6173,7 @@
       "artist": "Jimmy Baikovicius",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Teatro_Col%C3%B3n_-_Columbus_Theatre_-_Buenos_Aires_-_Argentina.jpg/1280px-Teatro_Col%C3%B3n_-_Columbus_Theatre_-_Buenos_Aires_-_Argentina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Teatro_Col%C3%B3n_-_Columbus_Theatre_-_Buenos_Aires_-_Argentina.jpg/1280px-Teatro_Col%C3%B3n_-_Columbus_Theatre_-_Buenos_Aires_-_Argentina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 256080,
+      "bytes": 364824,
       "contentType": "image/jpeg"
     },
     {
@@ -6209,8 +6190,8 @@
       "credit": "it.wiki; the image was loaded by the author under GFDL and it was originally uploaded under the name <i>Certosa_di_Pavia_1.jpg</i>; note: I corrected the rotation (1,1°)",
       "music": "",
       "key": "帕维亚|帕维亚修道院",
-      "asset": null,
-      "status": "no-suitable-image",
+      "asset": "images/poi/poi-209-190a43281b.jpg",
+      "status": "downloaded",
       "sourceTitle": "Certosa di Pavia (facciata).jpg",
       "sourcePage": "https://commons.wikimedia.org/wiki/File:Certosa_di_Pavia_(facciata).jpg",
       "searchUsed": false,
@@ -6220,12 +6201,10 @@
       "usageTerms": "Creative Commons Attribution-Share Alike 3.0",
       "artist": "<a href=\"https://it.wikipedia.org/wiki/User:Luigino\" class=\"extiw\" title=\"it:User:Luigino\">Luigino C.</a>",
       "imageOverride": "Certosa di Pavia (facciata).jpg",
-      "rejectedImage": {
-        "sourceTitle": "Certosa di Pavia (facciata).jpg",
-        "imageSource": "https://upload.wikimedia.org/wikipedia/commons/7/75/Certosa_di_Pavia_%28facciata%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "reason": "not a suitable real-world landmark photo"
-      },
-      "imageSource": ""
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/7/75/Certosa_di_Pavia_%28facciata%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/7/75/Certosa_di_Pavia_%28facciata%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "bytes": 207241,
+      "contentType": "image/jpeg"
     },
     {
       "index": 210,
@@ -6276,23 +6255,18 @@
       "key": "帕维亚|帕维亚大学",
       "asset": "images/poi/poi-211-66e0945ef8.jpg",
       "status": "downloaded",
-      "sourceTitle": "Aula magna-University-Pavia-Italy.jpg",
-      "sourcePage": "https://commons.wikimedia.org/wiki/File:Aula_magna-University-Pavia-Italy.jpg",
+      "sourceTitle": "Palazzo centrale Università di Pavia.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Palazzo_centrale_Universit%C3%A0_di_Pavia.jpg",
       "searchUsed": false,
       "extract": "帕维亚大学（義大利語：Università degli Studi di Pavia，縮寫UNIPV）是意大利伦巴第大区大区帕维亚市的一所研究型大学，成立于1361年，在近代以前都是倫巴底地區的學術中心。知名校友包括電池發明者伏特、三位諾貝爾獎得主，以及多位教宗。",
-      "filePage": "https://commons.wikimedia.org/wiki/File:Aula_magna-University-Pavia-Italy.jpg",
-      "license": "CC BY-SA 3.0",
-      "usageTerms": "Creative Commons Attribution-Share Alike 3.0",
-      "artist": "<a href=\"https://it.wikipedia.org/wiki/User:Ggonnell\" class=\"extiw\" title=\"it:User:Ggonnell\">Giorgio Gonnella</a>",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Palazzo_centrale_Universit%C3%A0_di_Pavia.jpg",
+      "license": "CC BY-SA 4.0",
+      "usageTerms": "Creative Commons Attribution-Share Alike 4.0",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:F125d\" title=\"User:F125d\">F125d</a>",
       "imageOverride": "Palazzo centrale Università di Pavia.jpg",
-      "rejectedImage": {
-        "sourceTitle": "Palazzo centrale Università di Pavia.jpg",
-        "imageSource": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Palazzo_centrale_Universit%C3%A0_di_Pavia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "reason": "not a suitable real-world landmark photo"
-      },
-      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Aula_magna-University-Pavia-Italy.jpg/1280px-Aula_magna-University-Pavia-Italy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Aula_magna-University-Pavia-Italy.jpg/1280px-Aula_magna-University-Pavia-Italy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 334058,
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Palazzo_centrale_Universit%C3%A0_di_Pavia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Palazzo_centrale_Universit%C3%A0_di_Pavia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "bytes": 88880,
       "contentType": "image/jpeg"
     },
     {
@@ -6343,7 +6317,7 @@
       "artist": "",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Bingen_-_Scivias%2C_ou_Les_trois_livres_des_visions_et_r%C3%A9v%C3%A9lations%2C_tome_2%2C_1909_%28page_4_Ste_Hildegarde%29.jpg/1280px-Bingen_-_Scivias%2C_ou_Les_trois_livres_des_visions_et_r%C3%A9v%C3%A9lations%2C_tome_2%2C_1909_%28page_4_Ste_Hildegarde%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Bingen_-_Scivias%2C_ou_Les_trois_livres_des_visions_et_r%C3%A9v%C3%A9lations%2C_tome_2%2C_1909_%28page_4_Ste_Hildegarde%29.jpg/1280px-Bingen_-_Scivias%2C_ou_Les_trois_livres_des_visions_et_r%C3%A9v%C3%A9lations%2C_tome_2%2C_1909_%28page_4_Ste_Hildegarde%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 1216302,
+      "bytes": 906946,
       "contentType": "image/jpeg"
     },
     {
@@ -6405,7 +6379,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Thomon\" title=\"User:Thomon\">Thomon</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Nord_Sainte_Chapelle_Statue.jpg/1280px-Nord_Sainte_Chapelle_Statue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Nord_Sainte_Chapelle_Statue.jpg/1280px-Nord_Sainte_Chapelle_Statue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 394963,
+      "bytes": 742567,
       "contentType": "image/jpeg"
     },
     {
@@ -6500,7 +6474,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Palickap&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Palickap (page does not exist)\">Palickap</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Parma%2C_Palazzo_della_Pilotta_e_monumento.jpg/1280px-Parma%2C_Palazzo_della_Pilotta_e_monumento.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Parma%2C_Palazzo_della_Pilotta_e_monumento.jpg/1280px-Parma%2C_Palazzo_della_Pilotta_e_monumento.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 457960,
+      "bytes": 409771,
       "contentType": "image/jpeg"
     },
     {
@@ -6529,7 +6503,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Gzen92\" title=\"User:Gzen92\">Gzen92</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Cath%C3%A9drale_Santa_Maria_del_Fiore_%28Florence%29.jpg/1280px-Cath%C3%A9drale_Santa_Maria_del_Fiore_%28Florence%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Cath%C3%A9drale_Santa_Maria_del_Fiore_%28Florence%29.jpg/1280px-Cath%C3%A9drale_Santa_Maria_del_Fiore_%28Florence%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 1085502,
+      "bytes": 766691,
       "contentType": "image/jpeg"
     },
     {
@@ -6602,7 +6576,7 @@
       "sourceTitle": "聖馬爾谷聖殿宗主教座堂",
       "sourcePage": "https://zh.wikipedia.org/wiki/%E8%81%96%E9%A6%AC%E7%88%BE%E8%B0%B7%E8%81%96%E6%AE%BF%E5%AE%97%E4%B8%BB%E6%95%99%E5%BA%A7%E5%A0%82",
       "searchUsed": false,
-      "extract": "聖馬爾谷聖殿宗主教座堂（義大利語：Basilica Cattedrale Patriarcale di San Marco）是位於義大利威尼斯的天主教宗座圣殿，座落在聖馬可廣場東面，與總督宮相連。最初它是威尼斯公爵的專用教堂，1807起它成為天主教威尼斯宗主教區的主教座堂，同時是威尼斯宗主教駐地。其為拜占庭式建築的著名代表，有「金色聖堂」（Chiesa d'Oro）的美譽。\n\n",
+      "extract": "聖馬爾谷聖殿宗主教座堂（義大利語：Basilica Cattedrale Patriarcale di San Marco）是位於義大利威尼斯的天主教宗座圣殿，座落在聖馬可廣場東面，與總督宮相連。最初它是威尼斯公爵的專用教堂，1807起它成為天主教威尼斯宗主教區的主教座堂，同時是威尼斯宗主教駐地。其為拜占庭式建築的著名代表，有「金色聖堂」（Chiesa d'Oro）的美譽。",
       "coordinates": {
         "lat": 45.4345,
         "lon": 12.3396
@@ -6643,7 +6617,7 @@
       "imageOverride": "Teatro La Fenice (Venice) - Facade.jpg",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Teatro_La_Fenice_%28Venice%29_-_Facade.jpg/1280px-Teatro_La_Fenice_%28Venice%29_-_Facade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Teatro_La_Fenice_%28Venice%29_-_Facade.jpg/1280px-Teatro_La_Fenice_%28Venice%29_-_Facade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 279174,
+      "bytes": 460131,
       "contentType": "image/jpeg"
     },
     {
@@ -6716,7 +6690,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Massimo_Tel%C3%B2\" class=\"mw-redirect\" title=\"User:Massimo Telò\">Massimo Telò</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Mantova-Teatro_Bibiena.jpg/1280px-Mantova-Teatro_Bibiena.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Mantova-Teatro_Bibiena.jpg/1280px-Mantova-Teatro_Bibiena.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 124933,
+      "bytes": 223945,
       "contentType": "image/jpeg"
     },
     {
@@ -6774,7 +6748,7 @@
       "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/146832554@N06\">Pom Angers</a> from Angers, France, EU",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Cremona%2C_Museo_del_Violino_%2824461889017%29.jpg/1280px-Cremona%2C_Museo_del_Violino_%2824461889017%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Cremona%2C_Museo_del_Violino_%2824461889017%29.jpg/1280px-Cremona%2C_Museo_del_Violino_%2824461889017%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 282192,
+      "bytes": 347321,
       "contentType": "image/jpeg"
     },
     {
@@ -6895,7 +6869,7 @@
       "sourceTitle": "那不勒斯主教座堂",
       "sourcePage": "https://zh.wikipedia.org/wiki/%E9%82%A3%E4%B8%8D%E5%8B%92%E6%96%AF%E4%B8%BB%E6%95%99%E5%BA%A7%E5%A0%82",
       "searchUsed": false,
-      "extract": "那不勒斯主教座堂是意大利南部城市那不勒斯最重要的教堂，天主教那不勒斯总教区的主教座堂，奉献给该市的主保圣人圣雅纳略。该教堂保存圣雅纳略的血液，每年5月的第一个星期六和9月19日举行“圣雅纳略（该市主保圣人）的奇迹”，据说圣雅纳略凝结变干的血液又变成了液体。\n這座教堂是由國王那不勒斯的查理一世下令開始修建的，其繼任者那不勒斯的查理二世(1285-1309) 繼續教堂的建造，直到14世紀初那不勒斯的羅伯特統治時期才得以完成。它建築在兩座古基督教的長方形大教堂的地基上，這些地基的痕跡現在仍然清晰可見。在教堂的下面，曾經挖掘出希臘和羅馬的藝術品。",
+      "extract": "那不勒斯主教座堂是意大利南部城市那不勒斯最重要的教堂，天主教那不勒斯总教区的主教座堂，奉献给该市的主保圣人圣雅纳略。该教堂保存圣雅纳略的血液，每年5月的第一个星期六和9月19日举行“圣雅纳略（该市主保圣人）的奇迹”，据说圣雅纳略凝结变干的血液又变成了液体。\n這座教堂是由國王那不勒斯的查理一世下令開始修建的，其繼任者那不勒斯的查理二世(1285-1309) 繼續教堂的建造，直到14世紀初那不勒斯的羅伯特統治時期才得以完成。它建築在兩座古基督教的長方形大教堂的地基上，這些地基的痕跡現在仍然清晰可見。在教堂的下面，曾經挖掘出希臘和羅馬的藝術品。\n\n",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Facciata_Duomo_di_Napoli_-_BW_2013-05-16.jpg/1280px-Facciata_Duomo_di_Napoli_-_BW_2013-05-16.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Facciata_Duomo_di_Napoli_-_BW_2013-05-16.jpg/1280px-Facciata_Duomo_di_Napoli_-_BW_2013-05-16.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bytes": 416079,
@@ -6931,7 +6905,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Ermell\" title=\"User:Ermell\">Ermell</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/London_Royal_Albert_Hall-20130715-RM-122441.jpg/1280px-London_Royal_Albert_Hall-20130715-RM-122441.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/London_Royal_Albert_Hall-20130715-RM-122441.jpg/1280px-London_Royal_Albert_Hall-20130715-RM-122441.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 221318,
+      "bytes": 420545,
       "contentType": "image/jpeg"
     },
     {
@@ -7219,7 +7193,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Bachhaus.eisenach&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Bachhaus.eisenach (page does not exist)\">Bachhaus.eisenach</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/3_Eroeffnung_Bachhaus_Eisenach_1907.jpg/1280px-3_Eroeffnung_Bachhaus_Eisenach_1907.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/3_Eroeffnung_Bachhaus_Eisenach_1907.jpg/1280px-3_Eroeffnung_Bachhaus_Eisenach_1907.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 588234,
+      "bytes": 393767,
       "contentType": "image/jpeg"
     },
     {
@@ -7248,7 +7222,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:%E4%B8%89%E7%8C%8E\" title=\"User:三猎\">三猎</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/%E6%A0%BC%E6%8B%89%E7%89%B9%E4%BF%AE%E9%81%93%E9%99%A2%E5%9C%A3%E4%B9%94%E6%B2%BB%E6%95%99%E5%A0%82.jpg/1280px-%E6%A0%BC%E6%8B%89%E7%89%B9%E4%BF%AE%E9%81%93%E9%99%A2%E5%9C%A3%E4%B9%94%E6%B2%BB%E6%95%99%E5%A0%82.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/%E6%A0%BC%E6%8B%89%E7%89%B9%E4%BF%AE%E9%81%93%E9%99%A2%E5%9C%A3%E4%B9%94%E6%B2%BB%E6%95%99%E5%A0%82.jpg/1280px-%E6%A0%BC%E6%8B%89%E7%89%B9%E4%BF%AE%E9%81%93%E9%99%A2%E5%9C%A3%E4%B9%94%E6%B2%BB%E6%95%99%E5%A0%82.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 336702,
+      "bytes": 701634,
       "contentType": "image/jpeg"
     },
     {
@@ -7310,7 +7284,7 @@
       "artist": "<bdi><a href=\"https://www.wikidata.org/wiki/Q28598952\" class=\"extiw\" title=\"d:Q28598952\"><span title=\"German architect and photographer\">Jörg Blobelt</span></a></bdi>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/20070812100DR_Dresden_Gewandhaus_mit_Dinglingerbrunnen.jpg/1280px-20070812100DR_Dresden_Gewandhaus_mit_Dinglingerbrunnen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/20070812100DR_Dresden_Gewandhaus_mit_Dinglingerbrunnen.jpg/1280px-20070812100DR_Dresden_Gewandhaus_mit_Dinglingerbrunnen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 419146,
+      "bytes": 358154,
       "contentType": "image/jpeg"
     },
     {
@@ -7370,7 +7344,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Lewis_Hulbert\" title=\"User:Lewis Hulbert\">Lewis Hulbert</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Church_of_Our_Lady_of_Peace%2C_Newbridge_front.JPG/1280px-Church_of_Our_Lady_of_Peace%2C_Newbridge_front.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Church_of_Our_Lady_of_Peace%2C_Newbridge_front.JPG/1280px-Church_of_Our_Lady_of_Peace%2C_Newbridge_front.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 347041,
+      "bytes": 261086,
       "contentType": "image/jpeg"
     },
     {
@@ -7523,7 +7497,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Auongkinghe\" title=\"User:Auongkinghe\">Auongkinghe</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/%E5%9C%A3%E7%B1%B3%E8%BF%A6%E5%8B%92%E6%95%99%E5%A0%82_20250622.jpg/1280px-%E5%9C%A3%E7%B1%B3%E8%BF%A6%E5%8B%92%E6%95%99%E5%A0%82_20250622.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/%E5%9C%A3%E7%B1%B3%E8%BF%A6%E5%8B%92%E6%95%99%E5%A0%82_20250622.jpg/1280px-%E5%9C%A3%E7%B1%B3%E8%BF%A6%E5%8B%92%E6%95%99%E5%A0%82_20250622.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 501367,
+      "bytes": 492007,
       "contentType": "image/jpeg"
     },
     {
@@ -7552,7 +7526,7 @@
       "artist": "W. Höffert (Firm : Dresden, Germany)",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/0/00/Fraulein_Malten_as_%22Brunhilde%22_Breslau_Opera_House_1887_-_DPLA_-_221b6086fac84458a9bb2759d9843b34_%28page_1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/0/00/Fraulein_Malten_as_%22Brunhilde%22_Breslau_Opera_House_1887_-_DPLA_-_221b6086fac84458a9bb2759d9843b34_%28page_1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "bytes": 306035,
+      "bytes": 64478,
       "contentType": "image/jpeg"
     },
     {
@@ -7581,7 +7555,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:AuHaidhausen\" title=\"User:AuHaidhausen\">AuHaidhausen</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Bell_tower_of_the_Dom_zu_Unserer_Lieben_Frau.jpg/1280px-Bell_tower_of_the_Dom_zu_Unserer_Lieben_Frau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Bell_tower_of_the_Dom_zu_Unserer_Lieben_Frau.jpg/1280px-Bell_tower_of_the_Dom_zu_Unserer_Lieben_Frau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 347041,
+      "bytes": 662811,
       "contentType": "image/jpeg"
     },
     {
@@ -7610,7 +7584,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Dr._Chriss\" title=\"User:Dr. Chriss\">Christian Wolf</a> (<a rel=\"nofollow\" class=\"external text\" href=\"http://www.c-w-design.de\">www.c-w-design.de</a>)",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Holstentor_in_L%C3%BCbeck_Frontseite.jpg/1280px-Holstentor_in_L%C3%BCbeck_Frontseite.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Holstentor_in_L%C3%BCbeck_Frontseite.jpg/1280px-Holstentor_in_L%C3%BCbeck_Frontseite.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 303993,
+      "bytes": 391526,
       "contentType": "image/jpeg"
     },
     {
@@ -7672,7 +7646,7 @@
       "artist": "",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Beethoven_house.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Beethoven_house.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "bytes": 570002,
+      "bytes": 432390,
       "contentType": "image/jpeg"
     },
     {
@@ -7734,7 +7708,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Hasenl%C3%A4ufer\" title=\"User:Hasenläufer\">Eckhard Henkel</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/2013-09-02_Beethoven-Denkmal_n%C3%B6rdlich_des_Restaurants_Rheinaue%2C_Ludwig-Erhard-Allee_20%2C_Bonn-Hochkreuz_IMG_0878.jpg/1280px-2013-09-02_Beethoven-Denkmal_n%C3%B6rdlich_des_Restaurants_Rheinaue%2C_Ludwig-Erhard-Allee_20%2C_Bonn-Hochkreuz_IMG_0878.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/2013-09-02_Beethoven-Denkmal_n%C3%B6rdlich_des_Restaurants_Rheinaue%2C_Ludwig-Erhard-Allee_20%2C_Bonn-Hochkreuz_IMG_0878.jpg/1280px-2013-09-02_Beethoven-Denkmal_n%C3%B6rdlich_des_Restaurants_Rheinaue%2C_Ludwig-Erhard-Allee_20%2C_Bonn-Hochkreuz_IMG_0878.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 578389,
+      "bytes": 689581,
       "contentType": "image/jpeg"
     },
     {
@@ -7763,7 +7737,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Lucas_Friese\" title=\"User:Lucas Friese\">Lucas Friese</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Deutsches_Nationaltheater_Weimar.jpg/1280px-Deutsches_Nationaltheater_Weimar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Deutsches_Nationaltheater_Weimar.jpg/1280px-Deutsches_Nationaltheater_Weimar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 42759,
+      "bytes": 284112,
       "contentType": "image/jpeg"
     },
     {
@@ -7927,7 +7901,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Luc.\" title=\"User:Luc.\">Luc.</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Cuvillies_Theater_Muenchen.jpg/1280px-Cuvillies_Theater_Muenchen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Cuvillies_Theater_Muenchen.jpg/1280px-Cuvillies_Theater_Muenchen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 385226,
+      "bytes": 296190,
       "contentType": "image/jpeg"
     },
     {
@@ -7985,7 +7959,7 @@
       "artist": "",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/2/22/Estates_Theatre%2C_Prague.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/2/22/Estates_Theatre%2C_Prague.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "bytes": 193314,
+      "bytes": 141851,
       "contentType": "image/jpeg"
     },
     {
@@ -8014,7 +7988,7 @@
       "artist": "Unknown author<span style=\"display: none;\">Unknown author</span>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/4/43/Divotvorn%C3%BD_klobouk_%28National_Theatre_in_Prague%2C_1918%2C_Sv%C4%9Btozor%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/4/43/Divotvorn%C3%BD_klobouk_%28National_Theatre_in_Prague%2C_1918%2C_Sv%C4%9Btozor%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "bytes": 697811,
+      "bytes": 1152245,
       "contentType": "image/png"
     },
     {
@@ -8076,7 +8050,7 @@
       "artist": "DIMSFIKAS",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Chopin_Monument%2C_Warsaw_-_2010.JPG/1280px-Chopin_Monument%2C_Warsaw_-_2010.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Chopin_Monument%2C_Warsaw_-_2010.JPG/1280px-Chopin_Monument%2C_Warsaw_-_2010.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 532874,
+      "bytes": 533008,
       "contentType": "image/jpeg"
     },
     {
@@ -8105,7 +8079,7 @@
       "artist": "Unknown author<span style=\"display: none;\">Unknown author</span>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Warsaw_Philharmonic_-_southern_facade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Warsaw_Philharmonic_-_southern_facade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "bytes": 393654,
+      "bytes": 49471,
       "contentType": "image/jpeg"
     },
     {
@@ -8156,7 +8130,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Александров (page does not exist)\">Александров</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/St._Petersburg._Imperial_Conservatory._Theatre_Square.%2C_3..JPG/1280px-St._Petersburg._Imperial_Conservatory._Theatre_Square.%2C_3..JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/St._Petersburg._Imperial_Conservatory._Theatre_Square.%2C_3..JPG/1280px-St._Petersburg._Imperial_Conservatory._Theatre_Square.%2C_3..JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 153965,
+      "bytes": 235011,
       "contentType": "image/jpeg"
     },
     {
@@ -8417,17 +8391,17 @@
       "key": "马德里|皇家剧院",
       "asset": "images/poi/poi-284-8a1b50e15f.jpg",
       "status": "downloaded",
-      "sourceTitle": "Theatre Royal, Hope Street, Glasgow.jpg",
-      "sourcePage": "https://commons.wikimedia.org/wiki/File:Theatre_Royal,_Hope_Street,_Glasgow.jpg",
+      "sourceTitle": "Theatre Royal, Newcastle (01).JPG",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Theatre_Royal,_Newcastle_(01).JPG",
       "searchUsed": false,
       "extract": "",
-      "filePage": "https://commons.wikimedia.org/wiki/File:Theatre_Royal,_Hope_Street,_Glasgow.jpg",
-      "license": "CC BY-SA 4.0",
-      "usageTerms": "Creative Commons Attribution-Share Alike 4.0",
-      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Stinglehammer\" title=\"User:Stinglehammer\">Stinglehammer</a>",
-      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Theatre_Royal%2C_Hope_Street%2C_Glasgow.jpg/1280px-Theatre_Royal%2C_Hope_Street%2C_Glasgow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Theatre_Royal%2C_Hope_Street%2C_Glasgow.jpg/1280px-Theatre_Royal%2C_Hope_Street%2C_Glasgow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 269906,
+      "filePage": "https://commons.wikimedia.org/wiki/File:Theatre_Royal,_Newcastle_(01).JPG",
+      "license": "CC BY-SA 3.0",
+      "usageTerms": "Creative Commons Attribution-Share Alike 3.0",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:HJ_Mitchell\" title=\"User:HJ Mitchell\">Harry Mitchell</a>",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Theatre_Royal%2C_Newcastle_%2801%29.JPG/1280px-Theatre_Royal%2C_Newcastle_%2801%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Theatre_Royal%2C_Newcastle_%2801%29.JPG/1280px-Theatre_Royal%2C_Newcastle_%2801%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "bytes": 345005,
       "contentType": "image/jpeg"
     },
     {
@@ -8456,7 +8430,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Nerve_net\" title=\"User:Nerve net\">Javier Perez Montes</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Teatro_de_la_Zarzuela_-_Exterior_-_Madrid_02.jpg/1280px-Teatro_de_la_Zarzuela_-_Exterior_-_Madrid_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Teatro_de_la_Zarzuela_-_Exterior_-_Madrid_02.jpg/1280px-Teatro_de_la_Zarzuela_-_Exterior_-_Madrid_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 416587,
+      "bytes": 317165,
       "contentType": "image/jpeg"
     },
     {
@@ -8507,7 +8481,7 @@
       "artist": "Andreas Sandberg",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Troldhaugen_in_Bergen.jpg/1280px-Troldhaugen_in_Bergen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Troldhaugen_in_Bergen.jpg/1280px-Troldhaugen_in_Bergen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 399285,
+      "bytes": 557391,
       "contentType": "image/jpeg"
     },
     {
@@ -8536,7 +8510,7 @@
       "artist": "<span typeof=\"mw:File\"><span><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Pictogram-voting_question.svg/20px-Pictogram-voting_question.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"15\" height=\"15\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Pictogram-voting_question.svg/40px-Pictogram-voting_question.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"250\" data-file-height=\"250\"></span></span>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/BERGEN_Norway_Lille_Lungeg%C3%A5rdsvannet_KODE_Art_Museum_Kunsthall_Grieghallen_Foreningsgaten_Nyg%C3%A5rdsg._etc_View_from_Mount_Floyen_2019-08-28_by_Forbes_Johnston_Flickr_Some_rights_reserved.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/BERGEN_Norway_Lille_Lungeg%C3%A5rdsvannet_KODE_Art_Museum_Kunsthall_Grieghallen_Foreningsgaten_Nyg%C3%A5rdsg._etc_View_from_Mount_Floyen_2019-08-28_by_Forbes_Johnston_Flickr_Some_rights_reserved.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 231033,
+      "bytes": 569284,
       "contentType": "image/jpeg"
     },
     {
@@ -8565,7 +8539,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Oraalb&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Oraalb (page does not exist)\">Odd Roar Aalborg</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Bryggen_i_Bergen_-_Bredsg%C3%A5rden.jpg/1280px-Bryggen_i_Bergen_-_Bredsg%C3%A5rden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Bryggen_i_Bergen_-_Bredsg%C3%A5rden.jpg/1280px-Bryggen_i_Bergen_-_Bredsg%C3%A5rden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 304463,
+      "bytes": 459381,
       "contentType": "image/jpeg"
     },
     {
@@ -8656,7 +8630,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Iotatau\" title=\"User:Iotatau\">Jochen Teufel</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Blick_vom_Z%C3%BCrichsee_auf_Quaibr%C3%BCcke_und_Grossm%C3%BCnster_%282009%29.jpg/1280px-Blick_vom_Z%C3%BCrichsee_auf_Quaibr%C3%BCcke_und_Grossm%C3%BCnster_%282009%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Blick_vom_Z%C3%BCrichsee_auf_Quaibr%C3%BCcke_und_Grossm%C3%BCnster_%282009%29.jpg/1280px-Blick_vom_Z%C3%BCrichsee_auf_Quaibr%C3%BCcke_und_Grossm%C3%BCnster_%282009%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 487038,
+      "bytes": 266910,
       "contentType": "image/jpeg"
     },
     {
@@ -8849,7 +8823,7 @@
       "artist": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/145566495@N06\">rv jako</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Aubrey_Logan_of_Postmodern_Jukebox_on_trombone_at_La_Halle_aux_Grains%2C_Toulouse%2C_2017-04-2.jpg/1280px-Aubrey_Logan_of_Postmodern_Jukebox_on_trombone_at_La_Halle_aux_Grains%2C_Toulouse%2C_2017-04-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Aubrey_Logan_of_Postmodern_Jukebox_on_trombone_at_La_Halle_aux_Grains%2C_Toulouse%2C_2017-04-2.jpg/1280px-Aubrey_Logan_of_Postmodern_Jukebox_on_trombone_at_La_Halle_aux_Grains%2C_Toulouse%2C_2017-04-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 319867,
+      "bytes": 212641,
       "contentType": "image/jpeg"
     },
     {
@@ -8974,7 +8948,7 @@
       "imageOverride": "Bologna - Facciata esterna Basilica di San Petronio - 202109220957.jpg",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bologna_-_Facciata_esterna_Basilica_di_San_Petronio_-_202109220957.jpg/1280px-Bologna_-_Facciata_esterna_Basilica_di_San_Petronio_-_202109220957.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bologna_-_Facciata_esterna_Basilica_di_San_Petronio_-_202109220957.jpg/1280px-Bologna_-_Facciata_esterna_Basilica_di_San_Petronio_-_202109220957.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 376493,
+      "bytes": 583525,
       "contentType": "image/jpeg"
     },
     {
@@ -9167,7 +9141,7 @@
       "artist": "<bdi><a href=\"https://www.wikidata.org/wiki/Q108103612\" class=\"extiw\" title=\"d:Q108103612\"><span title=\"Wikipedian and OpenStreetMap mapper from Cologne, Open Data activist\">Raimond Spekking</span></a></bdi>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/50_Jahre_H%C3%B6hner_-_Filmvorstellung_im_WDR-Funkhaus-7030.jpg/1280px-50_Jahre_H%C3%B6hner_-_Filmvorstellung_im_WDR-Funkhaus-7030.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/50_Jahre_H%C3%B6hner_-_Filmvorstellung_im_WDR-Funkhaus-7030.jpg/1280px-50_Jahre_H%C3%B6hner_-_Filmvorstellung_im_WDR-Funkhaus-7030.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 230847,
+      "bytes": 231240,
       "contentType": "image/jpeg"
     },
     {
@@ -9205,7 +9179,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Tcjames.yu\" title=\"User:Tcjames.yu\">Tcjames.yu</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/%E7%A7%91%E9%9A%86%E5%A4%A7%E6%95%99%E5%A0%82-%E5%A4%A7%E9%8D%BE.jpg/1280px-%E7%A7%91%E9%9A%86%E5%A4%A7%E6%95%99%E5%A0%82-%E5%A4%A7%E9%8D%BE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/%E7%A7%91%E9%9A%86%E5%A4%A7%E6%95%99%E5%A0%82-%E5%A4%A7%E9%8D%BE.jpg/1280px-%E7%A7%91%E9%9A%86%E5%A4%A7%E6%95%99%E5%A0%82-%E5%A4%A7%E9%8D%BE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 877433,
+      "bytes": 211765,
       "contentType": "image/jpeg"
     },
     {
@@ -9234,7 +9208,7 @@
       "artist": "<bdi><a href=\"https://www.wikidata.org/wiki/Q108103612\" class=\"extiw\" title=\"d:Q108103612\"><span title=\"Wikipedian and OpenStreetMap mapper from Cologne, Open Data activist\">Raimond Spekking</span></a></bdi>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Philharmonie_K%C3%B6ln_und_Museum_Ludwig_-_Winternacht_mit_Schnee_%289422-24%29.jpg/1280px-Philharmonie_K%C3%B6ln_und_Museum_Ludwig_-_Winternacht_mit_Schnee_%289422-24%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Philharmonie_K%C3%B6ln_und_Museum_Ludwig_-_Winternacht_mit_Schnee_%289422-24%29.jpg/1280px-Philharmonie_K%C3%B6ln_und_Museum_Ludwig_-_Winternacht_mit_Schnee_%289422-24%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 190483,
+      "bytes": 336484,
       "contentType": "image/jpeg"
     },
     {
@@ -9285,7 +9259,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Kgbo\" title=\"User:Kgbo\">Kgbo</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Bracka_Street%2C_Exterior_of_Church_of_St._Francis_in_Krak%C3%B3w%2C_2022.jpg/1280px-Bracka_Street%2C_Exterior_of_Church_of_St._Francis_in_Krak%C3%B3w%2C_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Bracka_Street%2C_Exterior_of_Church_of_St._Francis_in_Krak%C3%B3w%2C_2022.jpg/1280px-Bracka_Street%2C_Exterior_of_Church_of_St._Francis_in_Krak%C3%B3w%2C_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 451750,
+      "bytes": 671971,
       "contentType": "image/jpeg"
     },
     {
@@ -9347,7 +9321,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Zairon\" title=\"User:Zairon\">Zairon</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Arezzo_Cattedrale_dei_Santi_Donato_e_Pietro_Interno_Navata_Monumento_a_Guido_Tarlati_1.jpg/1280px-Arezzo_Cattedrale_dei_Santi_Donato_e_Pietro_Interno_Navata_Monumento_a_Guido_Tarlati_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Arezzo_Cattedrale_dei_Santi_Donato_e_Pietro_Interno_Navata_Monumento_a_Guido_Tarlati_1.jpg/1280px-Arezzo_Cattedrale_dei_Santi_Donato_e_Pietro_Interno_Navata_Monumento_a_Guido_Tarlati_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 1017498,
+      "bytes": 563488,
       "contentType": "image/jpeg"
     },
     {
@@ -9427,7 +9401,7 @@
       "artist": "Tony Grist",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Church_of_St._Nicholas%2C_Ghent.jpg/1280px-Church_of_St._Nicholas%2C_Ghent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Church_of_St._Nicholas%2C_Ghent.jpg/1280px-Church_of_St._Nicholas%2C_Ghent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 391446,
+      "bytes": 294969,
       "contentType": "image/jpeg"
     },
     {
@@ -9456,7 +9430,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Artyl\" title=\"User:Artyl\">Philipp Guttmann</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Sebalduskirche_Nuernberg_Nordfassade_St._Sebaldus_Church_Nuremberg_northern_facade.jpg/1280px-Sebalduskirche_Nuernberg_Nordfassade_St._Sebaldus_Church_Nuremberg_northern_facade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Sebalduskirche_Nuernberg_Nordfassade_St._Sebaldus_Church_Nuremberg_northern_facade.jpg/1280px-Sebalduskirche_Nuernberg_Nordfassade_St._Sebaldus_Church_Nuremberg_northern_facade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 2999511,
+      "bytes": 312527,
       "contentType": "image/jpeg"
     },
     {
@@ -9485,7 +9459,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:-wuppertaler\" title=\"User:-wuppertaler\">-wuppertaler</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/GER_N%C3%BCrnberg%2C_Staatstheater_0002.jpg/1280px-GER_N%C3%BCrnberg%2C_Staatstheater_0002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/GER_N%C3%BCrnberg%2C_Staatstheater_0002.jpg/1280px-GER_N%C3%BCrnberg%2C_Staatstheater_0002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 283393,
+      "bytes": 339180,
       "contentType": "image/jpeg"
     },
     {
@@ -9514,7 +9488,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:EpsilonEridani\" title=\"User:EpsilonEridani\">EpsilonEridani</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Frauenkirche_%28Church_of_Our_Lady%29_Nuremberg_at_Night.jpg/1280px-Frauenkirche_%28Church_of_Our_Lady%29_Nuremberg_at_Night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Frauenkirche_%28Church_of_Our_Lady%29_Nuremberg_at_Night.jpg/1280px-Frauenkirche_%28Church_of_Our_Lady%29_Nuremberg_at_Night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 606221,
+      "bytes": 496686,
       "contentType": "image/jpeg"
     },
     {
@@ -9565,7 +9539,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Gerardus\" title=\"User:Gerardus\">Gerardus</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Drachten_Monument_NTM_02.JPG/1280px-Drachten_Monument_NTM_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Drachten_Monument_NTM_02.JPG/1280px-Drachten_Monument_NTM_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 558592,
+      "bytes": 498516,
       "contentType": "image/jpeg"
     },
     {
@@ -9759,7 +9733,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Yair-haklai\" title=\"User:Yair-haklai\">Yair Haklai</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Hall_of_Mirrors_%28Palace_of_Versailles%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Hall_of_Mirrors_%28Palace_of_Versailles%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "bytes": 434981,
+      "bytes": 417899,
       "contentType": "image/jpeg"
     },
     {
@@ -9788,7 +9762,7 @@
       "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Jean-Louis_Prieur\" class=\"extiw\" title=\"w:en:Jean-Louis Prieur\"><span title=\"French painter (1759-1795)\">Jean-Louis Prieur</span></a></bdi>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/1/14/Banquet_des_gardes_du_corps_dans_la_salle_de_l%27op%C3%A9ra_de_Versailles-1er_octobre_1789.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/1/14/Banquet_des_gardes_du_corps_dans_la_salle_de_l%27op%C3%A9ra_de_Versailles-1er_octobre_1789.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "bytes": 655411,
+      "bytes": 45410,
       "contentType": "image/jpeg"
     },
     {
@@ -9817,7 +9791,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Lutin&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Lutin (page does not exist)\">Lutin</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CHAPELLE-ROYALE-VERSAILLES-010.jpg/1280px-CHAPELLE-ROYALE-VERSAILLES-010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CHAPELLE-ROYALE-VERSAILLES-010.jpg/1280px-CHAPELLE-ROYALE-VERSAILLES-010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 463146,
+      "bytes": 404580,
       "contentType": "image/jpeg"
     },
     {
@@ -10016,7 +9990,7 @@
       "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Jan_van_der_Heyden\" class=\"extiw\" title=\"w:en:Jan van der Heyden\"><span title=\"Dutch painter, glass painter, draughtsman, printmaker and inventor (1637–1712)\">Jan van der Heyden</span></a></bdi> / <bdi><a href=\"https://en.wikipedia.org/wiki/en:Adriaen_van_de_Velde\" class=\"extiw\" title=\"w:en:Adriaen van de Velde\"><span title=\"Dutch painter and engraver (1636-1672)\">Adriaen van de Velde</span></a></bdi>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/9/95/Jan_van_der_Heyden_and_Adriaen_van_de_Velde_-_The_ancient_palace_of_the_dukes_of_Burgundy_in_Brussels.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/9/95/Jan_van_der_Heyden_and_Adriaen_van_de_Velde_-_The_ancient_palace_of_the_dukes_of_Burgundy_in_Brussels.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "bytes": 402136,
+      "bytes": 115139,
       "contentType": "image/jpeg"
     },
     {
@@ -10089,7 +10063,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Matthias_S%C3%BC%C3%9Fen\" title=\"User:Matthias Süßen\">User:Matthias Süßen</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Catania_roman_theatre_msu2017-9981.jpg/1280px-Catania_roman_theatre_msu2017-9981.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Catania_roman_theatre_msu2017-9981.jpg/1280px-Catania_roman_theatre_msu2017-9981.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 296390,
+      "bytes": 418110,
       "contentType": "image/jpeg"
     },
     {
@@ -10257,7 +10231,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:H005\" title=\"User:H005\">H005</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Piazza_Anfiteatro_Lucca_360.jpg/1280px-Piazza_Anfiteatro_Lucca_360.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Piazza_Anfiteatro_Lucca_360.jpg/1280px-Piazza_Anfiteatro_Lucca_360.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 255835,
+      "bytes": 81798,
       "contentType": "image/jpeg"
     },
     {
@@ -10426,7 +10400,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:A333\" class=\"mw-redirect\" title=\"User:A333\">Antti Leppänen</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/View_towards_Helsinki_Music_Centre_from_tower_of_National_Museum.jpg/1280px-View_towards_Helsinki_Music_Centre_from_tower_of_National_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/View_towards_Helsinki_Music_Centre_from_tower_of_National_Museum.jpg/1280px-View_towards_Helsinki_Music_Centre_from_tower_of_National_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 291425,
+      "bytes": 258458,
       "contentType": "image/jpeg"
     },
     {
@@ -10455,7 +10429,7 @@
       "artist": "Daderot",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Cathedral_Basilica_of_Saints_Peter_and_Paul_-_DSC06763.JPG/1280px-Cathedral_Basilica_of_Saints_Peter_and_Paul_-_DSC06763.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Cathedral_Basilica_of_Saints_Peter_and_Paul_-_DSC06763.JPG/1280px-Cathedral_Basilica_of_Saints_Peter_and_Paul_-_DSC06763.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 412867,
+      "bytes": 583455,
       "contentType": "image/jpeg"
     },
     {
@@ -10579,7 +10553,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Gerda_Arendt\" title=\"User:Gerda Arendt\">Gerda Arendt</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Frankfurt_Cathedral_and_Ironman.jpg/1280px-Frankfurt_Cathedral_and_Ironman.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Frankfurt_Cathedral_and_Ironman.jpg/1280px-Frankfurt_Cathedral_and_Ironman.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 732176,
+      "bytes": 503916,
       "contentType": "image/jpeg"
     },
     {
@@ -10670,7 +10644,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Palickap&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Palickap (page does not exist)\">Palickap</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Granada%2C_Carmen_de_los_M%C3%A1rtires%2C_Patio_Nazar%C3%AD_%281%29.jpg/1280px-Granada%2C_Carmen_de_los_M%C3%A1rtires%2C_Patio_Nazar%C3%AD_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Granada%2C_Carmen_de_los_M%C3%A1rtires%2C_Patio_Nazar%C3%AD_%281%29.jpg/1280px-Granada%2C_Carmen_de_los_M%C3%A1rtires%2C_Patio_Nazar%C3%AD_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 568102,
+      "bytes": 256462,
       "contentType": "image/jpeg"
     },
     {
@@ -10721,7 +10695,7 @@
       "artist": "<span typeof=\"mw:File\"><span><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Pictogram-voting_question.svg/20px-Pictogram-voting_question.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"15\" height=\"15\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Pictogram-voting_question.svg/40px-Pictogram-voting_question.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"250\" data-file-height=\"250\"></span></span>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Krom%C4%9B%C5%99%C3%AD%C5%BE_-_Kv%C4%9Btn%C3%A1_zahrada_-_Baroque_Flower_Garden_1665-1675_by_Italian_architects_Filiberto_Lucchese_%26_Giovanni_Pietro_Tencalla_-_Neoclassical_Entrance_Building_%26_Palm_Conservatory_1845_by_Anton_Arche_-_UNESCO_03.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Krom%C4%9B%C5%99%C3%AD%C5%BE_-_Kv%C4%9Btn%C3%A1_zahrada_-_Baroque_Flower_Garden_1665-1675_by_Italian_architects_Filiberto_Lucchese_%26_Giovanni_Pietro_Tencalla_-_Neoclassical_Entrance_Building_%26_Palm_Conservatory_1845_by_Anton_Arche_-_UNESCO_03.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 491410,
+      "bytes": 335937,
       "contentType": "image/jpeg"
     },
     {
@@ -10750,7 +10724,7 @@
       "artist": "Radosław Botev",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Church_of_Saint_Maurice_from_K%C5%99%C3%AD%C5%BEkovsk%C3%A9ho_Street_%28Krom%C4%9B%C5%99%C3%AD%C5%BE%29.jpg/1280px-Church_of_Saint_Maurice_from_K%C5%99%C3%AD%C5%BEkovsk%C3%A9ho_Street_%28Krom%C4%9B%C5%99%C3%AD%C5%BE%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Church_of_Saint_Maurice_from_K%C5%99%C3%AD%C5%BEkovsk%C3%A9ho_Street_%28Krom%C4%9B%C5%99%C3%AD%C5%BE%29.jpg/1280px-Church_of_Saint_Maurice_from_K%C5%99%C3%AD%C5%BEkovsk%C3%A9ho_Street_%28Krom%C4%9B%C5%99%C3%AD%C5%BE%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 486196,
+      "bytes": 408450,
       "contentType": "image/jpeg"
     },
     {
@@ -10779,7 +10753,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Fabiobordi&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Fabiobordi (page does not exist)\">Fabiobordi</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Prato_della_Valle-Pianta_Statue.jpg/1280px-Prato_della_Valle-Pianta_Statue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Prato_della_Valle-Pianta_Statue.jpg/1280px-Prato_della_Valle-Pianta_Statue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 162452,
+      "bytes": 225449,
       "contentType": "image/jpeg"
     },
     {
@@ -10837,7 +10811,7 @@
       "artist": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Lucamato&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Lucamato (page does not exist)\">Lucamato</a>",
       "imageSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Milano_-_Palazzo_della_Ragione.jpg/1280px-Milano_-_Palazzo_della_Ragione.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Milano_-_Palazzo_della_Ragione.jpg/1280px-Milano_-_Palazzo_della_Ragione.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bytes": 162134,
+      "bytes": 314857,
       "contentType": "image/jpeg"
     }
   ]
