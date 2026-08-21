@@ -1,0 +1,98 @@
+{
+  "schema": "ad-fontes-europa-poi-image-overrides/v1",
+  "notes": [
+    "These are manually reviewed Wikimedia Commons files selected because the automatically returned Wikipedia/Commons image was a logo, portrait, scan, emblem, unrelated place, or a non-representative interior/object image.",
+    "Rows without an override are still passed through the conservative display-image filter and Commons relevance ranking."
+  ],
+  "rows": [
+    {
+      "index": 0,
+      "commonsFile": "Paris - Conservatoire National Supérieur de Musique et de Danse (22896169063).jpg",
+      "reason": "建筑外景，替换学院 Logo"
+    },
+    {
+      "index": 2,
+      "commonsFile": "Royal College of Music, Kensington, London.jpg",
+      "reason": "建筑外景，替换 Farinelli 肖像"
+    },
+    {
+      "index": 37,
+      "commonsFile": "Universität Wien, Hauptgebäude.jpg",
+      "reason": "主楼外景，替换大学校徽"
+    },
+    {
+      "index": 42,
+      "commonsFile": "Berlin-Marstall-Musikhochschule Hanns Eisler-06-2017-gje.jpg",
+      "reason": "音乐学院建筑外景，替换 Logo"
+    },
+    {
+      "index": 46,
+      "commonsFile": "Humboldt University - Main building.jpg",
+      "reason": "主楼外景，替换大学 Logo"
+    },
+    {
+      "index": 49,
+      "commonsFile": "Mendelssohnhaus außen 1.jpg",
+      "reason": "故居外景，替换 Kurt Masur 胸像"
+    },
+    {
+      "index": 104,
+      "commonsFile": "Stary Teatr - Konserwatorium Muzyczne w Krakowie, fot. K. Schubert, MIK (49423798501).jpg",
+      "reason": "学院所在建筑外景，替换学院 Logo"
+    },
+    {
+      "index": 119,
+      "commonsFile": "Palazzo Poggi UniBo.jpg",
+      "reason": "博洛尼亚大学建筑外景，替换大学徽章"
+    },
+    {
+      "index": 147,
+      "commonsFile": "Zürcher Hochschule der Künste. Toni-Areal.jpg",
+      "reason": "苏黎世艺术大学 Toni-Areal 外景，替换 Logo"
+    },
+    {
+      "index": 152,
+      "commonsFile": "Masaryk University Campus Brno.jpg",
+      "reason": "马萨里克大学校园外景，替换大学 Logo"
+    },
+    {
+      "index": 209,
+      "commonsFile": "Certosa di Pavia (facciata).jpg",
+      "reason": "修道院立面外景，替换错误 PDF 扫描页"
+    },
+    {
+      "index": 211,
+      "commonsFile": "Palazzo centrale Università di Pavia.jpg",
+      "reason": "帕维亚大学主楼外景，替换大学 Logo"
+    },
+    {
+      "index": 223,
+      "commonsFile": "Teatro La Fenice (Venice) - Facade.jpg",
+      "reason": "凤凰歌剧院外立面，替换剧院徽章"
+    },
+    {
+      "index": 282,
+      "commonsFile": "Avila walls.jpg",
+      "reason": "阿维拉城墙实景，替换中国堡垒扫描图"
+    },
+    {
+      "index": 304,
+      "commonsFile": "Bologna - Facciata esterna Basilica di San Petronio - 202109220957.jpg",
+      "reason": "圣白托略圣殿外立面，替换祭坛/十字架近景"
+    }
+  ],
+  "needsUserPhoto": [
+    {
+      "index": 127,
+      "city": "卡塔尼亚",
+      "name": "贝利尼音乐学院",
+      "reason": "Wikimedia Commons 该条目目前可检索到的是管风琴/室内物件，没有找到可放心代表学院建筑的外景。"
+    },
+    {
+      "index": 203,
+      "city": "雅典",
+      "name": "雅典音乐厅",
+      "reason": "Commons 分类里现有的可用素材主要是 Logo、花园/人行道或室内图，没有找到足够清楚的可自由使用建筑外景；暂不拿 Logo 冒充。"
+    }
+  ]
+}
