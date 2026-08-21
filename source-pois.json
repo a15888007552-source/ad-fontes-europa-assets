@@ -2530,7 +2530,7 @@
       "city": "纽约",
       "name": "大都会歌剧院(林肯中心)",
       "kind": "城市建筑",
-      "wiki": "大都会歌剧院(林肯中心)",
+      "wiki": "Metropolitan Opera House (Lincoln Center)",
       "fallback": [
         -74,
         40.71
@@ -2628,7 +2628,7 @@
       "city": "芝加哥",
       "name": "会堂大厦(沙利文)",
       "kind": "城市建筑",
-      "wiki": "会堂大厦(沙利文)",
+      "wiki": "Auditorium Building (Chicago)",
       "fallback": [
         -87.63,
         41.88
@@ -2656,7 +2656,7 @@
       "city": "费城",
       "name": "音乐学会厅(Academy of Music)",
       "kind": "城市建筑",
-      "wiki": "音乐学会厅(Academy of Music)",
+      "wiki": "Academy of Music (Philadelphia)",
       "fallback": [
         -75.16,
         39.95
@@ -2992,7 +2992,7 @@
       "city": "宾根",
       "name": "希尔德加德受神启像(《认识主道》抄本)",
       "kind": "城市建筑",
-      "wiki": "希尔德加德受神启像(《认识主道》抄本)",
+      "wiki": "Scivias",
       "fallback": [
         7.9,
         49.97
@@ -3174,7 +3174,7 @@
       "city": "曼托瓦",
       "name": "比比恩纳剧院",
       "kind": "城市建筑",
-      "wiki": "比比恩纳剧院",
+      "wiki": "Teatro Bibiena",
       "fallback": [
         10.79,
         45.16
@@ -3412,7 +3412,7 @@
       "city": "艾森纳赫",
       "name": "巴赫故居",
       "kind": "城市建筑",
-      "wiki": "巴赫故居",
+      "wiki": "Bachhaus Eisenach",
       "fallback": [
         10.32,
         50.98
@@ -3510,7 +3510,7 @@
       "city": "柏林",
       "name": "柏林音乐厅(根德尔曼广场)",
       "kind": "城市建筑",
-      "wiki": "柏林音乐厅(根德尔曼广场)",
+      "wiki": "Konzerthaus Berlin",
       "fallback": [
         13.4,
         52.52
@@ -3566,7 +3566,7 @@
       "city": "汉堡",
       "name": "汉堡国家歌剧院",
       "kind": "城市建筑",
-      "wiki": "汉堡国家歌剧院",
+      "wiki": "Hamburg State Opera",
       "fallback": [
         9.99,
         53.55
@@ -3650,7 +3650,7 @@
       "city": "波恩",
       "name": "贝多芬纪念像",
       "kind": "城市建筑",
-      "wiki": "贝多芬纪念像",
+      "wiki": "Beethoven-Denkmal (Bonn)",
       "fallback": [
         7.1,
         50.73
@@ -3664,7 +3664,7 @@
       "city": "魏玛",
       "name": "魏玛剧院(德意志国家剧院)",
       "kind": "城市建筑",
-      "wiki": "魏玛剧院(德意志国家剧院)",
+      "wiki": "Deutsches Nationaltheater and Staatskapelle Weimar",
       "fallback": [
         11.33,
         50.98
@@ -4028,7 +4028,7 @@
       "city": "卑尔根",
       "name": "特罗豪根(格里格故居)",
       "kind": "城市建筑",
-      "wiki": "特罗豪根(格里格故居)",
+      "wiki": "Troldhaugen",
       "fallback": [
         5.32,
         60.39
@@ -4042,7 +4042,7 @@
       "city": "卑尔根",
       "name": "格里格音乐厅",
       "kind": "城市建筑",
-      "wiki": "格里格音乐厅",
+      "wiki": "Grieghallen",
       "fallback": [
         5.32,
         60.39
@@ -4056,7 +4056,7 @@
       "city": "卑尔根",
       "name": "布吕根码头",
       "kind": "城市建筑",
-      "wiki": "布吕根码头",
+      "wiki": "Bryggen",
       "fallback": [
         5.32,
         60.39
@@ -4140,7 +4140,7 @@
       "city": "翁弗勒尔",
       "name": "老船坞(Vieux Bassin)",
       "kind": "城市建筑",
-      "wiki": "老船坞(Vieux Bassin)",
+      "wiki": "Vieux Bassin",
       "fallback": [
         0.23,
         49.42
@@ -4266,7 +4266,7 @@
       "city": "博洛尼亚",
       "name": "圣白托略圣殿",
       "kind": "城市建筑",
-      "wiki": "圣白托略圣殿",
+      "wiki": "Basilica of San Petronio",
       "fallback": [
         11.34,
         44.49
@@ -4364,7 +4364,7 @@
       "city": "科隆",
       "name": "西德意志广播电台(WDR)",
       "kind": "城市建筑",
-      "wiki": "西德意志广播电台(WDR)",
+      "wiki": "WDR Funkhaus",
       "fallback": [
         6.96,
         50.94
@@ -4448,7 +4448,7 @@
       "city": "阿雷佐",
       "name": "圭多·达雷佐纪念像",
       "kind": "城市建筑",
-      "wiki": "圭多·达雷佐纪念像",
+      "wiki": "Guido of Arezzo",
       "fallback": [
         11.88,
         43.46
@@ -4476,7 +4476,7 @@
       "city": "根特",
       "name": "根特城堡(Gravensteen)",
       "kind": "城市建筑",
-      "wiki": "根特城堡(Gravensteen)",
+      "wiki": "Gravensteen",
       "fallback": [
         3.73,
         51.05
@@ -4490,7 +4490,7 @@
       "city": "根特",
       "name": "圣尼各老教堂与钟楼",
       "kind": "城市建筑",
-      "wiki": "圣尼各老教堂与钟楼",
+      "wiki": "St. Nicholas' Church, Ghent",
       "fallback": [
         3.73,
         51.05
@@ -4504,7 +4504,7 @@
       "city": "纽伦堡",
       "name": "圣塞巴尔杜斯教堂",
       "kind": "城市建筑",
-      "wiki": "圣塞巴尔杜斯教堂",
+      "wiki": "St. Sebaldus Church",
       "fallback": [
         11.08,
         49.45
@@ -4532,7 +4532,7 @@
       "city": "纽伦堡",
       "name": "纽伦堡圣母教堂",
       "kind": "城市建筑",
-      "wiki": "纽伦堡圣母教堂",
+      "wiki": "Frauenkirche, Nuremberg",
       "fallback": [
         11.08,
         49.45
@@ -4658,7 +4658,7 @@
       "city": "凡尔赛",
       "name": "凡尔赛宫·镜厅",
       "kind": "城市建筑",
-      "wiki": "凡尔赛宫·镜厅",
+      "wiki": "Hall of Mirrors",
       "fallback": [
         2.13,
         48.8
@@ -4686,7 +4686,7 @@
       "city": "凡尔赛",
       "name": "凡尔赛皇家礼拜堂",
       "kind": "城市建筑",
-      "wiki": "凡尔赛皇家礼拜堂",
+      "wiki": "Royal Chapel of Versailles",
       "fallback": [
         2.13,
         48.8
@@ -4826,7 +4826,7 @@
       "city": "卡塔尼亚",
       "name": "古希腊—罗马剧场",
       "kind": "城市建筑",
-      "wiki": "古希腊—罗马剧场",
+      "wiki": "Roman Theatre of Catania",
       "fallback": [
         15.09,
         37.5
@@ -4924,7 +4924,7 @@
       "city": "卢卡",
       "name": "普契尼故居",
       "kind": "城市建筑",
-      "wiki": "普契尼故居",
+      "wiki": "Puccini Museum",
       "fallback": [
         10.5,
         43.84
@@ -5064,7 +5064,7 @@
       "city": "法兰克福",
       "name": "法兰克福老歌剧院",
       "kind": "城市建筑",
-      "wiki": "法兰克福老歌剧院",
+      "wiki": "Alte Oper",
       "fallback": [
         8.68,
         50.11
@@ -5078,7 +5078,7 @@
       "city": "法兰克福",
       "name": "法兰克福皇帝大教堂",
       "kind": "城市建筑",
-      "wiki": "法兰克福皇帝大教堂",
+      "wiki": "Frankfurt Cathedral",
       "fallback": [
         8.68,
         50.11
@@ -5120,7 +5120,7 @@
       "city": "格拉纳达",
       "name": "格拉纳达园林(法雅所居一带)",
       "kind": "城市建筑",
-      "wiki": "格拉纳达园林(法雅所居一带)",
+      "wiki": "Carmen de los Mártires",
       "fallback": [
         -3.6,
         37.18
@@ -5148,7 +5148,7 @@
       "city": "克罗梅日什",
       "name": "花园（Květná zahrada）柱廊",
       "kind": "城市建筑",
-      "wiki": "花园（Květná zahrada）柱廊",
+      "wiki": "Květná garden",
       "fallback": [
         17.39,
         49.3
@@ -5162,7 +5162,7 @@
       "city": "克罗梅日什",
       "name": "圣莫里茨教堂与议会广场",
       "kind": "城市建筑",
-      "wiki": "圣莫里茨教堂与议会广场",
+      "wiki": "Church of Saint Maurice, Kroměříž",
       "fallback": [
         17.39,
         49.3
@@ -5176,7 +5176,7 @@
       "city": "帕多瓦",
       "name": "帕多瓦河谷草地广场（Prato della Valle）",
       "kind": "城市建筑",
-      "wiki": "帕多瓦河谷草地广场（Prato della Valle）",
+      "wiki": "Prato della Valle",
       "fallback": [
         11.88,
         45.41
