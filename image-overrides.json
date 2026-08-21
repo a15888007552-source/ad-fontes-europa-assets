@@ -1,98 +1,144 @@
 {
   "schema": "ad-fontes-europa-poi-image-overrides/v1",
   "notes": [
-    "These are manually reviewed Wikimedia Commons files selected because the automatically returned Wikipedia/Commons image was a logo, portrait, scan, emblem, unrelated place, or a non-representative interior/object image.",
-    "Rows without an override are still passed through the conservative display-image filter and Commons relevance ranking."
+    "这些是人工视觉复核过的 Wikimedia Commons 实景图，专门替换 Logo、校徽、人物肖像、绘画、扫描页、文字牌、器物近景或明显不对应地点的素材。",
+    "needsUserPhoto 中的点位不会再自动接受候选图，而是保留为空位，等用户提供真实地点照片后再加入。",
+    "资源缓存会保留 Wikimedia 文件页、作者和许可元数据；这里的覆盖只决定展示图片，不改变条目的文字来源。"
   ],
   "rows": [
-    {
-      "index": 0,
-      "commonsFile": "Paris - Conservatoire National Supérieur de Musique et de Danse (22896169063).jpg",
-      "reason": "建筑外景，替换学院 Logo"
-    },
-    {
-      "index": 2,
-      "commonsFile": "Royal College of Music, Kensington, London.jpg",
-      "reason": "建筑外景，替换 Farinelli 肖像"
-    },
-    {
-      "index": 37,
-      "commonsFile": "Universität Wien, Hauptgebäude.jpg",
-      "reason": "主楼外景，替换大学校徽"
-    },
-    {
-      "index": 42,
-      "commonsFile": "Berlin-Marstall-Musikhochschule Hanns Eisler-06-2017-gje.jpg",
-      "reason": "音乐学院建筑外景，替换 Logo"
-    },
-    {
-      "index": 46,
-      "commonsFile": "Humboldt University - Main building.jpg",
-      "reason": "主楼外景，替换大学 Logo"
-    },
-    {
-      "index": 49,
-      "commonsFile": "Mendelssohnhaus außen 1.jpg",
-      "reason": "故居外景，替换 Kurt Masur 胸像"
-    },
-    {
-      "index": 104,
-      "commonsFile": "Stary Teatr - Konserwatorium Muzyczne w Krakowie, fot. K. Schubert, MIK (49423798501).jpg",
-      "reason": "学院所在建筑外景，替换学院 Logo"
-    },
-    {
-      "index": 119,
-      "commonsFile": "Palazzo Poggi UniBo.jpg",
-      "reason": "博洛尼亚大学建筑外景，替换大学徽章"
-    },
-    {
-      "index": 147,
-      "commonsFile": "Zürcher Hochschule der Künste. Toni-Areal.jpg",
-      "reason": "苏黎世艺术大学 Toni-Areal 外景，替换 Logo"
-    },
-    {
-      "index": 152,
-      "commonsFile": "Masaryk University Campus Brno.jpg",
-      "reason": "马萨里克大学校园外景，替换大学 Logo"
-    },
-    {
-      "index": 209,
-      "commonsFile": "Certosa di Pavia (facciata).jpg",
-      "reason": "修道院立面外景，替换错误 PDF 扫描页"
-    },
-    {
-      "index": 211,
-      "commonsFile": "Palazzo centrale Università di Pavia.jpg",
-      "reason": "帕维亚大学主楼外景，替换大学 Logo"
-    },
-    {
-      "index": 223,
-      "commonsFile": "Teatro La Fenice (Venice) - Facade.jpg",
-      "reason": "凤凰歌剧院外立面，替换剧院徽章"
-    },
-    {
-      "index": 282,
-      "commonsFile": "Avila walls.jpg",
-      "reason": "阿维拉城墙实景，替换中国堡垒扫描图"
-    },
-    {
-      "index": 304,
-      "commonsFile": "Bologna - Facciata esterna Basilica di San Petronio - 202109220957.jpg",
-      "reason": "圣白托略圣殿外立面，替换祭坛/十字架近景"
-    }
+    {"index": 0, "commonsFile": "Paris - Conservatoire National Supérieur de Musique et de Danse (22896169063).jpg", "reason": "学院建筑外景，替换学院 Logo"},
+    {"index": 2, "commonsFile": "Royal College of Music, Kensington, London.jpg", "reason": "学院建筑外景，替换 Farinelli 肖像"},
+    {"index": 7, "commonsFile": "Alsergrund (Wien) - Schuberthaus (2).JPG", "reason": "舒伯特出生地建筑外景，替换旧版蚀刻画"},
+    {"index": 13, "commonsFile": "8395 - Milano - Giuseppe Rusnati (attr.), Facciata del Conservatorio - Foto Giovanni Dall'Orto, 31-Aug-2007.jpg", "reason": "米兰威尔第音乐学院外立面，替换错误城市的建筑图"},
+    {"index": 17, "commonsFile": "Prague 2018 015.JPG", "reason": "德沃夏克博物馆建筑外景，替换雕像/庭院图"},
+    {"index": 20, "commonsFile": "University Hall (Harvard University) - east facade.JPG", "reason": "哈佛大学建筑外景，替换校徽"},
+    {"index": 22, "commonsFile": "Yale School of Music (54106346494).jpg", "reason": "耶鲁音乐学院建筑外景，替换门牌近景"},
+    {"index": 24, "commonsFile": "Usc booth hall north face 1.jpg", "reason": "南加州大学音乐学院建筑外景，替换室内图"},
+    {"index": 30, "commonsFile": "EcoleNormaledeMusiquedeParis.JPG", "reason": "巴黎高等音乐师范学院建筑外景，替换演出照片"},
+    {"index": 31, "commonsFile": "Ircam place stravinsky.jpg", "reason": "IRCAM 所在建筑群实景俯瞰，替换录音室内景"},
+    {"index": 33, "commonsFile": "Trinity Laban Conservatoire of Music and Dance.jpg", "reason": "三一拉班音乐与舞蹈学院建筑外景，替换作曲家肖像"},
+    {"index": 35, "commonsFile": "Goldsmiths Main Building.jpg", "reason": "伦敦大学金史密斯学院建筑外景，替换校徽"},
+    {"index": 36, "commonsFile": "Universität für Musik und Darstellende Kunst.jpg", "reason": "维也纳 mdw 主楼外景，替换街景/车辆图"},
+    {"index": 37, "commonsFile": "Universität Wien, Hauptgebäude.jpg", "reason": "维也纳大学主楼外景，替换大学校徽"},
+    {"index": 41, "commonsFile": "HaydnsHouseInVienna.PNG", "reason": "海顿故居建筑外景，替换旧版绘画"},
+    {"index": 42, "commonsFile": "2006-09-10 Marstall01.jpg", "reason": "汉斯·艾斯勒音乐学院建筑外景，替换浮雕/文字近景"},
+    {"index": 46, "commonsFile": "Humboldt University - Main building.jpg", "reason": "洪堡大学主楼外景，替换大学 Logo"},
+    {"index": 49, "commonsFile": "Mendelssohnhaus außen 1.jpg", "reason": "门德尔松故居外景，替换胸像"},
+    {"index": 51, "commonsFile": "Universidad de Leipzig.jpg", "reason": "莱比锡大学建筑外景，替换纪念石文字"},
+    {"index": 53, "commonsFile": "1944 - Salzburg - Mozart Wohnhaus, Makartplatz.jpg", "reason": "莫扎特故居建筑外景，替换水彩画"},
+    {"index": 54, "commonsFile": "Salzburg Festspielhaus.jpg", "reason": "萨尔茨堡节日剧院建筑外景，替换门部近景"},
+    {"index": 55, "commonsFile": "BuildingUniversitySalzburg1.jpg", "reason": "萨尔茨堡大学建筑外景，替换 Logo/占位图"},
+    {"index": 58, "commonsFile": "Teatro dell'Opera a Roma.JPG", "reason": "罗马歌剧院建筑外景，替换旧演出照片"},
+    {"index": 59, "commonsFile": "Ingresso UniSapienza Notte.jpg", "reason": "罗马大学拉萨皮恩扎入口建筑实景，替换楼梯/门部近景"},
+    {"index": 62, "commonsFile": "FFUK Praha.JPG", "reason": "查理大学学院建筑外景，替换大学印章"},
+    {"index": 65, "commonsFile": "Budapest VI., Andrássy út 87 - 89 szám.jpg", "reason": "柯达伊纪念馆所在故居建筑外景，替换牌匾文字"},
+    {"index": 74, "commonsFile": "Boston University Marsh Chapel, Boston MA.jpg", "reason": "波士顿大学校园建筑外景，替换河景/桥景"},
+    {"index": 79, "commonsFile": "Levin Building Exterior.jpg", "reason": "宾夕法尼亚大学建筑外景，替换大学 Logo"},
+    {"index": 84, "commonsFile": "2019 UCLA Royce Hall 1.jpg", "reason": "加州大学洛杉矶分校标志性建筑外景，替换校徽"},
+    {"index": 97, "commonsFile": "Gnessinmoscow.jpg", "reason": "格涅辛音乐学院建筑外景，替换人物拼图"},
+    {"index": 104, "commonsFile": "Akademia Muzyczna Kraków.JPG", "reason": "克拉科夫音乐学院建筑外景，替换耳机/纸张器物图"},
+    {"index": 108, "commonsFile": "Madrid - Complutense University.jpg", "reason": "马德里康普顿斯大学建筑外景，替换文字/室内图"},
+    {"index": 110, "commonsFile": "Stavros Niarchos Foundation Cultural Center - 24106959302.jpg", "reason": "希腊国家歌剧院所在的斯塔夫罗斯·尼亚科斯文化中心外景，替换黑板/演出室内图"},
+    {"index": 114, "commonsFile": "Facciata del portone Conservatorio San Pietro a Majella.jpg", "reason": "圣彼得罗·马耶拉音乐学院入口外景，替换演出照片"},
+    {"index": 115, "commonsFile": "Teatro San Carlo (Naples)-exterior.jpg", "reason": "圣卡洛剧院外立面，替换雕像近景"},
+    {"index": 116, "commonsFile": "FedericoII.jpg", "reason": "那不勒斯费德里科二世大学建筑外景，替换雕像/纪念物"},
+    {"index": 119, "commonsFile": "Bologna - Palazzo Poggi 3429.jpg", "reason": "博洛尼亚大学博洛尼亚宫外景，替换门廊近景"},
+    {"index": 123, "commonsFile": "Genova Albaro villa Bombrini.jpg", "reason": "帕加尼尼音乐学院所在建筑外景，替换牌匾文字"},
+    {"index": 124, "commonsFile": "Pesaro - Conservatorio Gioachino Rossini - 202209021914.jpg", "reason": "罗西尼音乐学院建筑外景，替换旧黑白图"},
+    {"index": 126, "commonsFile": "Casa natale di Gaetano Donizetti.jpg", "reason": "多尼采蒂出生故居外景，替换人物画"},
+    {"index": 128, "commonsFile": "Catania - Museo civico Belliniano P1766.JPG", "reason": "贝利尼出生地所在建筑外景，替换艺术品/室内图"},
+    {"index": 133, "commonsFile": "Hauptgebäude der Universität zu Köln - Ansicht von Süden-5642.jpg", "reason": "科隆大学主楼外景，替换大学 Logo"},
+    {"index": 137, "commonsFile": "Hauptgebäude LMU Eingangsfassade.jpg", "reason": "慕尼黑大学主楼外景，替换黑色占位图"},
+    {"index": 144, "commonsFile": "Hochschule für Musik Franz Liszt Weimar, Platz der Demokratie 2, Weimar-0952.jpg", "reason": "魏玛李斯特音乐学院建筑外景，替换旧黑白图"},
+    {"index": 148, "commonsFile": "Hauptgebäude der Universität Zürich 2022-09-24 01.jpg", "reason": "苏黎世大学主楼外景，替换大学 Logo"},
+    {"index": 155, "commonsFile": "Palazzo Bo (Padua).jpg", "reason": "帕多瓦大学历史主楼博宫实景，替换人物/官方活动图"},
+    {"index": 156, "commonsFile": "Conservatoire royal de musique.jpg", "reason": "列日皇家音乐学院建筑外景，替换旧黑白图"},
+    {"index": 161, "commonsFile": "Porte Mars 04.jpg", "reason": "马尔斯门实景，替换施工/遮挡图"},
+    {"index": 164, "commonsFile": "Église Saint-Géry ext 1.JPG", "reason": "圣热里教堂外景，替换雕像近景"},
+    {"index": 166, "commonsFile": "Conde sur escaut eglise st wasnon.jpg", "reason": "圣瓦斯农教堂外景，替换旧版绘图"},
+    {"index": 176, "commonsFile": "Elgar-birthplace.jpg", "reason": "埃尔加出生地博物馆外景，替换人物/图像素材"},
+    {"index": 178, "commonsFile": "Liège - Opéra Royal de Wallonie (49345905171).jpg", "reason": "瓦隆皇家歌剧院外景，替换舞台灯光/设备图"},
+    {"index": 185, "commonsFile": "Trinity Church, Boston, Massachusetts - front oblique view.JPG", "reason": "波士顿三一教堂外景，替换墓地/石碑视图"},
+    {"index": 186, "commonsFile": "Orchestra Hall, Chicago Symphony Center.jpg", "reason": "芝加哥交响乐中心外景，替换乐团合影"},
+    {"index": 187, "commonsFile": "Louis H. Sullivan - Auditorium Building, Chicago, IL.jpg", "reason": "芝加哥礼堂大厦外景，替换旧明信片/插图"},
+    {"index": 189, "commonsFile": "Academy of Music, Philadelphia.jpg", "reason": "费城音乐学院建筑外景，替换室内走廊图"},
+    {"index": 191, "commonsFile": "Independence Hall Exterior Front.jpg", "reason": "独立宫外景，替换牌匾文字图"},
+    {"index": 208, "commonsFile": "Rom, das Teatro Argentina.JPG", "reason": "阿根廷剧院外立面，替换室内观众厅图"},
+    {"index": 224, "commonsFile": "Sant Andrea straight.jpg", "reason": "圣安德烈大教堂外立面，替换无图状态"},
+    {"index": 225, "commonsFile": "Ducal Palace in Mantua (1).jpg", "reason": "贡扎加公爵宫建筑外景，替换无图状态"},
+    {"index": 228, "commonsFile": "Museo del Violino visto da Piazza Guglielmo Marconi, Cremona.jpg", "reason": "克雷莫纳提琴博物馆建筑外景，替换提琴藏品近景"},
+    {"index": 240, "commonsFile": "Eisenstadt - Schloss Esterhazy.JPG", "reason": "埃斯特哈齐宫外景，替换无图状态"},
+    {"index": 241, "commonsFile": "Eisenstadt Haydnkirche.JPG", "reason": "海顿山教堂外景，替换无图状态"},
+    {"index": 243, "commonsFile": "BachhausEisenach-pjt.jpg", "reason": "巴赫故居博物馆外景，替换历史人群/展览照片"},
+    {"index": 247, "commonsFile": "Semperoper-dresden-front.jpg", "reason": "森佩尔歌剧院外景，替换无图状态"},
+    {"index": 254, "commonsFile": "2022-09-20-Hamburgische-Staatsoper.jpg", "reason": "汉堡国家歌剧院外景，替换人物照片"},
+    {"index": 262, "commonsFile": "Exterior of Liszthaus, Weimar.jpg", "reason": "李斯特故居外景，替换无图状态"},
+    {"index": 263, "commonsFile": "Weimar Herderkirche.jpg", "reason": "赫尔德教堂外景，替换无图状态"},
+    {"index": 270, "commonsFile": "Prague National Theatre 201906.jpg", "reason": "布拉格国家剧院外景，替换旧版插图"},
+    {"index": 274, "commonsFile": "Church of Holy Cross in Warsaw.PNG", "reason": "圣十字教堂外景，替换无图状态"},
+    {"index": 281, "commonsFile": "CONDE Chateau des comtes de Hainaut.jpg", "reason": "孔代-苏莱斯科历史建筑实景，替换无图状态"},
+    {"index": 284, "commonsFile": "Teatro Real de Madrid. Fachada principal.jpg", "reason": "皇家剧院正立面，替换门部近景"},
+    {"index": 285, "commonsFile": "Teatro de la Zarzuela - Exterior - Madrid 01.jpg", "reason": "萨苏埃拉剧院外景，替换人物/雕像近景"},
+    {"index": 286, "commonsFile": "Auditorio Nacional de Música, Madrid.JPG", "reason": "西班牙国家音乐厅外景，替换无图状态"},
+    {"index": 291, "commonsFile": "Tonhalle aussen.jpg", "reason": "苏黎世音乐厅外景，替换室内厅堂图"},
+    {"index": 296, "commonsFile": "Honfleur - Eglise Sainte Catherine.jpg", "reason": "圣凯瑟琳木教堂外景，替换无图状态"},
+    {"index": 297, "commonsFile": "31 - Toulouse - Basilique Saint-Sernin - Facade.jpg", "reason": "圣塞尔南大教堂外立面，替换无图状态"},
+    {"index": 299, "commonsFile": "Halle aux grains Toulouse.jpg", "reason": "图卢兹谷物厅建筑外景，替换现场演奏者照片"},
+    {"index": 301, "commonsFile": "Façade de l'Opéra de Limoges.jpg", "reason": "利摩日歌剧院外立面，替换无图状态"},
+    {"index": 302, "commonsFile": "Archiginnasio Bologna 01.jpg", "reason": "阿尔基金纳西奥宫建筑实景，替换无图状态"},
+    {"index": 303, "commonsFile": "Bologna Teatro Comunale Esterno 1.jpg", "reason": "博洛尼亚市立剧院外景，替换无图状态"},
+    {"index": 307, "commonsFile": "Kraków, Gmach Filharmonii Krakowskiej.jpg", "reason": "克拉科夫爱乐厅建筑外景，替换无图状态"},
+    {"index": 309, "commonsFile": "2025 Tallinn theatre \"Estonia\".jpg", "reason": "爱沙尼亚剧院建筑外景，替换无图状态"},
+    {"index": 311, "commonsFile": "Cologne Germany WDR-Funkhaus-Köln-01.jpg", "reason": "西德意志广播电台广播大楼外景，替换乐队合影"},
+    {"index": 312, "commonsFile": "Exterior of Cologne Cathedral-.jpg", "reason": "科隆大教堂外景，替换钟部/器物近景"},
+    {"index": 314, "commonsFile": "ΑΡΧΑΙΟ ΘΕΑΤΡΟ ΜΥΤΙΛΗΝΗΣ.jpg", "reason": "米蒂利尼古剧场遗址实景，替换无图状态"},
+    {"index": 317, "commonsFile": "A statue of Guido Monaco (Arezzo) on Piazza of Guido Monaco in Arezzo, Italy.jpg", "reason": "圭多·达雷佐纪念像实景，替换无图状态"},
+    {"index": 318, "commonsFile": "Graslei Ghent.jpg", "reason": "根特格拉斯莱沿岸实景，替换无图状态"},
+    {"index": 324, "commonsFile": "Schloss Mannheim (1).jpg", "reason": "曼海姆宫外景，替换无图状态"},
+    {"index": 325, "commonsFile": "Mannheim Nationaltheater 20130111.jpg", "reason": "曼海姆国家剧院外景，替换无图状态"},
+    {"index": 326, "commonsFile": "Mannheim Jesuitenkirche Front 1.jpg", "reason": "曼海姆耶稣会教堂外景，替换无图状态"},
+    {"index": 327, "commonsFile": "070204 (90) Mons.JPG", "reason": "蒙斯市政厅与钟楼实景，替换无图状态"},
+    {"index": 328, "commonsFile": "Mons Saint Waltrude Collegiate Church.jpg", "reason": "圣沃德吕教堂外景，替换无图状态"},
+    {"index": 337, "commonsFile": "Genova Cattedrale di San Lorenzo Esterno Facciata 1.jpg", "reason": "圣洛伦佐主教座堂外立面，替换无图状态"},
+    {"index": 338, "commonsFile": "Facade of the Parma cathedral.jpg", "reason": "帕尔马主教座堂外立面实景，替换无图状态"},
+    {"index": 339, "commonsFile": "Teatro Regio (Parma) 2013-10-13.jpg", "reason": "帕尔马皇家歌剧院外景，替换无图状态"},
+    {"index": 341, "commonsFile": "Palazzo Ducale (Pesaro).jpg", "reason": "佩萨罗公爵宫外景，替换风景画"},
+    {"index": 342, "commonsFile": "Teatro Rossini, Pesaro.jpg", "reason": "罗西尼剧院外景，替换无图状态"},
+    {"index": 343, "commonsFile": "Casa Rossini (6).jpg", "reason": "罗西尼故居外景，替换无图状态"},
+    {"index": 345, "commonsFile": "Teatro Bellini exterior 2-11-2024.jpg", "reason": "贝利尼歌剧院外景，替换无图状态"},
+    {"index": 347, "commonsFile": "Bergamo Alta.jpg", "reason": "贝加莫上城实景，替换无图状态"},
+    {"index": 352, "commonsFile": "Lucca - Cathedral - Front.jpg", "reason": "圣马蒂诺主教座堂外立面，替换无图状态"},
+    {"index": 354, "commonsFile": "Edward Elgar statue, Worcester, England - DSCF0692.JPG", "reason": "伍斯特埃尔加雕像实景，替换无图状态"},
+    {"index": 358, "commonsFile": "Janackovo Divadlo Brno 2009.JPG", "reason": "亚纳切克剧院外景，替换无图状态"},
+    {"index": 359, "commonsFile": "Brno Mahenovo divadlo.jpg", "reason": "马亨剧院外景，替换无图状态"},
+    {"index": 360, "commonsFile": "Oper Frankfurt facade.jpg", "reason": "法兰克福歌剧院外景，替换无图状态"},
+    {"index": 366, "commonsFile": "Arcibiskupský zámek a Arcidiecézní muzeum Kroměříž.jpg", "reason": "克罗梅日什大主教宫外景，替换无图状态"},
+    {"index": 369, "commonsFile": "Prato della valle padua.jpg", "reason": "帕多瓦河谷草地广场实景，替换无图状态"}
   ],
   "needsUserPhoto": [
-    {
-      "index": 127,
-      "city": "卡塔尼亚",
-      "name": "贝利尼音乐学院",
-      "reason": "Wikimedia Commons 该条目目前可检索到的是管风琴/室内物件，没有找到可放心代表学院建筑的外景。"
-    },
-    {
-      "index": 203,
-      "city": "雅典",
-      "name": "雅典音乐厅",
-      "reason": "Commons 分类里现有的可用素材主要是 Logo、花园/人行道或室内图，没有找到足够清楚的可自由使用建筑外景；暂不拿 Logo 冒充。"
-    }
+    {"index": 10, "city": "莱比锡", "name": "莱比锡音乐与戏剧学院", "reason": "目前没有找到能确认属于该学院主楼的可靠实景图；搜索结果容易混入其他学校或 Logo。"},
+    {"index": 76, "city": "芝加哥", "name": "德保罗大学表演艺术学院", "reason": "没有找到能确认对应表演艺术学院建筑的清晰实景图。"},
+    {"index": 80, "city": "费城", "name": "天普大学博耶音乐与舞蹈学院", "reason": "没有找到能确认对应博耶音乐与舞蹈学院建筑的清晰实景图。"},
+    {"index": 86, "city": "华盛顿", "name": "美国国会图书馆音乐部", "reason": "现有候选主要是馆内藏品或室内阅读空间；没有把音乐部所在位置和外景可靠对应起来。"},
+    {"index": 90, "city": "匹兹堡", "name": "卡内基梅隆大学音乐学院", "reason": "没有找到能确认对应音乐学院建筑的可靠实景图。"},
+    {"index": 93, "city": "纽黑文", "name": "耶鲁大学", "reason": "目前没有在该条目上找到既能代表耶鲁大学又不是 Logo/校徽的稳定候选图。"},
+    {"index": 117, "city": "威尼斯", "name": "贝内德托·马尔切洛音乐学院", "reason": "没有找到能确认属于该音乐学院的清晰建筑外景。"},
+    {"index": 121, "city": "曼托瓦", "name": "卢奇奥·坎皮亚尼音乐学院", "reason": "已确认学校地址位于旧兵营建筑内，但没有找到可以放心代表该校的清晰实景图。"},
+    {"index": 125, "city": "贝尔加莫", "name": "多尼采蒂音乐学院", "reason": "没有找到能确认对应学院主楼的可靠实景图。"},
+    {"index": 127, "city": "卡塔尼亚", "name": "贝利尼音乐学院", "reason": "现有素材主要是管风琴/室内物件，没有找到可放心代表学院建筑的外景。"},
+    {"index": 129, "city": "卢卡", "name": "博凯里尼音乐学院", "reason": "没有找到能确认对应音乐学院建筑的可靠实景图。"},
+    {"index": 131, "city": "利摩日", "name": "圣马夏尔修道院遗址", "reason": "搜索结果容易混入修道院手稿、展品或其他利摩日建筑；尚未找到可靠遗址实景。"},
+    {"index": 139, "city": "德累斯顿", "name": "卡尔·玛丽亚·冯·韦伯音乐学院", "reason": "没有找到能确认对应学院建筑的可靠实景图。"},
+    {"index": 154, "city": "塔林", "name": "爱沙尼亚音乐与戏剧学院", "reason": "没有找到能确认对应学院建筑的清晰实景图。"},
+    {"index": 172, "city": "利摩日", "name": "圣马夏尔修道院遗址", "reason": "没有找到能准确对应遗址位置的可靠实景图。"},
+    {"index": 182, "city": "洛杉矶", "name": "好莱坞露天剧场", "reason": "目前候选图多为演出、人物或舞台照片，没有找到适合作为地点主图的场地外景。"},
+    {"index": 194, "city": "纽黑文", "name": "耶鲁大学斯普拉格纪念堂", "reason": "目前只有门牌/铭牌近景；没有找到已确认是该建筑整体外观的可靠图。"},
+    {"index": 202, "city": "雅典", "name": "希罗德·阿提库斯剧场", "reason": "当前缓存没有可靠实景候选；暂不使用演出人物或舞台图。"},
+    {"index": 203, "city": "雅典", "name": "雅典音乐厅", "reason": "Commons 中较清楚的素材主要是 Logo、花园/人行道或室内图，建筑外景候选分辨率和对应关系不足。"},
+    {"index": 205, "city": "克罗顿", "name": "卡波·科隆纳神庙遗址", "reason": "没有找到能稳定确认对应遗址的清晰实景图。"},
+    {"index": 212, "city": "宾根", "name": "鼠塔与莱茵河", "reason": "没有找到能同时清楚呈现鼠塔和准确地点关系的可靠实景图。"},
+    {"index": 213, "city": "宾根", "name": "希尔德加德手稿/相关遗址", "reason": "现有素材本身是手稿插图，不是可作为地点主图的现实场所；需要你提供遗址/纪念地点实景。"},
+    {"index": 221, "city": "佛罗伦萨", "name": "佩尔戈拉剧院", "reason": "没有找到能确认对应剧院外观的可靠实景图。"},
+    {"index": 333, "city": "凡尔赛", "name": "凡尔赛皇家歌剧院", "reason": "Commons 主要是剧院内部或历史绘画；目前没有找到适合作为主图的建筑外景。"}
   ]
 }
