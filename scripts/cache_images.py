@@ -24,6 +24,7 @@ COMMONS_FALLBACK_MAX = 372
 BATCH_ONLY = os.environ.get("CACHE_BATCH_ONLY", "0") == "1"
 BATCH_START = int(os.environ.get("CACHE_BATCH_START", "0"))
 BATCH_END = int(os.environ.get("CACHE_BATCH_END", "10"))
+FORCE_REDOWNLOAD = os.environ.get("CACHE_FORCE_REDOWNLOAD", "0") == "1"
 BATCH_INDEXES = {
     int(value.strip())
     for value in os.environ.get("CACHE_INDEXES", "").split(",")
@@ -401,7 +402,12 @@ def process(row: dict) -> dict:
         # The Wikimedia thumbnail URL normally carries the final raster type.
         guessed_ext = extension("", image_source)
         destination = IMAGE_DIR / f"{prefix}{guessed_ext}"
-        if destination.exists() and destination.stat().st_size:
+        # The asset filename is derived from the POI key, not from the source
+        # image URL.  When a logo/portrait/scan is replaced by a reviewed
+        # Commons exterior, the destination path therefore stays the same.
+        # Do not silently keep stale bytes when the workflow explicitly asks
+        # for a refresh.
+        if destination.exists() and destination.stat().st_size and not FORCE_REDOWNLOAD:
             content_type = mimetypes.guess_type(destination.name)[0] or "image/jpeg"
             size = destination.stat().st_size
         else:
