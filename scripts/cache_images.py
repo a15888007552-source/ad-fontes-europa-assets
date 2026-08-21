@@ -94,21 +94,27 @@ def is_bad_display_image(poi: dict, image_source: str, source_title: str = "") -
     return False
 
 
-def load_image_overrides() -> dict[str, dict]:
+def load_image_overrides() -> tuple[dict[str, dict], dict[str, dict]]:
     if not IMAGE_OVERRIDES_FILE.exists():
-        return {}
+        return {}, {}
     try:
         payload = json.loads(IMAGE_OVERRIDES_FILE.read_text(encoding="utf-8"))
-        return {
+        rows = {
             str(row.get("index")): row
             for row in (payload.get("rows") or [])
             if row.get("index") is not None
         }
+        needs_user_photo = {
+            str(row.get("index")): row
+            for row in (payload.get("needsUserPhoto") or [])
+            if row.get("index") is not None
+        }
+        return rows, needs_user_photo
     except Exception:
-        return {}
+        return {}, {}
 
 
-IMAGE_OVERRIDES = load_image_overrides()
+IMAGE_OVERRIDES, NEEDS_USER_PHOTO = load_image_overrides()
 
 
 def get_json(url: str, timeout: int = 35) -> dict:
@@ -350,6 +356,17 @@ def process(row: dict) -> dict:
     result["asset"] = None
     result["status"] = "pending"
     try:
+        needs_user_photo = NEEDS_USER_PHOTO.get(str(result.get("index")))
+        if needs_user_photo:
+            # A reviewed no-photo decision must win over the generic Wikipedia
+            # thumbnail and Commons search.  Otherwise a later cache refresh
+            # can reintroduce exactly the portrait/logo/object image that was
+            # rejected during the visual audit.
+            result["status"] = "no-suitable-image"
+            result["needsUserPhoto"] = True
+            result["reason"] = needs_user_photo.get("reason") or "需要人工提供真实地点实景图"
+            result["imageSource"] = ""
+            return result
         page, searched, query_title = resolve_page(row)
         image_source = ""
         if page:
